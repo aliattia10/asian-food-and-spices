@@ -25,10 +25,10 @@ const Header = () => {
           <Link to="/" className="flex items-center gap-2">
             <span className="text-2xl">🏪</span>
             <div className="flex flex-col">
-              <span className="font-display text-xl md:text-2xl font-bold text-primary">
-                Asia Market
+              <span className="font-display text-lg md:text-xl font-bold text-primary leading-tight">
+                Asian food and spices
               </span>
-              <span className="text-xs text-muted-foreground -mt-1">Genève</span>
+              <span className="text-xs text-muted-foreground -mt-0.5">SÀRL</span>
             </div>
           </Link>
           

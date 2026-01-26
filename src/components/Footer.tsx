@@ -13,7 +13,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <span className="text-2xl">🏪</span>
-              <span className="font-display text-xl font-bold">Asia Market Genève</span>
+              <span className="font-display text-xl font-bold">Asian food and spices SÀRL</span>
             </div>
             <p className="text-background/70 text-sm leading-relaxed">
               {t('aboutText')}
@@ -90,7 +90,7 @@ const Footer = () => {
         
         {/* Bottom */}
         <div className="border-t border-background/20 mt-10 pt-6 text-center text-background/50 text-sm">
-          <p>© 2026 Asia Market Genève. {t('allRightsReserved')}.</p>
+          <p>© 2026 Asian food and spices SÀRL. {t('allRightsReserved')}.</p>
         </div>
       </div>
     </footer>
