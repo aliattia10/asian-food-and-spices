@@ -5,13 +5,14 @@ import ProductCard from '@/components/ProductCard';
 import CategoryCard from '@/components/CategoryCard';
 import WhyUs from '@/components/WhyUs';
 import Newsletter from '@/components/Newsletter';
+import BrandStory from '@/components/BrandStory';
 import { Button } from '@/components/ui/button';
 import { products, categories } from '@/data/products';
 import { useLanguage } from '@/contexts/LanguageContext';
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight, Sparkles } from 'lucide-react';
 
 const Index = () => {
-  const { t } = useLanguage();
+  const { t, language } = useLanguage();
   
   const featuredProducts = products.slice(0, 8);
   const displayCategories = categories.slice(0, 6);
@@ -22,13 +23,17 @@ const Index = () => {
       <Hero />
       
       {/* Categories */}
-      <section className="py-16">
+      <section className="py-20 bg-background">
         <div className="container mx-auto px-4">
-          <div className="text-center mb-10">
-            <h2 className="font-display text-3xl md:text-4xl font-bold mb-3">
+          <div className="text-center mb-12">
+            <div className="inline-flex items-center gap-2 bg-accent/10 text-accent-foreground px-4 py-2 rounded-full mb-4">
+              <Sparkles className="h-4 w-4" />
+              <span className="text-sm font-medium">{language === 'fr' ? 'Découvrez' : 'Discover'}</span>
+            </div>
+            <h2 className="font-display text-3xl md:text-4xl lg:text-5xl font-bold mb-4">
               {t('featuredCategories')}
             </h2>
-            <p className="text-muted-foreground">
+            <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
               {t('exploreCategories')}
             </p>
           </div>
@@ -39,8 +44,8 @@ const Index = () => {
             ))}
           </div>
           
-          <div className="text-center mt-8">
-            <Button asChild variant="outline" className="gap-2">
+          <div className="text-center mt-10">
+            <Button asChild variant="outline" size="lg" className="gap-2">
               <Link to="/shop">
                 {t('viewAll')}
                 <ArrowRight className="h-4 w-4" />
@@ -50,17 +55,24 @@ const Index = () => {
         </div>
       </section>
       
+      {/* Brand Story */}
+      <BrandStory />
+      
       {/* Why Us */}
       <WhyUs />
       
       {/* Featured Products */}
-      <section className="py-16">
+      <section className="py-20 bg-background">
         <div className="container mx-auto px-4">
-          <div className="text-center mb-10">
-            <h2 className="font-display text-3xl md:text-4xl font-bold mb-3">
+          <div className="text-center mb-12">
+            <div className="inline-flex items-center gap-2 bg-primary/10 text-primary px-4 py-2 rounded-full mb-4">
+              <span className="text-lg">⭐</span>
+              <span className="text-sm font-medium">{language === 'fr' ? 'Sélection' : 'Selection'}</span>
+            </div>
+            <h2 className="font-display text-3xl md:text-4xl lg:text-5xl font-bold mb-4">
               {t('featuredProducts')}
             </h2>
-            <p className="text-muted-foreground">
+            <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
               {t('bestSellers')}
             </p>
           </div>
@@ -71,10 +83,10 @@ const Index = () => {
             ))}
           </div>
           
-          <div className="text-center mt-10">
-            <Button asChild size="lg" className="gap-2">
+          <div className="text-center mt-12">
+            <Button asChild size="lg" className="gap-2 px-8">
               <Link to="/shop">
-                {t('viewAll')}
+                {language === 'fr' ? 'Voir Tous les Produits' : 'View All Products'}
                 <ArrowRight className="h-4 w-4" />
               </Link>
             </Button>
