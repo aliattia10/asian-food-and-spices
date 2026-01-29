@@ -7,6 +7,7 @@ export interface Product {
   category: string;
   categoryFr: string;
   image: string;
+  brand?: string;
 }
 
 export interface Category {
@@ -18,95 +19,128 @@ export interface Category {
 }
 
 export const products: Product[] = [
-  // Beverages & Tea
-  { id: "1", name: "Elephant Necto 12 x 500 ml", nameFr: "Elephant Necto 12 x 500 ml", unit: "1 x 6L", price: 14.9, category: "Beverages & Tea", categoryFr: "Boissons & Thé", image: "/placeholder.svg" },
-  { id: "2", name: "Elephant Necto 8 x 1.5 L", nameFr: "Elephant Necto 8 x 1.5 L", unit: "1 x 12L", price: 20.9, category: "Beverages & Tea", categoryFr: "Boissons & Thé", image: "/placeholder.svg" },
-  { id: "3", name: "Horlicks 6 x 400 g", nameFr: "Horlicks 6 x 400 g", unit: "1 x 2.4kg", price: 35.9, category: "Beverages & Tea", categoryFr: "Boissons & Thé", image: "/placeholder.svg" },
-  { id: "4", name: "PG Tips Tea Bags 12 x 40 pcs", nameFr: "Sachets de Thé PG Tips 12 x 40 pcs", unit: "1 x 480 bags", price: 26.9, category: "Beverages & Tea", categoryFr: "Boissons & Thé", image: "/placeholder.svg" },
-  { id: "5", name: "PG Tips Tea Bags 12 x 80 pcs", nameFr: "Sachets de Thé PG Tips 12 x 80 pcs", unit: "1 x 960 bags", price: 39.9, category: "Beverages & Tea", categoryFr: "Boissons & Thé", image: "/placeholder.svg" },
-  
-  // Coconut Products
-  { id: "6", name: "Aroy-D Coconut Milk UHT 12 x 1 L", nameFr: "Lait de Coco UHT Aroy-D 12 x 1 L", unit: "3 x 12L", price: 41.3, category: "Coconut Products", categoryFr: "Produits de Noix de Coco", image: "/placeholder.svg" },
-  { id: "7", name: "Maggi Coconut Milk Powder 12 x 1 kg", nameFr: "Lait de Coco en Poudre Maggi 12 x 1 kg", unit: "3 x 12kg", price: 154.8, category: "Coconut Products", categoryFr: "Produits de Noix de Coco", image: "/placeholder.svg" },
-  { id: "8", name: "TRS Desiccated Coconut Fine 6 x 1 kg", nameFr: "Noix de Coco Râpée Fine TRS 6 x 1 kg", unit: "1 x 6kg", price: 35.5, category: "Coconut Products", categoryFr: "Produits de Noix de Coco", image: "/placeholder.svg" },
-  { id: "9", name: "TRS Desiccated Coconut Medium 6 x 1 kg", nameFr: "Noix de Coco Râpée Moyenne TRS 6 x 1 kg", unit: "1 x 6kg", price: 41.9, category: "Coconut Products", categoryFr: "Produits de Noix de Coco", image: "/placeholder.svg" },
-  
-  // Dried Fish & Seafood
-  { id: "10", name: "SME Dried Queen Fish 25 x 200 g", nameFr: "Poisson Queen Séché SME 25 x 200 g", unit: "1 x 5kg", price: 124.9, category: "Dried Fish & Seafood", categoryFr: "Poissons & Fruits de Mer Séchés", image: "/placeholder.svg" },
-  { id: "11", name: "SME Dried Smoked Pangash Steak 25 x 200g", nameFr: "Steak de Pangash Fumé Séché SME 25 x 200g", unit: "1 x 5kg", price: 120.9, category: "Dried Fish & Seafood", categoryFr: "Poissons & Fruits de Mer Séchés", image: "/placeholder.svg" },
-  
-  // Ethnic Vegetables
-  { id: "12", name: "Asia Choi-Sum", nameFr: "Choi-Sum d'Asie", unit: "5.5 Kg", price: 3.6, category: "Ethnic Vegetables", categoryFr: "Légumes Ethniques", image: "/placeholder.svg" },
-  { id: "13", name: "Asia Kai-Lan", nameFr: "Kai-Lan d'Asie", unit: "6 Kg", price: 4.9, category: "Ethnic Vegetables", categoryFr: "Légumes Ethniques", image: "/placeholder.svg" },
-  { id: "14", name: "Asia Pak-Choi Shanghai", nameFr: "Pak-Choi Shanghai d'Asie", unit: "5.1 Kg", price: 2.8, category: "Ethnic Vegetables", categoryFr: "Légumes Ethniques", image: "/placeholder.svg" },
-  { id: "15", name: "Bitter Melon", nameFr: "Melon Amer", unit: "5 Kg", price: 7.5, category: "Ethnic Vegetables", categoryFr: "Légumes Ethniques", image: "/placeholder.svg" },
-  { id: "16", name: "Fresh Ginger Organic", nameFr: "Gingembre Frais Bio", unit: "13.6 Kg", price: 3.9, category: "Ethnic Vegetables", categoryFr: "Légumes Ethniques", image: "/placeholder.svg" },
-  { id: "17", name: "Okra Chinese Luffa", nameFr: "Okra Luffa Chinois", unit: "6.5 Kg", price: 5.9, category: "Ethnic Vegetables", categoryFr: "Légumes Ethniques", image: "/placeholder.svg" },
-  
-  // Fresh Herbs
-  { id: "18", name: "Lemongrass 12x100g", nameFr: "Citronnelle 12x100g", unit: "1 Colis", price: 14.5, category: "Fresh Herbs", categoryFr: "Herbes Fraîches", image: "/placeholder.svg" },
-  { id: "19", name: "Fresh Coriander x20", nameFr: "Coriandre Fraîche x20", unit: "1 Colis", price: 23.5, category: "Fresh Herbs", categoryFr: "Herbes Fraîches", image: "/placeholder.svg" },
-  { id: "20", name: "Curry Leaves 10x40g", nameFr: "Feuilles de Curry 10x40g", unit: "2 Colis", price: 22.0, category: "Fresh Herbs", categoryFr: "Herbes Fraîches", image: "/placeholder.svg" },
-  { id: "21", name: "Fresh Mint x20", nameFr: "Menthe Fraîche x20", unit: "1 Colis", price: 23.5, category: "Fresh Herbs", categoryFr: "Herbes Fraîches", image: "/placeholder.svg" },
-  
-  // Instant Noodles
-  { id: "22", name: "Mama Instant Noodle Chicken 30 x 55 g", nameFr: "Nouilles Instantanées Mama Poulet 30 x 55 g", unit: "1 x 1.65kg", price: 10.9, category: "Instant Noodles", categoryFr: "Nouilles Instantanées", image: "/placeholder.svg" },
-  { id: "23", name: "Mama Instant Noodle Duck 30 x 55 g", nameFr: "Nouilles Instantanées Mama Canard 30 x 55 g", unit: "1 x 1.65kg", price: 10.3, category: "Instant Noodles", categoryFr: "Nouilles Instantanées", image: "/placeholder.svg" },
-  { id: "24", name: "Mama Instant Tom Yum Shrimp 30 x 60 g", nameFr: "Nouilles Mama Tom Yum Crevettes 30 x 60 g", unit: "1 x 1.8kg", price: 10.9, category: "Instant Noodles", categoryFr: "Nouilles Instantanées", image: "/placeholder.svg" },
-  { id: "25", name: "Mama Instant Noodle Vegetable 30 x 60 g", nameFr: "Nouilles Instantanées Mama Légumes 30 x 60 g", unit: "1 x 1.8kg", price: 11.9, category: "Instant Noodles", categoryFr: "Nouilles Instantanées", image: "/placeholder.svg" },
-  
-  // Rice & Grains
-  { id: "26", name: "Kings Extra Long Basmati Rice 4 x 5kg", nameFr: "Riz Basmati Extra Long Kings 4 x 5kg", unit: "2 x 20kg", price: 49.9, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg" },
-  { id: "27", name: "Kings Keeri Samba Rice 4 x 5kg", nameFr: "Riz Keeri Samba Kings 4 x 5kg", unit: "2 x 20kg", price: 45.9, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg" },
-  { id: "28", name: "Kings Red Raw Rice 4 x 5kg", nameFr: "Riz Rouge Cru Kings 4 x 5kg", unit: "1 x 20kg", price: 35.9, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg" },
-  { id: "29", name: "Leela Par Boiled Rice 5 x 5 kg", nameFr: "Riz Étuvé Leela 5 x 5 kg", unit: "2 x 25kg", price: 51.9, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg" },
-  { id: "30", name: "Kings Suduru Samba 4 x 5 kg", nameFr: "Riz Suduru Samba Kings 4 x 5 kg", unit: "2 x 20kg", price: 65.9, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg" },
-  
-  // Pulses & Lentils
-  { id: "31", name: "TRS Red Lentils 10 x 1 kg", nameFr: "Lentilles Rouges TRS 10 x 1 kg", unit: "1 x 10kg", price: 25.9, category: "Pulses & Lentils", categoryFr: "Légumineuses & Lentilles", image: "/placeholder.svg" },
-  { id: "32", name: "TRS Chick Peas 6 x 2 kg", nameFr: "Pois Chiches TRS 6 x 2 kg", unit: "1 x 12kg", price: 32.9, category: "Pulses & Lentils", categoryFr: "Légumineuses & Lentilles", image: "/placeholder.svg" },
-  { id: "33", name: "TRS Moong Dal 8 x 500 g", nameFr: "Moong Dal TRS 8 x 500 g", unit: "3 x 4kg", price: 12.9, category: "Pulses & Lentils", categoryFr: "Légumineuses & Lentilles", image: "/placeholder.svg" },
-  { id: "34", name: "TRS Urid Dal 6 x 2 kg", nameFr: "Urid Dal TRS 6 x 2 kg", unit: "1 x 12kg", price: 35.9, category: "Pulses & Lentils", categoryFr: "Légumineuses & Lentilles", image: "/placeholder.svg" },
-  
-  // Spices & Seasonings
-  { id: "35", name: "Kings Jaffna Curry Powder 24 x 900 g", nameFr: "Poudre de Curry Jaffna Kings 24 x 900 g", unit: "1 x 21.6kg", price: 189.6, category: "Spices & Seasonings", categoryFr: "Épices & Assaisonnements", image: "/placeholder.svg" },
-  { id: "36", name: "TRS Black Pepper Whole 10 x 400 g", nameFr: "Poivre Noir Entier TRS 10 x 400 g", unit: "3 x 4kg", price: 49.9, category: "Spices & Seasonings", categoryFr: "Épices & Assaisonnements", image: "/placeholder.svg" },
-  { id: "37", name: "TRS Garam Masala Powder 20 x 100 g", nameFr: "Poudre de Garam Masala TRS 20 x 100 g", unit: "1 x 2kg", price: 22.9, category: "Spices & Seasonings", categoryFr: "Épices & Assaisonnements", image: "/placeholder.svg" },
-  { id: "38", name: "TRS Turmeric Powder 10 x 400 g", nameFr: "Poudre de Curcuma TRS 10 x 400 g", unit: "5 x 4kg", price: 20.9, category: "Spices & Seasonings", categoryFr: "Épices & Assaisonnements", image: "/placeholder.svg" },
-  { id: "39", name: "TRS Cumin Whole 10 x 400 g", nameFr: "Cumin Entier TRS 10 x 400 g", unit: "1 x 4kg", price: 48.9, category: "Spices & Seasonings", categoryFr: "Épices & Assaisonnements", image: "/placeholder.svg" },
-  { id: "40", name: "TRS Fennel Seeds 10 x 400 g", nameFr: "Graines de Fenouil TRS 10 x 400 g", unit: "3 x 4kg", price: 39.9, category: "Spices & Seasonings", categoryFr: "Épices & Assaisonnements", image: "/placeholder.svg" },
-  { id: "41", name: "TRS Kashmiri Chilli Powder 20 x 100 g", nameFr: "Poudre de Piment Kashmiri TRS 20 x 100 g", unit: "1 x 2kg", price: 37.9, category: "Spices & Seasonings", categoryFr: "Épices & Assaisonnements", image: "/placeholder.svg" },
-  
-  // Sauces & Condiments
-  { id: "42", name: "Mae Krua Oyster Sauce 12 x 600 ml", nameFr: "Sauce Huître Mae Krua 12 x 600 ml", unit: "1 x 7.2L", price: 35.9, category: "Sauces & Condiments", categoryFr: "Sauces & Condiments", image: "/placeholder.svg" },
-  { id: "43", name: "Pearl River Soy Sauce Dark 12 x 600 ml", nameFr: "Sauce Soja Foncée Pearl River 12 x 600 ml", unit: "1 x 7.2L", price: 33.9, category: "Sauces & Condiments", categoryFr: "Sauces & Condiments", image: "/placeholder.svg" },
-  { id: "44", name: "Dragon Tamarind 36 x 400 g", nameFr: "Tamarin Dragon 36 x 400 g", unit: "1 x 14.4kg", price: 79.9, category: "Sauces & Condiments", categoryFr: "Sauces & Condiments", image: "/placeholder.svg" },
-  
-  // Snacks & Crackers
-  { id: "45", name: "Maliban Chocolate Cream 12 x 500 g", nameFr: "Crème au Chocolat Maliban 12 x 500 g", unit: "1 x 6kg", price: 24.9, category: "Snacks & Crackers", categoryFr: "Snacks & Crackers", image: "/placeholder.svg" },
-  { id: "46", name: "TRS Papadam Plain 60 x 200 g", nameFr: "Papadam Nature TRS 60 x 200 g", unit: "1 x 12kg", price: 89.9, category: "Snacks & Crackers", categoryFr: "Snacks & Crackers", image: "/placeholder.svg" },
-  { id: "47", name: "TRS Popcorn 8 x 500 g", nameFr: "Popcorn TRS 8 x 500 g", unit: "3 x 4kg", price: 9.9, category: "Snacks & Crackers", categoryFr: "Snacks & Crackers", image: "/placeholder.svg" },
-  
-  // Flour & Baking
-  { id: "48", name: "Aashirvaad Atta Flour 10 x 2 kg", nameFr: "Farine Atta Aashirvaad 10 x 2 kg", unit: "1 x 20kg", price: 49.9, category: "Flour & Baking", categoryFr: "Farine & Pâtisserie", image: "/placeholder.svg" },
-  { id: "49", name: "TRS Gram Flour Fine 12 x 1 kg", nameFr: "Farine de Pois Chiche Fine TRS 12 x 1 kg", unit: "2 x 12kg", price: 29.9, category: "Flour & Baking", categoryFr: "Farine & Pâtisserie", image: "/placeholder.svg" },
-  
-  // Oils & Fats
-  { id: "50", name: "Parachute Coconut Oil 500 ml", nameFr: "Huile de Coco Parachute 500 ml", unit: "12 x 500ml", price: 6.9, category: "Oils & Fats", categoryFr: "Huiles & Graisses", image: "/placeholder.svg" },
-  { id: "51", name: "Subash Sesame Oil 15 x 750 ml", nameFr: "Huile de Sésame Subash 15 x 750 ml", unit: "3 x 11.25L", price: 97.5, category: "Oils & Fats", categoryFr: "Huiles & Graisses", image: "/placeholder.svg" },
+  // ==================== FRESH SEAFOOD & FISH ====================
+  { id: "sf-1", name: "Barramundi (Whole)", nameFr: "Barramundi (Entier)", unit: "per kg", price: 24.90, category: "Fresh Seafood & Fish", categoryFr: "Poissons & Fruits de Mer Frais", image: "/placeholder.svg" },
+  { id: "sf-2", name: "Trevally (Whole)", nameFr: "Carangue (Entier)", unit: "per kg", price: 19.90, category: "Fresh Seafood & Fish", categoryFr: "Poissons & Fruits de Mer Frais", image: "/placeholder.svg" },
+  { id: "sf-3", name: "Barracuda (Whole)", nameFr: "Barracuda (Entier)", unit: "per kg", price: 22.90, category: "Fresh Seafood & Fish", categoryFr: "Poissons & Fruits de Mer Frais", image: "/placeholder.svg" },
+  { id: "sf-4", name: "Emperor Fish (Whole)", nameFr: "Poisson Empereur (Entier)", unit: "per kg", price: 26.90, category: "Fresh Seafood & Fish", categoryFr: "Poissons & Fruits de Mer Frais", image: "/placeholder.svg" },
+  { id: "sf-5", name: "Blue Swimmer Crab", nameFr: "Crabe de Mer Bleu", unit: "per kg", price: 32.90, category: "Fresh Seafood & Fish", categoryFr: "Poissons & Fruits de Mer Frais", image: "/placeholder.svg" },
+  { id: "sf-6", name: "Sailfish (Thalapat)", nameFr: "Voilier (Thalapat)", unit: "per kg", price: 28.90, category: "Fresh Seafood & Fish", categoryFr: "Poissons & Fruits de Mer Frais", image: "/placeholder.svg" },
+  { id: "sf-7", name: "King Fish (Seer Fish)", nameFr: "Thazard Royal", unit: "per kg", price: 34.90, category: "Fresh Seafood & Fish", categoryFr: "Poissons & Fruits de Mer Frais", image: "/placeholder.svg" },
+  { id: "sf-8", name: "Black Pomfret", nameFr: "Pomfret Noir", unit: "per kg", price: 29.90, category: "Fresh Seafood & Fish", categoryFr: "Poissons & Fruits de Mer Frais", image: "/placeholder.svg" },
+  { id: "sf-9", name: "Silver Belly Fish", nameFr: "Poisson Ventre d'Argent", unit: "per kg", price: 16.90, category: "Fresh Seafood & Fish", categoryFr: "Poissons & Fruits de Mer Frais", image: "/placeholder.svg" },
+  { id: "sf-10", name: "Yellowfin Tuna (Whole)", nameFr: "Thon Albacore (Entier)", unit: "per kg", price: 38.90, category: "Fresh Seafood & Fish", categoryFr: "Poissons & Fruits de Mer Frais", image: "/placeholder.svg" },
+  { id: "sf-11", name: "Calamari (Squid)", nameFr: "Calamars (Encornets)", unit: "per kg", price: 21.90, category: "Fresh Seafood & Fish", categoryFr: "Poissons & Fruits de Mer Frais", image: "/placeholder.svg" },
+
+  // ==================== BUTCHER (FRESH & FROZEN MEAT) ====================
+  { id: "bt-1", name: "Leg of Mutton (Gigot)", nameFr: "Gigot d'Agneau", unit: "per kg", price: 29.90, category: "Butcher", categoryFr: "Boucherie", image: "/placeholder.svg" },
+  { id: "bt-2", name: "Mutton Meat (Chunks)", nameFr: "Viande de Mouton (Morceaux)", unit: "per kg", price: 24.90, category: "Butcher", categoryFr: "Boucherie", image: "/placeholder.svg" },
+  { id: "bt-3", name: "Lamb (Agneau)", nameFr: "Agneau", unit: "per kg", price: 32.90, category: "Butcher", categoryFr: "Boucherie", image: "/placeholder.svg" },
+  { id: "bt-4", name: "Oxtail (Queue de Boeuf)", nameFr: "Queue de Boeuf", unit: "per kg", price: 19.90, category: "Butcher", categoryFr: "Boucherie", image: "/placeholder.svg" },
+
+  // ==================== RICE - TILDA ====================
+  { id: "r-t1", name: "Tilda Pure Basmati Rice", nameFr: "Riz Basmati Pur Tilda", unit: "5 kg", price: 24.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Tilda" },
+  { id: "r-t2", name: "Tilda Grand Extra Long Basmati", nameFr: "Riz Basmati Extra Long Tilda Grand", unit: "5 kg", price: 28.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Tilda" },
+  { id: "r-t3", name: "Tilda Golden Sella Basmati", nameFr: "Riz Basmati Sella Doré Tilda", unit: "5 kg", price: 26.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Tilda" },
+  { id: "r-t4", name: "Tilda Fragrant Jasmine Rice", nameFr: "Riz Jasmin Parfumé Tilda", unit: "5 kg", price: 22.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Tilda" },
+  { id: "r-t5", name: "Tilda Easy Cook Long Grain", nameFr: "Riz Long Grain Cuisson Facile Tilda", unit: "5 kg", price: 18.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Tilda" },
+  { id: "r-t6", name: "Tilda Long Grain Rice", nameFr: "Riz Long Grain Tilda", unit: "5 kg", price: 17.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Tilda" },
+
+  // ==================== RICE - DAAWAT ====================
+  { id: "r-d1", name: "Daawat Golden Sella Basmati", nameFr: "Riz Basmati Sella Doré Daawat", unit: "5 kg", price: 25.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Daawat" },
+  { id: "r-d2", name: "Daawat Extra Long Basmati", nameFr: "Riz Basmati Extra Long Daawat", unit: "5 kg", price: 27.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Daawat" },
+  { id: "r-d3", name: "Daawat Original Basmati", nameFr: "Riz Basmati Original Daawat", unit: "5 kg", price: 24.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Daawat" },
+  { id: "r-d4", name: "Daawat Everyday Basmati", nameFr: "Riz Basmati Quotidien Daawat", unit: "5 kg", price: 21.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Daawat" },
+
+  // ==================== RICE - LAL QILLA ====================
+  { id: "r-lq1", name: "Lal Qilla Supreme Sella Basmati", nameFr: "Riz Basmati Sella Suprême Lal Qilla", unit: "5 kg", price: 29.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Lal Qilla" },
+  { id: "r-lq2", name: "Lal Qilla Majestic Basmati", nameFr: "Riz Basmati Majestic Lal Qilla", unit: "5 kg", price: 32.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Lal Qilla" },
+  { id: "r-lq3", name: "Lal Qilla Traditional Basmati", nameFr: "Riz Basmati Traditionnel Lal Qilla", unit: "5 kg", price: 26.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Lal Qilla" },
+  { id: "r-lq4", name: "Lal Qilla Sona Masoori", nameFr: "Riz Sona Masoori Lal Qilla", unit: "5 kg", price: 19.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Lal Qilla" },
+
+  // ==================== RICE - LAILA ====================
+  { id: "r-la1", name: "Laila Xtra Long Basmati Rice", nameFr: "Riz Basmati Extra Long Laila", unit: "5 kg", price: 26.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Laila" },
+  { id: "r-la2", name: "Laila Golden Sella Basmati", nameFr: "Riz Basmati Sella Doré Laila", unit: "5 kg", price: 24.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Laila" },
+  { id: "r-la3", name: "Laila Long Grain Rice", nameFr: "Riz Long Grain Laila", unit: "5 kg", price: 16.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Laila" },
+
+  // ==================== RICE - INDIA GATE ====================
+  { id: "r-ig1", name: "India Gate Ponni Boiled Rice", nameFr: "Riz Ponni Étuvé India Gate", unit: "5 kg", price: 18.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "India Gate" },
+  { id: "r-ig2", name: "India Gate Jeerakasala Rice", nameFr: "Riz Jeerakasala India Gate", unit: "5 kg", price: 22.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "India Gate" },
+  { id: "r-ig3", name: "India Gate Everyday Rice", nameFr: "Riz Quotidien India Gate", unit: "5 kg", price: 17.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "India Gate" },
+  { id: "r-ig4", name: "India Gate Extra Long Rice", nameFr: "Riz Extra Long India Gate", unit: "5 kg", price: 28.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "India Gate" },
+
+  // ==================== RICE - KINGS ====================
+  { id: "r-k1", name: "Kings Samba Rice", nameFr: "Riz Samba Kings", unit: "5 kg", price: 21.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Kings" },
+  { id: "r-k2", name: "Kings Red Samba", nameFr: "Riz Samba Rouge Kings", unit: "5 kg", price: 23.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Kings" },
+  { id: "r-k3", name: "Kings Parboiled Red Country Rice", nameFr: "Riz Rouge Étuvé Kings", unit: "5 kg", price: 22.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Kings" },
+  { id: "r-k4", name: "Kings Indian Extra Long Basmati", nameFr: "Riz Basmati Extra Long Indien Kings", unit: "5 kg", price: 29.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Kings" },
+
+  // ==================== RICE - SUBASH ====================
+  { id: "r-s1", name: "Subash Thanjavur Ponni Parboiled", nameFr: "Riz Ponni Thanjavur Étuvé Subash", unit: "5 kg", price: 19.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Subash" },
+  { id: "r-s2", name: "Subash Ponni Parboiled", nameFr: "Riz Ponni Étuvé Subash", unit: "5 kg", price: 18.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Subash" },
+  { id: "r-s3", name: "Subash Kerala Red Matta", nameFr: "Riz Rouge Matta Kerala Subash", unit: "5 kg", price: 24.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Subash" },
+
+  // ==================== RICE - OTHER BRANDS ====================
+  { id: "r-o1", name: "Le Dragon Siam Jasmine Rice", nameFr: "Riz Jasmin Siam Le Dragon", unit: "5 kg", price: 21.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Le Dragon" },
+  { id: "r-o2", name: "Le Dragon Broken Rice", nameFr: "Riz Brisé Le Dragon", unit: "5 kg", price: 14.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Le Dragon" },
+  { id: "r-o3", name: "Omni Basmati Rice", nameFr: "Riz Basmati Omni", unit: "5 kg", price: 22.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Omni" },
+  { id: "r-o4", name: "Barkat Gold Basmati", nameFr: "Riz Basmati Or Barkat", unit: "5 kg", price: 25.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Barkat" },
+  { id: "r-o5", name: "Barkat Golden Sella", nameFr: "Riz Sella Doré Barkat", unit: "5 kg", price: 23.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Barkat" },
+  { id: "r-o6", name: "Punjabi Biryani Rice", nameFr: "Riz Biryani Punjabi", unit: "5 kg", price: 26.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Punjabi" },
+  { id: "r-o7", name: "Shazia Classic Basmati", nameFr: "Riz Basmati Classique Shazia", unit: "5 kg", price: 21.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Shazia" },
+  { id: "r-o8", name: "Shazia Extra Long Basmati", nameFr: "Riz Basmati Extra Long Shazia", unit: "5 kg", price: 24.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Shazia" },
+  { id: "r-o9", name: "Amma Premium Basmati", nameFr: "Riz Basmati Premium Amma", unit: "5 kg", price: 27.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Amma" },
+  { id: "r-o10", name: "PC Care Biryani Rice", nameFr: "Riz Biryani PC Care", unit: "5 kg", price: 23.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "PC Care" },
+  { id: "r-o11", name: "Tony's Palakkadan Matta", nameFr: "Riz Matta Palakkadan Tony's", unit: "5 kg", price: 22.90, category: "Rice & Grains", categoryFr: "Riz & Céréales", image: "/placeholder.svg", brand: "Tony's" },
+
+  // ==================== PANTRY & CANNED GOODS ====================
+  { id: "pc-1", name: "Geisha Mackerel in Tomato Sauce", nameFr: "Maquereau Geisha en Sauce Tomate", unit: "425 g", price: 4.90, category: "Pantry & Canned Goods", categoryFr: "Épicerie & Conserves", image: "/placeholder.svg" },
+  { id: "pc-2", name: "Kings Jack Mackerel", nameFr: "Maquereau Jack Kings", unit: "425 g", price: 5.90, category: "Pantry & Canned Goods", categoryFr: "Épicerie & Conserves", image: "/placeholder.svg" },
+  { id: "pc-3", name: "Exeter Corned Beef", nameFr: "Corned Beef Exeter", unit: "340 g", price: 6.90, category: "Pantry & Canned Goods", categoryFr: "Épicerie & Conserves", image: "/placeholder.svg" },
+  { id: "pc-4", name: "Bird's Custard Powder", nameFr: "Poudre à Crème Bird's", unit: "300 g", price: 5.90, category: "Pantry & Canned Goods", categoryFr: "Épicerie & Conserves", image: "/placeholder.svg" },
+  { id: "pc-5", name: "Nestlé Sweetened Condensed Milk", nameFr: "Lait Concentré Sucré Nestlé", unit: "397 g", price: 3.90, category: "Pantry & Canned Goods", categoryFr: "Épicerie & Conserves", image: "/placeholder.svg" },
+  { id: "pc-6", name: "Bama Mayonnaise", nameFr: "Mayonnaise Bama", unit: "500 ml", price: 4.90, category: "Pantry & Canned Goods", categoryFr: "Épicerie & Conserves", image: "/placeholder.svg" },
+  { id: "pc-7", name: "Healthy Boy Mushroom Soy Sauce", nameFr: "Sauce Soja aux Champignons Healthy Boy", unit: "700 ml", price: 5.90, category: "Pantry & Canned Goods", categoryFr: "Épicerie & Conserves", image: "/placeholder.svg" },
+  { id: "pc-8", name: "Healthy Boy Sweet Soy Sauce", nameFr: "Sauce Soja Sucrée Healthy Boy", unit: "700 ml", price: 5.90, category: "Pantry & Canned Goods", categoryFr: "Épicerie & Conserves", image: "/placeholder.svg" },
+  { id: "pc-9", name: "Maggi Arôme Seasoning", nameFr: "Arôme Maggi", unit: "800 ml", price: 8.90, category: "Pantry & Canned Goods", categoryFr: "Épicerie & Conserves", image: "/placeholder.svg" },
+  { id: "pc-10", name: "Ali Baba Chick Peas", nameFr: "Pois Chiches Ali Baba", unit: "400 g", price: 2.90, category: "Pantry & Canned Goods", categoryFr: "Épicerie & Conserves", image: "/placeholder.svg" },
+  { id: "pc-11", name: "Ali Baba Kala Chana", nameFr: "Pois Chiches Noirs Ali Baba", unit: "400 g", price: 2.90, category: "Pantry & Canned Goods", categoryFr: "Épicerie & Conserves", image: "/placeholder.svg" },
+  { id: "pc-12", name: "TRS Boiled Black Eye Beans", nameFr: "Haricots à Œil Noir TRS", unit: "400 g", price: 2.50, category: "Pantry & Canned Goods", categoryFr: "Épicerie & Conserves", image: "/placeholder.svg" },
+  { id: "pc-13", name: "TRS Red Kidney Beans", nameFr: "Haricots Rouges TRS", unit: "400 g", price: 2.50, category: "Pantry & Canned Goods", categoryFr: "Épicerie & Conserves", image: "/placeholder.svg" },
+  { id: "pc-14", name: "Picosa Champignons (Mushrooms)", nameFr: "Champignons Picosa", unit: "400 g", price: 3.90, category: "Pantry & Canned Goods", categoryFr: "Épicerie & Conserves", image: "/placeholder.svg" },
+  { id: "pc-15", name: "Aroy-D Coconut Milk", nameFr: "Lait de Coco Aroy-D", unit: "1 L", price: 4.90, category: "Pantry & Canned Goods", categoryFr: "Épicerie & Conserves", image: "/placeholder.svg" },
+
+  // ==================== FRESH PRODUCE ====================
+  { id: "fp-1", name: "Thai Eggplant (Round)", nameFr: "Aubergine Thaï (Ronde)", unit: "per kg", price: 8.90, category: "Fresh Produce", categoryFr: "Fruits & Légumes Frais", image: "/placeholder.svg" },
+  { id: "fp-2", name: "Bitter Gourd (Karela)", nameFr: "Courge Amère (Karela)", unit: "per kg", price: 9.90, category: "Fresh Produce", categoryFr: "Fruits & Légumes Frais", image: "/placeholder.svg" },
+  { id: "fp-3", name: "Chinese Long Beans", nameFr: "Haricots Longs Chinois", unit: "per kg", price: 7.90, category: "Fresh Produce", categoryFr: "Fruits & Légumes Frais", image: "/placeholder.svg" },
+  { id: "fp-4", name: "Okra (Ladies Finger)", nameFr: "Gombo", unit: "per kg", price: 8.90, category: "Fresh Produce", categoryFr: "Fruits & Légumes Frais", image: "/placeholder.svg" },
+  { id: "fp-5", name: "Rambutan", nameFr: "Ramboutan", unit: "per kg", price: 14.90, category: "Fresh Produce", categoryFr: "Fruits & Légumes Frais", image: "/placeholder.svg" },
+  { id: "fp-6", name: "Mangosteen", nameFr: "Mangoustan", unit: "per kg", price: 19.90, category: "Fresh Produce", categoryFr: "Fruits & Légumes Frais", image: "/placeholder.svg" },
+  { id: "fp-7", name: "Water Spinach (Morning Glory)", nameFr: "Épinard d'Eau (Liseron)", unit: "per bunch", price: 4.90, category: "Fresh Produce", categoryFr: "Fruits & Légumes Frais", image: "/placeholder.svg" },
+  { id: "fp-8", name: "Fresh Coriander", nameFr: "Coriandre Fraîche", unit: "per bunch", price: 2.90, category: "Fresh Produce", categoryFr: "Fruits & Légumes Frais", image: "/placeholder.svg" },
+  { id: "fp-9", name: "Aubergine (Purple Eggplant)", nameFr: "Aubergine Violette", unit: "per kg", price: 5.90, category: "Fresh Produce", categoryFr: "Fruits & Légumes Frais", image: "/placeholder.svg" },
+  { id: "fp-10", name: "Red Bell Pepper", nameFr: "Poivron Rouge", unit: "per kg", price: 6.90, category: "Fresh Produce", categoryFr: "Fruits & Légumes Frais", image: "/placeholder.svg" },
+  { id: "fp-11", name: "Green Mango", nameFr: "Mangue Verte", unit: "per kg", price: 8.90, category: "Fresh Produce", categoryFr: "Fruits & Légumes Frais", image: "/placeholder.svg" },
+  { id: "fp-12", name: "Pak Choi", nameFr: "Pak Choï", unit: "per kg", price: 6.90, category: "Fresh Produce", categoryFr: "Fruits & Légumes Frais", image: "/placeholder.svg" },
+  { id: "fp-13", name: "Small Bananas (Sugar Bananas)", nameFr: "Petites Bananes (Bananes Sucrées)", unit: "per kg", price: 5.90, category: "Fresh Produce", categoryFr: "Fruits & Légumes Frais", image: "/placeholder.svg" },
+
+  // ==================== FROZEN FOOD & MISC ====================
+  { id: "fm-1", name: "Spring Home TYJ Spring Roll Pastry", nameFr: "Pâte à Rouleaux de Printemps Spring Home", unit: "550 g", price: 6.90, category: "Frozen & Misc", categoryFr: "Surgelés & Divers", image: "/placeholder.svg" },
+  { id: "fm-2", name: "Ajinomoto Gyoza", nameFr: "Gyoza Ajinomoto", unit: "600 g", price: 9.90, category: "Frozen & Misc", categoryFr: "Surgelés & Divers", image: "/placeholder.svg" },
+  { id: "fm-3", name: "Vatika Hair Oil", nameFr: "Huile Capillaire Vatika", unit: "300 ml", price: 7.90, category: "Frozen & Misc", categoryFr: "Surgelés & Divers", image: "/placeholder.svg" },
+  { id: "fm-4", name: "Johnson's Baby Lotion", nameFr: "Lotion Bébé Johnson's", unit: "500 ml", price: 8.90, category: "Frozen & Misc", categoryFr: "Surgelés & Divers", image: "/placeholder.svg" },
+  { id: "fm-5", name: "Skala Expert Hair Treatment", nameFr: "Traitement Capillaire Skala Expert", unit: "1 kg", price: 12.90, category: "Frozen & Misc", categoryFr: "Surgelés & Divers", image: "/placeholder.svg" },
+  { id: "fm-6", name: "Kings Rice Cooker", nameFr: "Cuiseur à Riz Kings", unit: "1 unit", price: 49.90, category: "Frozen & Misc", categoryFr: "Surgelés & Divers", image: "/placeholder.svg" },
+  { id: "fm-7", name: "Tiger Balm", nameFr: "Baume du Tigre", unit: "30 g", price: 8.90, category: "Frozen & Misc", categoryFr: "Surgelés & Divers", image: "/placeholder.svg" },
+  { id: "fm-8", name: "Hem Incense Sticks", nameFr: "Bâtons d'Encens Hem", unit: "20 sticks", price: 3.90, category: "Frozen & Misc", categoryFr: "Surgelés & Divers", image: "/placeholder.svg" },
 ];
 
 export const categories: Category[] = [
-  { id: "beverages", name: "Beverages & Tea", nameFr: "Boissons & Thé", icon: "☕", count: 5 },
-  { id: "coconut", name: "Coconut Products", nameFr: "Produits de Noix de Coco", icon: "🥥", count: 4 },
-  { id: "vegetables", name: "Ethnic Vegetables", nameFr: "Légumes Ethniques", icon: "🥬", count: 6 },
-  { id: "herbs", name: "Fresh Herbs", nameFr: "Herbes Fraîches", icon: "🌿", count: 4 },
-  { id: "noodles", name: "Instant Noodles", nameFr: "Nouilles Instantanées", icon: "🍜", count: 4 },
-  { id: "rice", name: "Rice & Grains", nameFr: "Riz & Céréales", icon: "🍚", count: 5 },
-  { id: "pulses", name: "Pulses & Lentils", nameFr: "Légumineuses & Lentilles", icon: "🫘", count: 4 },
-  { id: "spices", name: "Spices & Seasonings", nameFr: "Épices & Assaisonnements", icon: "🌶️", count: 7 },
-  { id: "sauces", name: "Sauces & Condiments", nameFr: "Sauces & Condiments", icon: "🫙", count: 3 },
-  { id: "snacks", name: "Snacks & Crackers", nameFr: "Snacks & Crackers", icon: "🍪", count: 3 },
-  { id: "flour", name: "Flour & Baking", nameFr: "Farine & Pâtisserie", icon: "🌾", count: 2 },
-  { id: "oils", name: "Oils & Fats", nameFr: "Huiles & Graisses", icon: "🫒", count: 2 },
+  { id: "seafood", name: "Fresh Seafood & Fish", nameFr: "Poissons & Fruits de Mer Frais", icon: "🐟", count: 11 },
+  { id: "butcher", name: "Butcher", nameFr: "Boucherie", icon: "🥩", count: 4 },
+  { id: "rice", name: "Rice & Grains", nameFr: "Riz & Céréales", icon: "🍚", count: 38 },
+  { id: "pantry", name: "Pantry & Canned Goods", nameFr: "Épicerie & Conserves", icon: "🥫", count: 15 },
+  { id: "produce", name: "Fresh Produce", nameFr: "Fruits & Légumes Frais", icon: "🥬", count: 13 },
+  { id: "frozen", name: "Frozen & Misc", nameFr: "Surgelés & Divers", icon: "❄️", count: 8 },
 ];
