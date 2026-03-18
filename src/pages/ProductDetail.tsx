@@ -83,7 +83,11 @@ const ProductDetail = () => {
             </p>
             
             <p className="text-muted-foreground mb-6">
-              {t('quantity')}: {product.unit}
+              <span className="font-medium text-foreground">{t('unitFormat')}:</span>{' '}
+              {product.unit}
+              {product.size_variant && (
+                <span className="text-muted-foreground"> · {product.size_variant}</span>
+              )}
             </p>
             
             <p className="text-muted-foreground mb-8">

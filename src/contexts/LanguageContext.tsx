@@ -35,6 +35,7 @@ export const translations: Translations = {
   viewProduct: { fr: "Voir le produit", en: "View Product" },
   price: { fr: "Prix", en: "Price" },
   quantity: { fr: "Quantité", en: "Quantity" },
+  unitFormat: { fr: "Format", en: "Unit" },
   relatedProducts: { fr: "Vous aimerez aussi", en: "You'll Also Love" },
   
   // Cart

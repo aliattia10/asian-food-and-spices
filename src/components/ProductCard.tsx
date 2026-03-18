@@ -72,7 +72,7 @@ const ProductCard = ({ product }: ProductCardProps) => {
             <span className="font-bold text-primary text-lg">
               CHF {product.price.toFixed(2)}
             </span>
-            <span className="text-xs text-muted-foreground">
+            <span className="text-xs font-medium text-muted-foreground" title={product.unit}>
               {product.unit}
             </span>
           </div>

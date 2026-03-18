@@ -1,13 +1,42 @@
+import type { UnitOfMeasure } from '@/lib/parseProductUnit';
+import { parseUnitString } from '@/lib/parseProductUnit';
+
 export interface Product {
   id: string;
   name: string;
   nameFr: string;
+  /** Display string for quantity/unit (e.g. "5 kg", "per kg"). Kept for backward compatibility. */
   unit: string;
+  /** Numeric quantity when applicable (e.g. 5 for "5 kg", 425 for "425 g"). */
+  quantity: number | null;
+  /** Unit of measure: kg, g, ml, L, bunch, unit, sticks, other. */
+  unit_of_measure: UnitOfMeasure;
+  /** Optional size variant (e.g. "small", "large") for bottles/packs. */
+  size_variant?: string | null;
+  /** True when price is per unit (e.g. "per kg", "per bunch"). */
+  is_per_unit: boolean;
   price: number;
   category: string;
   categoryFr: string;
   image: string;
   brand?: string;
+}
+
+type ProductRaw = Omit<Product, 'quantity' | 'unit_of_measure' | 'size_variant' | 'is_per_unit'>;
+
+/** Enriches products with quantity, unit_of_measure, size_variant from the unit string. */
+function withParsedUnits(items: ProductRaw[]): Product[] {
+  return items.map((item) => {
+    const parsed = parseUnitString(item.unit);
+    return {
+      ...item,
+      quantity: parsed.quantity,
+      unit_of_measure: parsed.unit_of_measure,
+      size_variant: parsed.size_variant ?? undefined,
+      is_per_unit: parsed.is_per_unit,
+      unit: parsed.display,
+    };
+  });
 }
 
 export interface Category {
@@ -17,7 +46,7 @@ export interface Category {
   count: number;
 }
 
-export const products: Product[] = [
+const productsRaw: Omit<Product, 'quantity' | 'unit_of_measure' | 'size_variant' | 'is_per_unit'>[] = [
   // ==================== FRESH SEAFOOD & FISH ====================
   { id: "sf-1", name: "Barramundi (Whole)", nameFr: "Barramundi (Entier)", unit: "per kg", price: 24.90, category: "Fresh Seafood & Fish", categoryFr: "Poissons & Fruits de Mer Frais", image: "/product_images/Barramundi.jpg" },
   { id: "sf-2", name: "Trevally (Whole)", nameFr: "Carangue (Entier)", unit: "per kg", price: 19.90, category: "Fresh Seafood & Fish", categoryFr: "Poissons & Fruits de Mer Frais", image: "/product_images/Trevally.jpg" },
@@ -134,6 +163,8 @@ export const products: Product[] = [
   { id: "fm-7", name: "Tiger Balm", nameFr: "Baume du Tigre", unit: "30 g", price: 8.90, category: "Frozen & Misc", categoryFr: "Surgelés & Divers", image: "/product_images/Tiger Balm.jpeg" },
   { id: "fm-8", name: "Hem Incense Sticks", nameFr: "Bâtons d'Encens Hem", unit: "20 sticks", price: 3.90, category: "Frozen & Misc", categoryFr: "Surgelés & Divers", image: "/product_images/Hem Incense Sticks.jpg" },
 ];
+
+export const products: Product[] = withParsedUnits(productsRaw);
 
 export const categories: Category[] = [
   { id: "seafood", name: "Fresh Seafood & Fish", nameFr: "Poissons & Fruits de Mer Frais", count: 11 },

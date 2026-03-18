@@ -249,7 +249,7 @@ const Checkout = () => {
                   {items.map((item) => (
                     <div key={item.product.id} className="flex justify-between text-sm">
                       <span className="text-muted-foreground truncate pr-2">
-                        {item.quantity}x {language === 'fr' ? item.product.nameFr : item.product.name}
+                        {item.quantity}× {language === 'fr' ? item.product.nameFr : item.product.name} ({item.product.unit})
                       </span>
                       <span className="shrink-0">
                         CHF {(item.product.price * item.quantity).toFixed(2)}

@@ -61,10 +61,11 @@ const Cart = () => {
                   <Link to={`/product/${item.product.id}`}>
                     <h3 className="font-medium hover:text-primary transition-colors line-clamp-2">
                       {language === 'fr' ? item.product.nameFr : item.product.name}
+                      <span className="text-muted-foreground font-normal"> · {item.product.unit}</span>
                     </h3>
                   </Link>
                   <p className="text-sm text-muted-foreground mb-2">
-                    {item.product.unit}
+                    {item.quantity} × CHF {item.product.price.toFixed(2)} = CHF {(item.product.price * item.quantity).toFixed(2)}
                   </p>
                   <p className="font-bold text-primary">
                     CHF {item.product.price.toFixed(2)}
@@ -113,7 +114,7 @@ const Cart = () => {
                 {items.map((item) => (
                   <div key={item.product.id} className="flex justify-between text-sm">
                     <span className="text-muted-foreground truncate pr-2">
-                      {item.quantity}x {language === 'fr' ? item.product.nameFr : item.product.name}
+                      {item.quantity}× {language === 'fr' ? item.product.nameFr : item.product.name} ({item.product.unit})
                     </span>
                     <span className="shrink-0">
                       CHF {(item.product.price * item.quantity).toFixed(2)}
