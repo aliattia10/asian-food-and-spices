@@ -2,8 +2,8 @@
   {
     "id": "csv-0",
     "imageFilename": "01012 Riz Jasmin Siam 6x1kg AAA LE DRAGON, Thaïlande.png",
-    "name": "01012 Riz Jasmin Siam 6x1kg AAA LE DRAGON, Thaïlande",
-    "nameFr": "01012 Riz Jasmin Siam 6x1kg AAA LE DRAGON, Thaïlande",
+    "name": "Riz Jasmin Siam 6x1kg AAA LE DRAGON, Thaïlande",
+    "nameFr": "Riz Jasmin Siam 6x1kg AAA LE DRAGON, Thaïlande",
     "unit": "per kg",
     "price": 6.5,
     "category": "Rice & Grains",
@@ -13,10 +13,10 @@
   {
     "id": "csv-1",
     "imageFilename": "01058 Riz pour sushi TSURU 1x5kg CURTIRISO, Italie.jpg",
-    "name": "01058 Riz pour sushi TSURU 1x5kg CURTIRISO, Italie",
-    "nameFr": "01058 Riz pour sushi TSURU 1x5kg CURTIRISO, Italie",
+    "name": "Riz pour sushi TSURU 1x5kg CURTIRISO, Italie",
+    "nameFr": "Riz pour sushi TSURU 1x5kg CURTIRISO, Italie",
     "unit": "5 kg",
-    "price": 0,
+    "price": 14,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01058 Riz pour sushi TSURU 1x5kg CURTIRISO, Italie.jpg",
@@ -25,8 +25,8 @@
   {
     "id": "csv-2",
     "imageFilename": "01062 Riz Gluant blanc 1x5kg LE DRAGON, Thaïlande.jpg",
-    "name": "01062 Riz Gluant blanc 1x5kg LE DRAGON, Thaïlande",
-    "nameFr": "01062 Riz Gluant blanc 1x5kg LE DRAGON, Thaïlande",
+    "name": "Riz Gluant blanc 1x5kg LE DRAGON, Thaïlande",
+    "nameFr": "Riz Gluant blanc 1x5kg LE DRAGON, Thaïlande",
     "unit": "5 kg",
     "price": 26.7,
     "category": "Rice & Grains",
@@ -36,10 +36,10 @@
   {
     "id": "csv-3",
     "imageFilename": "01099 Riz Arborio 6 x1kg CURTIRISO, Italie.jpg",
-    "name": "01094 Riz Carnaroli 6 x1kg CURTIRISO, Italie",
-    "nameFr": "01094 Riz Carnaroli 6 x1kg CURTIRISO, Italie",
+    "name": "Riz Carnaroli 6 x1kg CURTIRISO, Italie",
+    "nameFr": "Riz Carnaroli 6 x1kg CURTIRISO, Italie",
     "unit": "1 kg",
-    "price": 0,
+    "price": 22.36,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01099 Riz Arborio 6 x1kg CURTIRISO, Italie.jpg",
@@ -48,10 +48,10 @@
   {
     "id": "csv-4",
     "imageFilename": "01094 Riz Carnaroli 6 x1kg CURTIRISO, Italie.png",
-    "name": "01094 Riz Carnaroli 6 x1kg CURTIRISO, Italie",
-    "nameFr": "01094 Riz Carnaroli 6 x1kg CURTIRISO, Italie",
+    "name": "Riz Carnaroli 6 x1kg CURTIRISO, Italie",
+    "nameFr": "Riz Carnaroli 6 x1kg CURTIRISO, Italie",
     "unit": "1 kg",
-    "price": 0,
+    "price": 22.36,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01094 Riz Carnaroli 6 x1kg CURTIRISO, Italie.png",
@@ -60,10 +60,10 @@
   {
     "id": "csv-5",
     "imageFilename": "01099 Riz Arborio 6 x1kg CURTIRISO, Italie Riz Grains Longs, Superfino.jpg",
-    "name": "01099 Riz Arborio 6 x1kg CURTIRISO, Italie Riz Grains Longs, Superfino",
-    "nameFr": "01099 Riz Arborio 6 x1kg CURTIRISO, Italie Riz Grains Longs, Superfino",
+    "name": "Riz Arborio 6 x1kg CURTIRISO, Italie Riz Grains Longs, Superfino",
+    "nameFr": "Riz Arborio 6 x1kg CURTIRISO, Italie Riz Grains Longs, Superfino",
     "unit": "1 kg",
-    "price": 0,
+    "price": 22.36,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01099 Riz Arborio 6 x1kg CURTIRISO, Italie Riz Grains Longs, Superfino.jpg",
@@ -72,10 +72,10 @@
   {
     "id": "csv-6",
     "imageFilename": "01132 Mélange de farine pour tempura 15x600gr WELNA, TEMPURA KO, Japon.jpeg",
-    "name": "01132 Mélange de farine pour tempura 15x600gr WELNA, TEMPURA KO, Japon",
-    "nameFr": "01132 Mélange de farine pour tempura 15x600gr WELNA, TEMPURA KO, Japon",
+    "name": "Mélange de farine pour tempura 15x600gr WELNA, TEMPURA KO, Japon",
+    "nameFr": "Mélange de farine pour tempura 15x600gr WELNA, TEMPURA KO, Japon",
     "unit": "600 g",
-    "price": 0,
+    "price": 74.48,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01132 Mélange de farine pour tempura 15x600gr WELNA, TEMPURA KO, Japon.jpeg",
@@ -84,10 +84,10 @@
   {
     "id": "csv-7",
     "imageFilename": "01138 Graines de sésame blanc séchées 25x227gr EAGLOBE.jpg",
-    "name": "01138 Graines de sésame blanc séchées 25x227gr EAGLOBE",
-    "nameFr": "01138 Graines de sésame blanc séchées 25x227gr EAGLOBE",
+    "name": "Graines de sésame blanc séchées 25x227gr EAGLOBE",
+    "nameFr": "Graines de sésame blanc séchées 25x227gr EAGLOBE",
     "unit": "227 g",
-    "price": 0,
+    "price": 52.9,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01138 Graines de sésame blanc séchées 25x227gr EAGLOBE.jpg"
@@ -95,10 +95,10 @@
   {
     "id": "csv-8",
     "imageFilename": "01138 Graines de sésame blanc séchées 25x227gr EAGLOBE, Chine.jpg",
-    "name": "01138 Graines de sésame blanc séchées 25x227gr EAGLOBE, Chine",
-    "nameFr": "01138 Graines de sésame blanc séchées 25x227gr EAGLOBE, Chine",
+    "name": "Graines de sésame blanc séchées 25x227gr EAGLOBE, Chine",
+    "nameFr": "Graines de sésame blanc séchées 25x227gr EAGLOBE, Chine",
     "unit": "227 g",
-    "price": 0,
+    "price": 52.9,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01138 Graines de sésame blanc séchées 25x227gr EAGLOBE, Chine.jpg",
@@ -107,10 +107,10 @@
   {
     "id": "csv-9",
     "imageFilename": "01330 Nouilles de riz M sans gluten 30x400gr 3mm LE DRAGON, Royal Siam Cuisine, Thaïlande.webp",
-    "name": "01330 Nouilles de riz M sans gluten 30x400gr 3mm LE DRAGON, Royal Siam Cuisine, Thaïlande",
-    "nameFr": "01330 Nouilles de riz M sans gluten 30x400gr 3mm LE DRAGON, Royal Siam Cuisine, Thaïlande",
+    "name": "Nouilles de riz M sans gluten 30x400gr 3mm LE DRAGON, Royal Siam Cuisine, Thaïlande",
+    "nameFr": "Nouilles de riz M sans gluten 30x400gr 3mm LE DRAGON, Royal Siam Cuisine, Thaïlande",
     "unit": "400 g",
-    "price": 0,
+    "price": 1.87,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01330 Nouilles de riz M sans gluten 30x400gr 3mm LE DRAGON, Royal Siam Cuisine, Thaïlande.webp"
@@ -118,10 +118,10 @@
   {
     "id": "csv-10",
     "imageFilename": "01340 Nouilles de riz L sans gluten 30x400gr 5mm LE DRAGON, Royal Siam Cuisine, Thaïlande.jpg",
-    "name": "01340 Nouilles de riz L sans gluten 30x400gr 5mm LE DRAGON, Royal Siam Cuisine, Thaïlande",
-    "nameFr": "01340 Nouilles de riz L sans gluten 30x400gr 5mm LE DRAGON, Royal Siam Cuisine, Thaïlande",
+    "name": "Nouilles de riz L sans gluten 30x400gr 5mm LE DRAGON, Royal Siam Cuisine, Thaïlande",
+    "nameFr": "Nouilles de riz L sans gluten 30x400gr 5mm LE DRAGON, Royal Siam Cuisine, Thaïlande",
     "unit": "400 g",
-    "price": 0,
+    "price": 1.87,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01340 Nouilles de riz L sans gluten 30x400gr 5mm LE DRAGON, Royal Siam Cuisine, Thaïlande.jpg"
@@ -129,10 +129,10 @@
   {
     "id": "csv-11",
     "imageFilename": "01356 Nouilles jaunes 20x300gr LE DRAGON, Thaïlande.jpg",
-    "name": "01356 Nouilles jaunes 20x300gr LE DRAGON, Thaïlande",
-    "nameFr": "01356 Nouilles jaunes 20x300gr LE DRAGON, Thaïlande",
+    "name": "Nouilles jaunes 20x300gr LE DRAGON, Thaïlande",
+    "nameFr": "Nouilles jaunes 20x300gr LE DRAGON, Thaïlande",
     "unit": "300 g",
-    "price": 0,
+    "price": 1.37,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01356 Nouilles jaunes 20x300gr LE DRAGON, Thaïlande.jpg"
@@ -140,8 +140,8 @@
   {
     "id": "csv-12",
     "imageFilename": "01361 Vermicelles de riz 30x500g WAI WAI, Thaïlande.webp",
-    "name": "01361 Vermicelles de riz 30x500g WAI WAI, Thaïlande",
-    "nameFr": "01361 Vermicelles de riz 30x500g WAI WAI, Thaïlande",
+    "name": "Vermicelles de riz 30x500g WAI WAI, Thaïlande",
+    "nameFr": "Vermicelles de riz 30x500g WAI WAI, Thaïlande",
     "unit": "500 g",
     "price": 0,
     "category": "Rice & Grains",
@@ -151,10 +151,10 @@
   {
     "id": "csv-13",
     "imageFilename": "01363 Vermicelles de riz 24x500gr WAI WAI, Thaïlande.webp",
-    "name": "01363 Vermicelles de riz 24x500gr WAI WAI, Thaïlande",
-    "nameFr": "01363 Vermicelles de riz 24x500gr WAI WAI, Thaïlande",
+    "name": "Vermicelles de riz 24x500gr WAI WAI, Thaïlande",
+    "nameFr": "Vermicelles de riz 24x500gr WAI WAI, Thaïlande",
     "unit": "500 g",
-    "price": 0,
+    "price": 1.99,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01363 Vermicelles de riz 24x500gr WAI WAI, Thaïlande.webp"
@@ -162,8 +162,8 @@
   {
     "id": "csv-14",
     "imageFilename": "01366 Bol de nouilles instant. 12x70gr Légumes MAMA, Thaïlande.jpg",
-    "name": "01366 Bol de nouilles instant. 12x70gr Légumes MAMA, Thaïlande",
-    "nameFr": "01366 Bol de nouilles instant. 12x70gr Légumes MAMA, Thaïlande",
+    "name": "Bol de nouilles instant. 12x70gr Légumes MAMA, Thaïlande",
+    "nameFr": "Bol de nouilles instant. 12x70gr Légumes MAMA, Thaïlande",
     "unit": "70 g",
     "price": 1.1,
     "category": "Rice & Grains",
@@ -173,8 +173,8 @@
   {
     "id": "csv-15",
     "imageFilename": "01367 Bol de nouilles instant. 12x70gr Porc MAMA, Thaïlande.jpg",
-    "name": "01367 Bol de nouilles instant. 12x70gr Porc MAMA, Thaïlande",
-    "nameFr": "01367 Bol de nouilles instant. 12x70gr Porc MAMA, Thaïlande",
+    "name": "Bol de nouilles instant. 12x70gr Porc MAMA, Thaïlande",
+    "nameFr": "Bol de nouilles instant. 12x70gr Porc MAMA, Thaïlande",
     "unit": "70 g",
     "price": 0,
     "category": "Rice & Grains",
@@ -184,10 +184,10 @@
   {
     "id": "csv-16",
     "imageFilename": "01397 Vermicelles de riz 30x400g BAMBOO TREE, Vietnam.jpg",
-    "name": "01397 Vermicelles de riz 30x400g BAMBOO TREE, Vietnam",
-    "nameFr": "01397 Vermicelles de riz 30x400g BAMBOO TREE, Vietnam",
+    "name": "Vermicelles de riz 30x400g BAMBOO TREE, Vietnam",
+    "nameFr": "Vermicelles de riz 30x400g BAMBOO TREE, Vietnam",
     "unit": "400 g",
-    "price": 0,
+    "price": 1.83,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01397 Vermicelles de riz 30x400g BAMBOO TREE, Vietnam.jpg",
@@ -196,8 +196,8 @@
   {
     "id": "csv-17",
     "imageFilename": "01399 Vermicelles Coréenne pour Japchae & Poelle 20x450g SEMPIO, Corée du Sud, Glutenfree.png",
-    "name": "01399 Vermicelles Coréenne pour Japchae & Poelle 20x450g SEMPIO, Corée du Sud, Glutenfree",
-    "nameFr": "01399 Vermicelles Coréenne pour Japchae & Poelle 20x450g SEMPIO, Corée du Sud, Glutenfree",
+    "name": "Vermicelles Coréenne pour Japchae & Poelle 20x450g SEMPIO, Corée du Sud, Glutenfree",
+    "nameFr": "Vermicelles Coréenne pour Japchae & Poelle 20x450g SEMPIO, Corée du Sud, Glutenfree",
     "unit": "450 g",
     "price": 0,
     "category": "Rice & Grains",
@@ -208,10 +208,10 @@
   {
     "id": "csv-18",
     "imageFilename": "01606 Farine de riz gluant 20x500g STAR LION, Thaïlande.png",
-    "name": "01606 Farine de riz gluant 20x500g STAR LION, Thaïlande",
-    "nameFr": "01606 Farine de riz gluant 20x500g STAR LION, Thaïlande",
+    "name": "Farine de riz gluant 20x500g STAR LION, Thaïlande",
+    "nameFr": "Farine de riz gluant 20x500g STAR LION, Thaïlande",
     "unit": "500 g",
-    "price": 0,
+    "price": 1.46,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01606 Farine de riz gluant 20x500g STAR LION, Thaïlande.png"
@@ -219,10 +219,10 @@
   {
     "id": "csv-19",
     "imageFilename": "02022 Pâte de curry vert 24x400g MAE PLOY.jpg",
-    "name": "02022 Pâte de curry vert 24x400g MAE PLOY",
-    "nameFr": "02022 Pâte de curry vert 24x400g MAE PLOY",
+    "name": "Pâte de curry vert 24x400g MAE PLOY",
+    "nameFr": "Pâte de curry vert 24x400g MAE PLOY",
     "unit": "400 g",
-    "price": 0,
+    "price": 64.8,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/02022 Pâte de curry vert 24x400g MAE PLOY.jpg"
@@ -230,10 +230,10 @@
   {
     "id": "csv-20",
     "imageFilename": "02022 Pâte de curry vert 24x400g MAE PLOY, Thaïlande.jpg",
-    "name": "02022 Pâte de curry vert 24x400g MAE PLOY, Thaïlande",
-    "nameFr": "02022 Pâte de curry vert 24x400g MAE PLOY, Thaïlande",
+    "name": "Pâte de curry vert 24x400g MAE PLOY, Thaïlande",
+    "nameFr": "Pâte de curry vert 24x400g MAE PLOY, Thaïlande",
     "unit": "400 g",
-    "price": 0,
+    "price": 64.8,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/02022 Pâte de curry vert 24x400g MAE PLOY, Thaïlande.jpg"
@@ -241,10 +241,10 @@
   {
     "id": "csv-21",
     "imageFilename": "02089 Sambal Oelek 6x1.1kg FLOWER BRAND, Hollande.png",
-    "name": "02089 Sambal Oelek 6x1.1kg FLOWER BRAND, Hollande",
-    "nameFr": "02089 Sambal Oelek 6x1.1kg FLOWER BRAND, Hollande",
+    "name": "Sambal Oelek 6x1.1kg FLOWER BRAND, Hollande",
+    "nameFr": "Sambal Oelek 6x1.1kg FLOWER BRAND, Hollande",
     "unit": "1.1 kg",
-    "price": 0,
+    "price": 26.91,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/02089 Sambal Oelek 6x1.1kg FLOWER BRAND, Hollande.png",
@@ -253,8 +253,8 @@
   {
     "id": "csv-22",
     "imageFilename": "02660 Vinaigre de table clair 12x700ml QP, Thaïlande.png",
-    "name": "02660 Vinaigre de table clair 12x700ml QP, Thaïlande",
-    "nameFr": "02660 Vinaigre de table clair 12x700ml QP, Thaïlande",
+    "name": "Vinaigre de table clair 12x700ml QP, Thaïlande",
+    "nameFr": "Vinaigre de table clair 12x700ml QP, Thaïlande",
     "unit": "700 ml",
     "price": 3.06,
     "category": "Pantry & Canned Goods",
@@ -264,10 +264,10 @@
   {
     "id": "csv-23",
     "imageFilename": "03021 Sauce Hoi Sin 12X397G LEE KUM KEE, Chine.png",
-    "name": "03021 Sauce Hoi Sin 12X397G LEE KUM KEE, Chine",
-    "nameFr": "03021 Sauce Hoi Sin 12X397G LEE KUM KEE, Chine",
+    "name": "Sauce Hoi Sin 12X397G LEE KUM KEE, Chine",
+    "nameFr": "Sauce Hoi Sin 12X397G LEE KUM KEE, Chine",
     "unit": "397 g",
-    "price": 0,
+    "price": 2.16,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/03021 Sauce Hoi Sin 12X397G LEE KUM KEE, Chine.png",
@@ -276,10 +276,10 @@
   {
     "id": "csv-24",
     "imageFilename": "03031 Marinade Teriyaki pour poulet 12x410ml LEE KUM KEE, Chine.jpg",
-    "name": "03031 Marinade Teriyaki pour poulet 12x410ml LEE KUM KEE, Chine",
-    "nameFr": "03031 Marinade Teriyaki pour poulet 12x410ml LEE KUM KEE, Chine",
+    "name": "Marinade Teriyaki pour poulet 12x410ml LEE KUM KEE, Chine",
+    "nameFr": "Marinade Teriyaki pour poulet 12x410ml LEE KUM KEE, Chine",
     "unit": "410 ml",
-    "price": 0,
+    "price": 2.4,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/03031 Marinade Teriyaki pour poulet 12x410ml LEE KUM KEE, Chine.jpg",
@@ -288,10 +288,10 @@
   {
     "id": "csv-25",
     "imageFilename": "03050 Sauce huître Panda 12x907g LEE KUM KEE, Chine.jpeg",
-    "name": "03050 Sauce huître Panda 12x907g LEE KUM KEE, Chine",
-    "nameFr": "03050 Sauce huître Panda 12x907g LEE KUM KEE, Chine",
+    "name": "Sauce huître Panda 12x907g LEE KUM KEE, Chine",
+    "nameFr": "Sauce huître Panda 12x907g LEE KUM KEE, Chine",
     "unit": "907 g",
-    "price": 0,
+    "price": 48.02,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/03050 Sauce huître Panda 12x907g LEE KUM KEE, Chine.jpeg",
@@ -300,10 +300,10 @@
   {
     "id": "csv-26",
     "imageFilename": "03063 Sauce huître Thaï 12x600ml MAE KRUA, Thaïlande.jpg",
-    "name": "03063 Sauce huître Thaï 12x600ml MAE KRUA, Thaïlande",
-    "nameFr": "03063 Sauce huître Thaï 12x600ml MAE KRUA, Thaïlande",
+    "name": "Sauce huître Thaï 12x600ml MAE KRUA, Thaïlande",
+    "nameFr": "Sauce huître Thaï 12x600ml MAE KRUA, Thaïlande",
     "unit": "600 ml",
-    "price": 0,
+    "price": 2.85,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/03063 Sauce huître Thaï 12x600ml MAE KRUA, Thaïlande.jpg"
@@ -311,10 +311,10 @@
   {
     "id": "csv-27",
     "imageFilename": "03081 Sauce poisson PET 12x700ml TIPAROS, Thaïlande.webp",
-    "name": "03081 Sauce poisson PET 12x700ml TIPAROS, Thaïlande",
-    "nameFr": "03081 Sauce poisson PET 12x700ml TIPAROS, Thaïlande",
+    "name": "Sauce poisson PET 12x700ml TIPAROS, Thaïlande",
+    "nameFr": "Sauce poisson PET 12x700ml TIPAROS, Thaïlande",
     "unit": "700 ml",
-    "price": 0,
+    "price": 2.03,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/03081 Sauce poisson PET 12x700ml TIPAROS, Thaïlande.webp"
@@ -322,10 +322,10 @@
   {
     "id": "csv-28",
     "imageFilename": "03130 Sauce soja claire Supérieur 12x600ml PEARL RIVER BRIDGE, Chine.jpg",
-    "name": "03130 Sauce soja claire Supérieur 12x600ml PEARL RIVER BRIDGE, Chine",
-    "nameFr": "03130 Sauce soja claire Supérieur 12x600ml PEARL RIVER BRIDGE, Chine",
+    "name": "Sauce soja claire Supérieur 12x600ml PEARL RIVER BRIDGE, Chine",
+    "nameFr": "Sauce soja claire Supérieur 12x600ml PEARL RIVER BRIDGE, Chine",
     "unit": "600 ml",
-    "price": 0,
+    "price": 1.93,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/03130 Sauce soja claire Supérieur 12x600ml PEARL RIVER BRIDGE, Chine.jpg",
@@ -334,10 +334,10 @@
   {
     "id": "csv-29",
     "imageFilename": "03160 Sauce chili douce pour poulet 12x920g -730ml MAE PLOY, Thaïlande.jpeg",
-    "name": "03160 Sauce chili douce pour poulet 12x920g /730ml MAE PLOY, Thaïlande",
-    "nameFr": "03160 Sauce chili douce pour poulet 12x920g /730ml MAE PLOY, Thaïlande",
+    "name": "Sauce chili douce pour poulet 12x920g /730ml MAE PLOY, Thaïlande",
+    "nameFr": "Sauce chili douce pour poulet 12x920g /730ml MAE PLOY, Thaïlande",
     "unit": "920 g",
-    "price": 0,
+    "price": 2.25,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/03160 Sauce chili douce pour poulet 12x920g -730ml MAE PLOY, Thaïlande.jpeg"
@@ -345,10 +345,10 @@
   {
     "id": "csv-30",
     "imageFilename": "03162 Sauce chili douce pour poulet 24x350g -280ml MAE PLOY, Thaïlande.jpeg",
-    "name": "03162 Sauce chili douce pour poulet 24x350g /280ml MAE PLOY, Thaïlande",
-    "nameFr": "03162 Sauce chili douce pour poulet 24x350g /280ml MAE PLOY, Thaïlande",
+    "name": "Sauce chili douce pour poulet 24x350g /280ml MAE PLOY, Thaïlande",
+    "nameFr": "Sauce chili douce pour poulet 24x350g /280ml MAE PLOY, Thaïlande",
     "unit": "350 g",
-    "price": 0,
+    "price": 1.14,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/03162 Sauce chili douce pour poulet 24x350g -280ml MAE PLOY, Thaïlande.jpeg"
@@ -356,10 +356,10 @@
   {
     "id": "csv-31",
     "imageFilename": "04062 Pousses de bambou SLICES 24x540g LE DRAGON, 300g égoutté.jpeg",
-    "name": "04062 Pousses de bambou SLICES 24x540g LE DRAGON, 300g égoutté",
-    "nameFr": "04062 Pousses de bambou SLICES 24x540g LE DRAGON, 300g égoutté",
+    "name": "Pousses de bambou SLICES 24x540g LE DRAGON, 300g égoutté",
+    "nameFr": "Pousses de bambou SLICES 24x540g LE DRAGON, 300g égoutté",
     "unit": "540 g",
-    "price": 0,
+    "price": 28,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/04062 Pousses de bambou SLICES 24x540g LE DRAGON, 300g égoutté.jpeg"
@@ -367,10 +367,10 @@
   {
     "id": "csv-32",
     "imageFilename": "04062 Pousses de bambou SLICES 24x540g LE DRAGON, 300g égoutté, Chine.jpeg",
-    "name": "04062 Pousses de bambou SLICES 24x540g LE DRAGON, 300g égoutté, Chine",
-    "nameFr": "04062 Pousses de bambou SLICES 24x540g LE DRAGON, 300g égoutté, Chine",
+    "name": "Pousses de bambou SLICES 24x540g LE DRAGON, 300g égoutté, Chine",
+    "nameFr": "Pousses de bambou SLICES 24x540g LE DRAGON, 300g égoutté, Chine",
     "unit": "540 g",
-    "price": 0,
+    "price": 28,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/04062 Pousses de bambou SLICES 24x540g LE DRAGON, 300g égoutté, Chine.jpeg",
@@ -379,10 +379,10 @@
   {
     "id": "csv-33",
     "imageFilename": "04079 Pousses de bambou STRIPS 24x540g LE DRAGON, 300g égoutté.png",
-    "name": "04079 Pousses de bambou STRIPS 24x540g LE DRAGON, 300g égoutté",
-    "nameFr": "04079 Pousses de bambou STRIPS 24x540g LE DRAGON, 300g égoutté",
+    "name": "Pousses de bambou STRIPS 24x540g LE DRAGON, 300g égoutté",
+    "nameFr": "Pousses de bambou STRIPS 24x540g LE DRAGON, 300g égoutté",
     "unit": "540 g",
-    "price": 0,
+    "price": 31,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/04079 Pousses de bambou STRIPS 24x540g LE DRAGON, 300g égoutté.png"
@@ -390,10 +390,10 @@
   {
     "id": "csv-34",
     "imageFilename": "04079 Pousses de bambou STRIPS 24x540g LE DRAGON, 300g égoutté, Chine.jpeg",
-    "name": "04079 Pousses de bambou STRIPS 24x540g LE DRAGON, 300g égoutté, Chine",
-    "nameFr": "04079 Pousses de bambou STRIPS 24x540g LE DRAGON, 300g égoutté, Chine",
+    "name": "Pousses de bambou STRIPS 24x540g LE DRAGON, 300g égoutté, Chine",
+    "nameFr": "Pousses de bambou STRIPS 24x540g LE DRAGON, 300g égoutté, Chine",
     "unit": "540 g",
-    "price": 0,
+    "price": 31,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/04079 Pousses de bambou STRIPS 24x540g LE DRAGON, 300g égoutté, Chine.jpeg",
@@ -402,8 +402,8 @@
   {
     "id": "csv-35",
     "imageFilename": "04580 Glutamate monosodique 99% 40x500gr AJINOMOTO, Thaïlande.jpg",
-    "name": "04580 Glutamate monosodique 99% 40x500gr AJINOMOTO, Thaïlande",
-    "nameFr": "04580 Glutamate monosodique 99% 40x500gr AJINOMOTO, Thaïlande",
+    "name": "Glutamate monosodique 99% 40x500gr AJINOMOTO, Thaïlande",
+    "nameFr": "Glutamate monosodique 99% 40x500gr AJINOMOTO, Thaïlande",
     "unit": "500 g",
     "price": 4.5,
     "category": "Pantry & Canned Goods",
@@ -413,8 +413,8 @@
   {
     "id": "csv-36",
     "imageFilename": "05022 AROY Lait noix coco for cooking-a cuire 24x400ml AROY-D, Thaïlande.jpg",
-    "name": "05022 AROY Lait noix coco for cooking/a cuire 24x400ml AROY-D, Thaïlande",
-    "nameFr": "05022 AROY Lait noix coco for cooking/a cuire 24x400ml AROY-D, Thaïlande",
+    "name": "AROY Lait noix coco for cooking/a cuire 24x400ml AROY-D, Thaïlande",
+    "nameFr": "AROY Lait noix coco for cooking/a cuire 24x400ml AROY-D, Thaïlande",
     "unit": "400 ml",
     "price": 3.22,
     "category": "Pantry & Canned Goods",
@@ -424,8 +424,8 @@
   {
     "id": "csv-37",
     "imageFilename": "05040 Pulpe noix coco fraîche au sirop 24x425g TAS, 150g égoutté, Thaïlande.jpg",
-    "name": "05040 Pulpe noix coco fraîche au sirop 24x425g TAS, 150g égoutté, Thaïlande",
-    "nameFr": "05040 Pulpe noix coco fraîche au sirop 24x425g TAS, 150g égoutté, Thaïlande",
+    "name": "Pulpe noix coco fraîche au sirop 24x425g TAS, 150g égoutté, Thaïlande",
+    "nameFr": "Pulpe noix coco fraîche au sirop 24x425g TAS, 150g égoutté, Thaïlande",
     "unit": "425 g",
     "price": 1.5,
     "category": "Grocery",
@@ -435,8 +435,8 @@
   {
     "id": "csv-38",
     "imageFilename": "05060 AROY Lait de noix coco Tetra 12x1L AROY-D, Vietnam.jpg",
-    "name": "05060 AROY Lait de noix coco Tetra 12x1L AROY-D, Vietnam",
-    "nameFr": "05060 AROY Lait de noix coco Tetra 12x1L AROY-D, Vietnam",
+    "name": "AROY Lait de noix coco Tetra 12x1L AROY-D, Vietnam",
+    "nameFr": "AROY Lait de noix coco Tetra 12x1L AROY-D, Vietnam",
     "unit": "1 L",
     "price": 4.33,
     "category": "Pantry & Canned Goods",
@@ -447,10 +447,10 @@
   {
     "id": "csv-39",
     "imageFilename": "05711 Boisson de goyave 15% 24x350ml FOCO, Thaïlande.jpg",
-    "name": "05711 Boisson de goyave 15% 24x350ml FOCO, Thaïlande",
-    "nameFr": "05711 Boisson de goyave 15% 24x350ml FOCO, Thaïlande",
+    "name": "Boisson de goyave 15% 24x350ml FOCO, Thaïlande",
+    "nameFr": "Boisson de goyave 15% 24x350ml FOCO, Thaïlande",
     "unit": "350 ml",
-    "price": 0,
+    "price": 0.98,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/05711 Boisson de goyave 15% 24x350ml FOCO, Thaïlande.jpg"
@@ -458,10 +458,10 @@
   {
     "id": "csv-40",
     "imageFilename": "05713 Jus de jeune noix coco 80% 24x350ml FOCO, Thailande.jpg",
-    "name": "05713 Jus de jeune noix coco 80% 24x350ml FOCO, Thailande",
-    "nameFr": "05713 Jus de jeune noix coco 80% 24x350ml FOCO, Thailande",
+    "name": "Jus de jeune noix coco 80% 24x350ml FOCO, Thailande",
+    "nameFr": "Jus de jeune noix coco 80% 24x350ml FOCO, Thailande",
     "unit": "350 ml",
-    "price": 0,
+    "price": 98.78,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/05713 Jus de jeune noix coco 80% 24x350ml FOCO, Thailande.jpg",
@@ -470,10 +470,10 @@
   {
     "id": "csv-41",
     "imageFilename": "05713 Jus de jeune noix coco 80% 24x350ml FOCO, Thaïlande.jpg",
-    "name": "05713 Jus de jeune noix coco 80% 24x350ml FOCO, Thaïlande",
-    "nameFr": "05713 Jus de jeune noix coco 80% 24x350ml FOCO, Thaïlande",
+    "name": "Jus de jeune noix coco 80% 24x350ml FOCO, Thaïlande",
+    "nameFr": "Jus de jeune noix coco 80% 24x350ml FOCO, Thaïlande",
     "unit": "350 ml",
-    "price": 0,
+    "price": 1.26,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/05713 Jus de jeune noix coco 80% 24x350ml FOCO, Thaïlande.jpg"
@@ -481,10 +481,10 @@
   {
     "id": "csv-42",
     "imageFilename": "05714 Boisson de lychee 10% 24x350ml FOCO, Thailande.jpg",
-    "name": "05714 Boisson de lychee 10% 24x350ml FOCO, Thailande",
-    "nameFr": "05714 Boisson de lychee 10% 24x350ml FOCO, Thailande",
+    "name": "Boisson de lychee 10% 24x350ml FOCO, Thailande",
+    "nameFr": "Boisson de lychee 10% 24x350ml FOCO, Thailande",
     "unit": "350 ml",
-    "price": 0,
+    "price": 23.52,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/05714 Boisson de lychee 10% 24x350ml FOCO, Thailande.jpg",
@@ -493,8 +493,8 @@
   {
     "id": "csv-43",
     "imageFilename": "05717 Boisson de fruit de la passion 11% 24x350ml FOCO, Thailande.jpg",
-    "name": "05717 Boisson de fruit de la passion 11% 24x350ml FOCO, Thailande",
-    "nameFr": "05717 Boisson de fruit de la passion 11% 24x350ml FOCO, Thailande",
+    "name": "Boisson de fruit de la passion 11% 24x350ml FOCO, Thailande",
+    "nameFr": "Boisson de fruit de la passion 11% 24x350ml FOCO, Thailande",
     "unit": "350 ml",
     "price": 3.5,
     "category": "Beverages",
@@ -505,10 +505,10 @@
   {
     "id": "csv-44",
     "imageFilename": "05717 Boisson de fruit de la passion 11% 24x350ml FOCO, Thaïlande.jpg",
-    "name": "05717 Boisson de fruit de la passion 11% 24x350ml FOCO, Thaïlande",
-    "nameFr": "05717 Boisson de fruit de la passion 11% 24x350ml FOCO, Thaïlande",
+    "name": "Boisson de fruit de la passion 11% 24x350ml FOCO, Thaïlande",
+    "nameFr": "Boisson de fruit de la passion 11% 24x350ml FOCO, Thaïlande",
     "unit": "350 ml",
-    "price": 0,
+    "price": 23.4,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/05717 Boisson de fruit de la passion 11% 24x350ml FOCO, Thaïlande.jpg"
@@ -516,10 +516,10 @@
   {
     "id": "csv-45",
     "imageFilename": "05728 Eau de jeune noix coco 100% 12x1000ml FOCO. Tetra, Vietnam.png",
-    "name": "05728 Eau de jeune noix coco 100% 12x1000ml FOCO. Tetra, Vietnam",
-    "nameFr": "05728 Eau de jeune noix coco 100% 12x1000ml FOCO. Tetra, Vietnam",
+    "name": "Eau de jeune noix coco 100% 12x1000ml FOCO. Tetra, Vietnam",
+    "nameFr": "Eau de jeune noix coco 100% 12x1000ml FOCO. Tetra, Vietnam",
     "unit": "1000 ml",
-    "price": 0,
+    "price": 1.95,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/05728 Eau de jeune noix coco 100% 12x1000ml FOCO. Tetra, Vietnam.png",
@@ -528,10 +528,10 @@
   {
     "id": "csv-46",
     "imageFilename": "05729 Eau de jeune noix coco 100% 12x500ml FOCO. Tetra, Vietnam.jpg",
-    "name": "05729 Eau de jeune noix coco 100% 12x500ml FOCO. Tetra, Vietnam",
-    "nameFr": "05729 Eau de jeune noix coco 100% 12x500ml FOCO. Tetra, Vietnam",
+    "name": "Eau de jeune noix coco 100% 12x500ml FOCO. Tetra, Vietnam",
+    "nameFr": "Eau de jeune noix coco 100% 12x500ml FOCO. Tetra, Vietnam",
     "unit": "500 ml",
-    "price": 0,
+    "price": 1.35,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/05729 Eau de jeune noix coco 100% 12x500ml FOCO. Tetra, Vietnam.jpg",
@@ -540,10 +540,10 @@
   {
     "id": "csv-47",
     "imageFilename": "05732 Boisson de canne à sucre 35% 24x350ml FOCO, Thaïlande.jpg",
-    "name": "05732 Boisson de canne à sucre 35% 24x350ml FOCO, Thaïlande",
-    "nameFr": "05732 Boisson de canne à sucre 35% 24x350ml FOCO, Thaïlande",
+    "name": "Boisson de canne à sucre 35% 24x350ml FOCO, Thaïlande",
+    "nameFr": "Boisson de canne à sucre 35% 24x350ml FOCO, Thaïlande",
     "unit": "350 ml",
-    "price": 0,
+    "price": 21.6,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/05732 Boisson de canne à sucre 35% 24x350ml FOCO, Thaïlande.jpg"
@@ -551,10 +551,10 @@
   {
     "id": "csv-48",
     "imageFilename": "05733 Boisson de tamarin 18% 24x350ml FOCO, Thailande.jpg",
-    "name": "05733 Boisson de tamarin 18% 24x350ml* FOCO, Thaïlande",
-    "nameFr": "05733 Boisson de tamarin 18% 24x350ml* FOCO, Thaïlande",
+    "name": "Boisson de tamarin 18% 24x350ml* FOCO, Thaïlande",
+    "nameFr": "Boisson de tamarin 18% 24x350ml* FOCO, Thaïlande",
     "unit": "350 ml",
-    "price": 0,
+    "price": 21.6,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/05733 Boisson de tamarin 18% 24x350ml FOCO, Thailande.jpg"
@@ -562,10 +562,10 @@
   {
     "id": "csv-49",
     "imageFilename": "05733 Boisson de tamarin 18% 24x350ml FOCO, Thaïlande.jpg",
-    "name": "05733 Boisson de tamarin 18% 24x350ml* FOCO, Thaïlande",
-    "nameFr": "05733 Boisson de tamarin 18% 24x350ml* FOCO, Thaïlande",
+    "name": "Boisson de tamarin 18% 24x350ml* FOCO, Thaïlande",
+    "nameFr": "Boisson de tamarin 18% 24x350ml* FOCO, Thaïlande",
     "unit": "350 ml",
-    "price": 0,
+    "price": 21.6,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/05733 Boisson de tamarin 18% 24x350ml FOCO, Thaïlande.jpg"
@@ -573,10 +573,10 @@
   {
     "id": "csv-50",
     "imageFilename": "05745 Boisson d'Aloé Vera Mangue 20x500ml OKF avec 30% Aloé. Corée du Sud.jpg",
-    "name": "05745 Boisson d'Aloé Vera Mangue 20x500ml OKF avec 30% Aloé. Corée du Sud",
-    "nameFr": "05745 Boisson d'Aloé Vera Mangue 20x500ml OKF avec 30% Aloé. Corée du Sud",
+    "name": "Boisson d'Aloé Vera Mangue 20x500ml OKF avec 30% Aloé. Corée du Sud",
+    "nameFr": "Boisson d'Aloé Vera Mangue 20x500ml OKF avec 30% Aloé. Corée du Sud",
     "unit": "500 ml",
-    "price": 0,
+    "price": 1.08,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/05745 Boisson d'Aloé Vera Mangue 20x500ml OKF avec 30% Aloé. Corée du Sud.jpg"
@@ -584,10 +584,10 @@
   {
     "id": "csv-51",
     "imageFilename": "05746 Boisson d'Aloé Vera Lychee 20x500ml OKF avec 30% Aloé. Corée du Sud.jpg",
-    "name": "05746 Boisson d'Aloé Vera Lychee 20x500ml OKF avec 30% Aloé. Corée du Sud",
-    "nameFr": "05746 Boisson d'Aloé Vera Lychee 20x500ml OKF avec 30% Aloé. Corée du Sud",
+    "name": "Boisson d'Aloé Vera Lychee 20x500ml OKF avec 30% Aloé. Corée du Sud",
+    "nameFr": "Boisson d'Aloé Vera Lychee 20x500ml OKF avec 30% Aloé. Corée du Sud",
     "unit": "500 ml",
-    "price": 0,
+    "price": 1.08,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/05746 Boisson d'Aloé Vera Lychee 20x500ml OKF avec 30% Aloé. Corée du Sud.jpg"
@@ -595,10 +595,10 @@
   {
     "id": "csv-52",
     "imageFilename": "05747 Boisson d'Aloé Vera Grenade 20x500ml OKF avec 30% Aloé. Corée du Sud.jpeg",
-    "name": "05747 Boisson d'Aloé Vera Grenade 20x500ml OKF avec 30% Aloé. Corée du Sud",
-    "nameFr": "05747 Boisson d'Aloé Vera Grenade 20x500ml OKF avec 30% Aloé. Corée du Sud",
+    "name": "Boisson d'Aloé Vera Grenade 20x500ml OKF avec 30% Aloé. Corée du Sud",
+    "nameFr": "Boisson d'Aloé Vera Grenade 20x500ml OKF avec 30% Aloé. Corée du Sud",
     "unit": "500 ml",
-    "price": 0,
+    "price": 1.08,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/05747 Boisson d'Aloé Vera Grenade 20x500ml OKF avec 30% Aloé. Corée du Sud.jpeg"
@@ -606,10 +606,10 @@
   {
     "id": "csv-53",
     "imageFilename": "05758 Boisson d'Aloé Vera Original 'NON-SUCRE' 20x500ml OKF avec 30% Aloé. Corée du Sud.jpg",
-    "name": "05758 Boisson d'Aloé Vera Original 'NON-SUCRE' 20x500ml OKF avec 30% Aloé. Corée du Sud",
-    "nameFr": "05758 Boisson d'Aloé Vera Original 'NON-SUCRE' 20x500ml OKF avec 30% Aloé. Corée du Sud",
+    "name": "Boisson d'Aloé Vera Original 'NON-SUCRE' 20x500ml OKF avec 30% Aloé. Corée du Sud",
+    "nameFr": "Boisson d'Aloé Vera Original 'NON-SUCRE' 20x500ml OKF avec 30% Aloé. Corée du Sud",
     "unit": "500 ml",
-    "price": 0,
+    "price": 1.17,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/05758 Boisson d'Aloé Vera Original 'NON-SUCRE' 20x500ml OKF avec 30% Aloé. Corée du Sud.jpg"
@@ -617,8 +617,8 @@
   {
     "id": "csv-54",
     "imageFilename": "06050 Bière Tsingtao 24x330ml 4.7% Vol. TSINGTAO, Chine.jpg",
-    "name": "06050 Bière Tsingtao 24x330ml 4.7% Vol. TSINGTAO, Chine",
-    "nameFr": "06050 Bière Tsingtao 24x330ml 4.7% Vol. TSINGTAO, Chine",
+    "name": "Bière Tsingtao 24x330ml 4.7% Vol. TSINGTAO, Chine",
+    "nameFr": "Bière Tsingtao 24x330ml 4.7% Vol. TSINGTAO, Chine",
     "unit": "330 ml",
     "price": 2,
     "category": "Beverages",
@@ -629,8 +629,8 @@
   {
     "id": "csv-55",
     "imageFilename": "06080 Bière Chang 24x320ml 5% Vol. CHANG, Thaïlande.jpg",
-    "name": "06080 Bière Chang 24x320ml 5% Vol. CHANG, Thaïlande",
-    "nameFr": "06080 Bière Chang 24x320ml 5% Vol. CHANG, Thaïlande",
+    "name": "Bière Chang 24x320ml 5% Vol. CHANG, Thaïlande",
+    "nameFr": "Bière Chang 24x320ml 5% Vol. CHANG, Thaïlande",
     "unit": "320 ml",
     "price": 2.5,
     "category": "Beverages",
@@ -640,10 +640,10 @@
   {
     "id": "csv-56",
     "imageFilename": "06805 PATE DE ROULEAUX DE PRINT 150mm 40x50 FEUILLES SPRING HOME, Singapore, 40x400gr contient des protéines de lait.jpeg",
-    "name": "06805 PATE DE ROULEAUX DE PRINT 150mm 40x50 FEUILLES SPRING HOME, Singapore, 40x400gr contient des protéines de lait",
-    "nameFr": "06805 PATE DE ROULEAUX DE PRINT 150mm 40x50 FEUILLES SPRING HOME, Singapore, 40x400gr contient des protéines de lait",
+    "name": "PATE DE ROULEAUX DE PRINT 150mm 40x50 FEUILLES SPRING HOME, Singapore, 40x400gr contient des protéines de lait",
+    "nameFr": "PATE DE ROULEAUX DE PRINT 150mm 40x50 FEUILLES SPRING HOME, Singapore, 40x400gr contient des protéines de lait",
     "unit": "400 g",
-    "price": 0,
+    "price": 105.84,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/06805 PATE DE ROULEAUX DE PRINT 150mm 40x50 FEUILLES SPRING HOME, Singapore, 40x400gr contient des protéines de lait.jpeg"
@@ -651,10 +651,10 @@
   {
     "id": "csv-57",
     "imageFilename": "06840 PATE WONTON 90mm 30x300gr (55 Feuilles) HAPPY BELLY, Singapore.jpg",
-    "name": "06840 PATE WONTON 90mm 30x300gr (55 Feuilles) HAPPY BELLY, Singapore",
-    "nameFr": "06840 PATE WONTON 90mm 30x300gr (55 Feuilles) HAPPY BELLY, Singapore",
+    "name": "PATE WONTON 90mm 30x300gr (55 Feuilles) HAPPY BELLY, Singapore",
+    "nameFr": "PATE WONTON 90mm 30x300gr (55 Feuilles) HAPPY BELLY, Singapore",
     "unit": "300 g",
-    "price": 0,
+    "price": 1.94,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/06840 PATE WONTON 90mm 30x300gr (55 Feuilles) HAPPY BELLY, Singapore.jpg",
@@ -663,10 +663,10 @@
   {
     "id": "csv-58",
     "imageFilename": "06856 PATE A GYOZA 100mm 30X285gr HAPPY BELLY, Singapore.jpg",
-    "name": "06856 PATE A GYOZA 100mm 30X285gr HAPPY BELLY, Singapore",
-    "nameFr": "06856 PATE A GYOZA 100mm 30X285gr HAPPY BELLY, Singapore",
+    "name": "PATE A GYOZA 100mm 30X285gr HAPPY BELLY, Singapore",
+    "nameFr": "PATE A GYOZA 100mm 30X285gr HAPPY BELLY, Singapore",
     "unit": "285 g",
-    "price": 0,
+    "price": 54,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/06856 PATE A GYOZA 100mm 30X285gr HAPPY BELLY, Singapore.jpg",
@@ -675,10 +675,10 @@
   {
     "id": "csv-59",
     "imageFilename": "08013 Thé au gingembre instantané 24x360gr (20x18gr) GOLD KILI, Singapour.jpg",
-    "name": "08013 Thé au gingembre instantané 24x360gr (20x18gr) GOLD KILI, Singapour",
-    "nameFr": "08013 Thé au gingembre instantané 24x360gr (20x18gr) GOLD KILI, Singapour",
+    "name": "Thé au gingembre instantané 24x360gr (20x18gr) GOLD KILI, Singapour",
+    "nameFr": "Thé au gingembre instantané 24x360gr (20x18gr) GOLD KILI, Singapour",
     "unit": "360 g",
-    "price": 0,
+    "price": 88.2,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/08013 Thé au gingembre instantané 24x360gr (20x18gr) GOLD KILI, Singapour.jpg",
@@ -709,10 +709,10 @@
   {
     "id": "csv-62",
     "imageFilename": "100030 BOULETTES RIZ GLUANT HARICOTS ROUGE SPRING HOME, Singapore, 24x(10x20gr).jpg",
-    "name": "100030 BOULETTES RIZ GLUANT HARICOTS ROUGE SPRING HOME, Singapore, 24x(10x20gr)",
-    "nameFr": "100030 BOULETTES RIZ GLUANT HARICOTS ROUGE SPRING HOME, Singapore, 24x(10x20gr)",
+    "name": "BOULETTES RIZ GLUANT HARICOTS ROUGE SPRING HOME, Singapore, 24x(10x20gr)",
+    "nameFr": "BOULETTES RIZ GLUANT HARICOTS ROUGE SPRING HOME, Singapore, 24x(10x20gr)",
     "unit": "20 g",
-    "price": 0,
+    "price": 42.12,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/100030 BOULETTES RIZ GLUANT HARICOTS ROUGE SPRING HOME, Singapore, 24x(10x20gr).jpg"
@@ -720,10 +720,10 @@
   {
     "id": "csv-63",
     "imageFilename": "100031 BOULETTES RIZ GLUANT SESAMES SPRING HOME, Singapore, 24x(10x20gr).jpg",
-    "name": "100031 BOULETTES RIZ GLUANT SESAMES SPRING HOME, Singapore, 24x(10x20gr)",
-    "nameFr": "100031 BOULETTES RIZ GLUANT SESAMES SPRING HOME, Singapore, 24x(10x20gr)",
+    "name": "BOULETTES RIZ GLUANT SESAMES SPRING HOME, Singapore, 24x(10x20gr)",
+    "nameFr": "BOULETTES RIZ GLUANT SESAMES SPRING HOME, Singapore, 24x(10x20gr)",
     "unit": "20 g",
-    "price": 0,
+    "price": 42.12,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/100031 BOULETTES RIZ GLUANT SESAMES SPRING HOME, Singapore, 24x(10x20gr).jpg"
@@ -731,8 +731,8 @@
   {
     "id": "csv-64",
     "imageFilename": "100033 FISH BALLS IQF 48x200gr FOODHUT ,Thaïlande.jpg",
-    "name": "100033 FISH BALLS IQF 48x200gr FOODHUT ,Thaïlande",
-    "nameFr": "100033 FISH BALLS IQF 48x200gr FOODHUT ,Thaïlande",
+    "name": "FISH BALLS IQF 48x200gr FOODHUT ,Thaïlande",
+    "nameFr": "FISH BALLS IQF 48x200gr FOODHUT ,Thaïlande",
     "unit": "200 g",
     "price": 0,
     "category": "Fresh Seafood & Fish",
@@ -742,10 +742,10 @@
   {
     "id": "csv-65",
     "imageFilename": "100209 ROTI PARATHA NATURE 24x320gr SPRING HOME, Singapor, 5pces x64gr.png",
-    "name": "100209 ROTI PARATHA NATURE 24x320gr SPRING HOME, Singapor, 5pces x64gr",
-    "nameFr": "100209 ROTI PARATHA NATURE 24x320gr SPRING HOME, Singapor, 5pces x64gr",
+    "name": "ROTI PARATHA NATURE 24x320gr SPRING HOME, Singapor, 5pces x64gr",
+    "nameFr": "ROTI PARATHA NATURE 24x320gr SPRING HOME, Singapor, 5pces x64gr",
     "unit": "320 g",
-    "price": 0,
+    "price": 54,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/100209 ROTI PARATHA NATURE 24x320gr SPRING HOME, Singapor, 5pces x64gr.png",
@@ -754,10 +754,10 @@
   {
     "id": "csv-66",
     "imageFilename": "100336 CHAOKOH Lait noix coco Tetra 12x500ml CHAOKOH, Thaïlande.png",
-    "name": "100336 CHAOKOH Lait noix coco Tetra 12x500ml CHAOKOH, Thaïlande",
-    "nameFr": "100336 CHAOKOH Lait noix coco Tetra 12x500ml CHAOKOH, Thaïlande",
+    "name": "CHAOKOH Lait noix coco Tetra 12x500ml CHAOKOH, Thaïlande",
+    "nameFr": "CHAOKOH Lait noix coco Tetra 12x500ml CHAOKOH, Thaïlande",
     "unit": "500 ml",
-    "price": 0,
+    "price": 25.87,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/100336 CHAOKOH Lait noix coco Tetra 12x500ml CHAOKOH, Thaïlande.png"
@@ -765,10 +765,10 @@
   {
     "id": "csv-67",
     "imageFilename": "100465 Farine de riz 20x500gr STAR LION, Thaïlande.jpg",
-    "name": "100465 Farine de riz 20x500gr STAR LION, Thaïlande",
-    "nameFr": "100465 Farine de riz 20x500gr STAR LION, Thaïlande",
+    "name": "Farine de riz 20x500gr STAR LION, Thaïlande",
+    "nameFr": "Farine de riz 20x500gr STAR LION, Thaïlande",
     "unit": "500 g",
-    "price": 0,
+    "price": 1.7,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/100465 Farine de riz 20x500gr STAR LION, Thaïlande.jpg"
@@ -776,8 +776,8 @@
   {
     "id": "csv-68",
     "imageFilename": "100467 Vinaigre de table clair 12x1000ml GOLDEN MOUNTAIN, Thaïlande.jpg",
-    "name": "100467 Vinaigre de table clair 12x1000ml GOLDEN MOUNTAIN, Thaïlande",
-    "nameFr": "100467 Vinaigre de table clair 12x1000ml GOLDEN MOUNTAIN, Thaïlande",
+    "name": "Vinaigre de table clair 12x1000ml GOLDEN MOUNTAIN, Thaïlande",
+    "nameFr": "Vinaigre de table clair 12x1000ml GOLDEN MOUNTAIN, Thaïlande",
     "unit": "1000 ml",
     "price": 3.35,
     "category": "Pantry & Canned Goods",
@@ -787,8 +787,8 @@
   {
     "id": "csv-69",
     "imageFilename": "100529 Oignons rouges frits 24x400g VALCOM, Thaïlande.jpeg",
-    "name": "100529 Oignons rouges frits 24x400g VALCOM, Thaïlande",
-    "nameFr": "100529 Oignons rouges frits 24x400g VALCOM, Thaïlande",
+    "name": "Oignons rouges frits 24x400g VALCOM, Thaïlande",
+    "nameFr": "Oignons rouges frits 24x400g VALCOM, Thaïlande",
     "unit": "400 g",
     "price": 6.2,
     "category": "Grocery",
@@ -798,8 +798,8 @@
   {
     "id": "csv-70",
     "imageFilename": "100832 Brisures de Riz Jasmin Siam 10x1kg LE DRAGON, Thaïlande.png",
-    "name": "100832 Brisures de Riz Jasmin Siam 10x1kg LE DRAGON, Thaïlande",
-    "nameFr": "100832 Brisures de Riz Jasmin Siam 10x1kg LE DRAGON, Thaïlande",
+    "name": "Brisures de Riz Jasmin Siam 10x1kg LE DRAGON, Thaïlande",
+    "nameFr": "Brisures de Riz Jasmin Siam 10x1kg LE DRAGON, Thaïlande",
     "unit": "1 kg",
     "price": 4.7,
     "category": "Rice & Grains",
@@ -809,8 +809,8 @@
   {
     "id": "csv-71",
     "imageFilename": "100841 Brisures de Riz Jasmin Siam 1x5kg LE DRAGON, Thaïlande.jpg",
-    "name": "100841 Brisures de Riz Jasmin Siam 1x5kg LE DRAGON, Thaïlande",
-    "nameFr": "100841 Brisures de Riz Jasmin Siam 1x5kg LE DRAGON, Thaïlande",
+    "name": "Brisures de Riz Jasmin Siam 1x5kg LE DRAGON, Thaïlande",
+    "nameFr": "Brisures de Riz Jasmin Siam 1x5kg LE DRAGON, Thaïlande",
     "unit": "5 kg",
     "price": 20.25,
     "category": "Rice & Grains",
@@ -820,8 +820,8 @@
   {
     "id": "csv-72",
     "imageFilename": "100887 Riz Jasmin Siam 1x5kg AAA 2024 LE DRAGON, Thaïlande.jpg",
-    "name": "100887 Riz Jasmin Siam 1x5kg AAA 2024 LE DRAGON, Thaïlande",
-    "nameFr": "100887 Riz Jasmin Siam 1x5kg AAA 2024 LE DRAGON, Thaïlande",
+    "name": "Riz Jasmin Siam 1x5kg AAA 2024 LE DRAGON, Thaïlande",
+    "nameFr": "Riz Jasmin Siam 1x5kg AAA 2024 LE DRAGON, Thaïlande",
     "unit": "per kg",
     "price": 4.6,
     "category": "Rice & Grains",
@@ -831,10 +831,10 @@
   {
     "id": "csv-73",
     "imageFilename": "100898 Riz Jasmin Siam 1x25Kg AAA 2024 LE DRAGON, Thaïlande.png",
-    "name": "100898 Riz Jasmin Siam 1x25Kg AAA 2024 LE DRAGON, Thaïlande",
-    "nameFr": "100898 Riz Jasmin Siam 1x25Kg AAA 2024 LE DRAGON, Thaïlande",
+    "name": "Riz Jasmin Siam 1x25Kg AAA 2024 LE DRAGON, Thaïlande",
+    "nameFr": "Riz Jasmin Siam 1x25Kg AAA 2024 LE DRAGON, Thaïlande",
     "unit": "per kg",
-    "price": 0,
+    "price": 396,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/100898 Riz Jasmin Siam 1x25Kg AAA 2024 LE DRAGON, Thaïlande.png"
@@ -842,8 +842,8 @@
   {
     "id": "csv-74",
     "imageFilename": "100898 Riz Jasmin Siam 1x25Kg AAA 2024 LE DRAGON, Thaïlande.png",
-    "name": "100898 Riz Jasmin Siam 1x25kg AAA 2024 LE DRAGON, Thaïlande",
-    "nameFr": "100898 Riz Jasmin Siam 1x25kg AAA 2024 LE DRAGON, Thaïlande",
+    "name": "Riz Jasmin Siam 1x25kg AAA 2024 LE DRAGON, Thaïlande",
+    "nameFr": "Riz Jasmin Siam 1x25kg AAA 2024 LE DRAGON, Thaïlande",
     "unit": "per kg",
     "price": 4.7,
     "category": "Rice & Grains",
@@ -853,8 +853,8 @@
   {
     "id": "csv-75",
     "imageFilename": "100964 PERLE DE TARO À LA CRÈME DE COCO 12X150G Thaïlande.jpg",
-    "name": "100964 PERLE DE TARO À LA CRÈME DE COCO 12X150G Thaïlande",
-    "nameFr": "100964 PERLE DE TARO À LA CRÈME DE COCO 12X150G Thaïlande",
+    "name": "PERLE DE TARO À LA CRÈME DE COCO 12X150G Thaïlande",
+    "nameFr": "PERLE DE TARO À LA CRÈME DE COCO 12X150G Thaïlande",
     "unit": "150 g",
     "price": 0,
     "category": "Grocery",
@@ -864,8 +864,8 @@
   {
     "id": "csv-76",
     "imageFilename": "100965 GLUTINOUS RICE & DURIAN IN COCONUT CREAM 12X150G Thaïlande.jpg",
-    "name": "100965 GLUTINOUS RICE & DURIAN IN COCONUT CREAM 12X150G Thaïlande",
-    "nameFr": "100965 GLUTINOUS RICE & DURIAN IN COCONUT CREAM 12X150G Thaïlande",
+    "name": "GLUTINOUS RICE & DURIAN IN COCONUT CREAM 12X150G Thaïlande",
+    "nameFr": "GLUTINOUS RICE & DURIAN IN COCONUT CREAM 12X150G Thaïlande",
     "unit": "150 g",
     "price": 0,
     "category": "Grocery",
@@ -875,8 +875,8 @@
   {
     "id": "csv-77",
     "imageFilename": "100966 PERLE DE TAPIOCA-HARICOT À LA CRÈME DE COCO 12X150G Thaïlande.jpg",
-    "name": "100966 PERLE DE TAPIOCA/HARICOT À LA CRÈME DE COCO 12X150G Thaïlande",
-    "nameFr": "100966 PERLE DE TAPIOCA/HARICOT À LA CRÈME DE COCO 12X150G Thaïlande",
+    "name": "PERLE DE TAPIOCA/HARICOT À LA CRÈME DE COCO 12X150G Thaïlande",
+    "nameFr": "PERLE DE TAPIOCA/HARICOT À LA CRÈME DE COCO 12X150G Thaïlande",
     "unit": "150 g",
     "price": 0,
     "category": "Rice & Grains",
@@ -886,10 +886,10 @@
   {
     "id": "csv-78",
     "imageFilename": "100994 Riz Jasmin Siam 1x10kg AAA 2024 LE DRAGON.jpg",
-    "name": "100994 Riz Jasmin Siam 1x10kg AAA 2024 LE DRAGON",
-    "nameFr": "100994 Riz Jasmin Siam 1x10kg AAA 2024 LE DRAGON",
+    "name": "Riz Jasmin Siam 1x10kg AAA 2024 LE DRAGON",
+    "nameFr": "Riz Jasmin Siam 1x10kg AAA 2024 LE DRAGON",
     "unit": "per kg",
-    "price": 0,
+    "price": 825,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/100994 Riz Jasmin Siam 1x10kg AAA 2024 LE DRAGON.jpg"
@@ -897,10 +897,10 @@
   {
     "id": "csv-79",
     "imageFilename": "100994 Riz Jasmin Siam 1x10kg AAA 2024 LE DRAGON, Thaïlande.jpg",
-    "name": "100994 Riz Jasmin Siam 1x10kg AAA 2024 LE DRAGON, Thaïlande",
-    "nameFr": "100994 Riz Jasmin Siam 1x10kg AAA 2024 LE DRAGON, Thaïlande",
+    "name": "Riz Jasmin Siam 1x10kg AAA 2024 LE DRAGON, Thaïlande",
+    "nameFr": "Riz Jasmin Siam 1x10kg AAA 2024 LE DRAGON, Thaïlande",
     "unit": "per kg",
-    "price": 0,
+    "price": 297,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/100994 Riz Jasmin Siam 1x10kg AAA 2024 LE DRAGON, Thaïlande.jpg"
@@ -908,8 +908,8 @@
   {
     "id": "csv-80",
     "imageFilename": "101110 Boisson d'Aloé Vera Pastèque 20 x 500 ml OKF avec 30% Aloé. Corée du Sud.jpg",
-    "name": "101110 Boisson d'Aloé Vera Pastèque 20 x 500 ml OKF avec 30% Aloé. Corée du Sud",
-    "nameFr": "101110 Boisson d'Aloé Vera Pastèque 20 x 500 ml OKF avec 30% Aloé. Corée du Sud",
+    "name": "Boisson d'Aloé Vera Pastèque 20 x 500 ml OKF avec 30% Aloé. Corée du Sud",
+    "nameFr": "Boisson d'Aloé Vera Pastèque 20 x 500 ml OKF avec 30% Aloé. Corée du Sud",
     "unit": "500 ml",
     "price": 0,
     "category": "Beverages",
@@ -919,8 +919,8 @@
   {
     "id": "csv-81",
     "imageFilename": "101112 Boisson d'Aloé Vera Original 12 x 1.5 L OKF, Corée du Sud.jpg",
-    "name": "101112 Boisson d'Aloé Vera Original 12 x 1.5 L OKF, Corée du Sud",
-    "nameFr": "101112 Boisson d'Aloé Vera Original 12 x 1.5 L OKF, Corée du Sud",
+    "name": "Boisson d'Aloé Vera Original 12 x 1.5 L OKF, Corée du Sud",
+    "nameFr": "Boisson d'Aloé Vera Original 12 x 1.5 L OKF, Corée du Sud",
     "unit": "1.5 L",
     "price": 0,
     "category": "Beverages",
@@ -930,10 +930,10 @@
   {
     "id": "csv-82",
     "imageFilename": "101113 Boisson d'Aloé Vera Mangue 12 x 1.5 L OKF, Corée du Sud.jpg",
-    "name": "101113 Boisson d'Aloé Vera Mangue 12 x 1.5 L OKF, Corée du Sud",
-    "nameFr": "101113 Boisson d'Aloé Vera Mangue 12 x 1.5 L OKF, Corée du Sud",
+    "name": "Boisson d'Aloé Vera Mangue 12 x 1.5 L OKF, Corée du Sud",
+    "nameFr": "Boisson d'Aloé Vera Mangue 12 x 1.5 L OKF, Corée du Sud",
     "unit": "1.5 L",
-    "price": 0,
+    "price": 2.52,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/101113 Boisson d'Aloé Vera Mangue 12 x 1.5 L OKF, Corée du Sud.jpg"
@@ -941,10 +941,10 @@
   {
     "id": "csv-83",
     "imageFilename": "1029 POULET MAGEN.png",
-    "name": "1029 POULET MAGEN",
-    "nameFr": "1029 POULET MAGEN",
+    "name": "POULET MAGEN",
+    "nameFr": "POULET MAGEN",
     "unit": "1 unit",
-    "price": 0,
+    "price": 39,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/1029 POULET MAGEN.png"
@@ -952,8 +952,8 @@
   {
     "id": "csv-84",
     "imageFilename": "10291 GF CUISSES GRENOUILLES 40-60 YOGA IQF 10x1kg GOLD FROG, Indonésie.jpg",
-    "name": "10291 GF CUISSES GRENOUILLES 40/60 YOGA IQF 10x1kg GOLD FROG, Indonésie",
-    "nameFr": "10291 GF CUISSES GRENOUILLES 40/60 YOGA IQF 10x1kg GOLD FROG, Indonésie",
+    "name": "GF CUISSES GRENOUILLES 40/60 YOGA IQF 10x1kg GOLD FROG, Indonésie",
+    "nameFr": "GF CUISSES GRENOUILLES 40/60 YOGA IQF 10x1kg GOLD FROG, Indonésie",
     "unit": "1 kg",
     "price": 3.3,
     "category": "Rice & Grains",
@@ -963,8 +963,8 @@
   {
     "id": "csv-85",
     "imageFilename": "10300 LD CUISSES GRENOUILLES 60-80 YOGA IQF 10x1kg LE DRAGON, Indonésie.jpg",
-    "name": "10300 LD CUISSES GRENOUILLES 60/80 YOGA IQF 10x1kg LE DRAGON, Indonésie",
-    "nameFr": "10300 LD CUISSES GRENOUILLES 60/80 YOGA IQF 10x1kg LE DRAGON, Indonésie",
+    "name": "LD CUISSES GRENOUILLES 60/80 YOGA IQF 10x1kg LE DRAGON, Indonésie",
+    "nameFr": "LD CUISSES GRENOUILLES 60/80 YOGA IQF 10x1kg LE DRAGON, Indonésie",
     "unit": "1 kg",
     "price": 3.3,
     "category": "Rice & Grains",
@@ -985,10 +985,10 @@
   {
     "id": "csv-87",
     "imageFilename": "10870 RLX DE PRINTEMPS 12x500gr (25x20gr) crevettes.webp",
-    "name": "10870 RLX DE PRINTEMPS 12x500gr (25x20gr) crevettes",
-    "nameFr": "10870 RLX DE PRINTEMPS 12x500gr (25x20gr) crevettes",
+    "name": "RLX DE PRINTEMPS 12x500gr (25x20gr) crevettes",
+    "nameFr": "RLX DE PRINTEMPS 12x500gr (25x20gr) crevettes",
     "unit": "500 g",
-    "price": 0,
+    "price": 92.9,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/10870 RLX DE PRINTEMPS 12x500gr (25x20gr) crevettes.webp"
@@ -1007,10 +1007,10 @@
   {
     "id": "csv-89",
     "imageFilename": "110224 PAIN CHINOIS À LA VAPEUR 12X300GR (6PIÈCES) HAPPY BELLY, Singapore.jpg",
-    "name": "110224 PAIN CHINOIS À LA VAPEUR 12X300GR (6PIÈCES) HAPPY BELLY, Singapore",
-    "nameFr": "110224 PAIN CHINOIS À LA VAPEUR 12X300GR (6PIÈCES) HAPPY BELLY, Singapore",
+    "name": "PAIN CHINOIS À LA VAPEUR 12X300GR (6PIÈCES) HAPPY BELLY, Singapore",
+    "nameFr": "PAIN CHINOIS À LA VAPEUR 12X300GR (6PIÈCES) HAPPY BELLY, Singapore",
     "unit": "300 g",
-    "price": 0,
+    "price": 30.24,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/110224 PAIN CHINOIS À LA VAPEUR 12X300GR (6PIÈCES) HAPPY BELLY, Singapore.jpg",
@@ -1019,10 +1019,10 @@
   {
     "id": "csv-90",
     "imageFilename": "110286 Nouilles de riz 1mm 30x500gr How How Thaïlande.jpg",
-    "name": "110286 Nouilles de riz 1mm 30x500gr How How Thaïlande",
-    "nameFr": "110286 Nouilles de riz 1mm 30x500gr How How Thaïlande",
+    "name": "Nouilles de riz 1mm 30x500gr How How Thaïlande",
+    "nameFr": "Nouilles de riz 1mm 30x500gr How How Thaïlande",
     "unit": "500 g",
-    "price": 0,
+    "price": 1.87,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/110286 Nouilles de riz 1mm 30x500gr How How Thaïlande.jpg"
@@ -1030,10 +1030,10 @@
   {
     "id": "csv-91",
     "imageFilename": "110287 Nouilles de riz 5mm 30x500gr How How Thaïlande.png",
-    "name": "110287 Nouilles de riz 5mm 30x500gr How How Thaïlande",
-    "nameFr": "110287 Nouilles de riz 5mm 30x500gr How How Thaïlande",
+    "name": "Nouilles de riz 5mm 30x500gr How How Thaïlande",
+    "nameFr": "Nouilles de riz 5mm 30x500gr How How Thaïlande",
     "unit": "500 g",
-    "price": 0,
+    "price": 47.25,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/110287 Nouilles de riz 5mm 30x500gr How How Thaïlande.png"
@@ -1041,10 +1041,10 @@
   {
     "id": "csv-92",
     "imageFilename": "110288 Nouilles de riz 10mm 30x500gr How How Thaïlande.jpg",
-    "name": "110288 Nouilles de riz 10mm 30x500gr How How Thaïlande",
-    "nameFr": "110288 Nouilles de riz 10mm 30x500gr How How Thaïlande",
+    "name": "Nouilles de riz 10mm 30x500gr How How Thaïlande",
+    "nameFr": "Nouilles de riz 10mm 30x500gr How How Thaïlande",
     "unit": "500 g",
-    "price": 0,
+    "price": 1.87,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/110288 Nouilles de riz 10mm 30x500gr How How Thaïlande.jpg"
@@ -1052,10 +1052,10 @@
   {
     "id": "csv-93",
     "imageFilename": "110297 POULET KARAAGE 10X600G AJINOMOTO, Thaïlande.jpg",
-    "name": "110297 POULET KARAAGE 10X600G AJINOMOTO, Thaïlande",
-    "nameFr": "110297 POULET KARAAGE 10X600G AJINOMOTO, Thaïlande",
+    "name": "POULET KARAAGE 10X600G AJINOMOTO, Thaïlande",
+    "nameFr": "POULET KARAAGE 10X600G AJINOMOTO, Thaïlande",
     "unit": "600 g",
-    "price": 0,
+    "price": 121.52,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/110297 POULET KARAAGE 10X600G AJINOMOTO, Thaïlande.jpg"
@@ -1063,10 +1063,10 @@
   {
     "id": "csv-94",
     "imageFilename": "110299 DUMPLING JJIN MANDU 12X540G ALLGROO, Cor Tofu, Poireau, Pousse Soja, Chou, Radis, Vermicelle.jpg",
-    "name": "110299 DUMPLING JJIN MANDU 12X540G ALLGROO, Cor Tofu, Poireau, Pousse Soja, Chou, Radis, Vermicelle",
-    "nameFr": "110299 DUMPLING JJIN MANDU 12X540G ALLGROO, Cor Tofu, Poireau, Pousse Soja, Chou, Radis, Vermicelle",
+    "name": "DUMPLING JJIN MANDU 12X540G ALLGROO, Cor Tofu, Poireau, Pousse Soja, Chou, Radis, Vermicelle",
+    "nameFr": "DUMPLING JJIN MANDU 12X540G ALLGROO, Cor Tofu, Poireau, Pousse Soja, Chou, Radis, Vermicelle",
     "unit": "540 g",
-    "price": 0,
+    "price": 48.6,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/110299 DUMPLING JJIN MANDU 12X540G ALLGROO, Cor Tofu, Poireau, Pousse Soja, Chou, Radis, Vermicelle.jpg",
@@ -1075,10 +1075,10 @@
   {
     "id": "csv-95",
     "imageFilename": "110299 DUMPLING JJIN MANDU 12X540G ALLGROO, Corée Tofu, Poireau, Pousse Soja, Chou, Radis, Vermicelle.jpg",
-    "name": "110299 DUMPLING JJIN MANDU 12X540G ALLGROO, Corée Tofu, Poireau, Pousse Soja, Chou, Radis, Vermicelle",
-    "nameFr": "110299 DUMPLING JJIN MANDU 12X540G ALLGROO, Corée Tofu, Poireau, Pousse Soja, Chou, Radis, Vermicelle",
+    "name": "DUMPLING JJIN MANDU 12X540G ALLGROO, Corée Tofu, Poireau, Pousse Soja, Chou, Radis, Vermicelle",
+    "nameFr": "DUMPLING JJIN MANDU 12X540G ALLGROO, Corée Tofu, Poireau, Pousse Soja, Chou, Radis, Vermicelle",
     "unit": "540 g",
-    "price": 0,
+    "price": 48.6,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/110299 DUMPLING JJIN MANDU 12X540G ALLGROO, Corée Tofu, Poireau, Pousse Soja, Chou, Radis, Vermicelle.jpg",
@@ -1087,10 +1087,10 @@
   {
     "id": "csv-96",
     "imageFilename": "110304 GYOZA KIMCHI MANDU 12X540G ALLGROO, Cor.jpg",
-    "name": "110304 GYOZA KIMCHI MANDU 12X540G ALLGROO, Cor",
-    "nameFr": "110304 GYOZA KIMCHI MANDU 12X540G ALLGROO, Cor",
+    "name": "GYOZA KIMCHI MANDU 12X540G ALLGROO, Cor",
+    "nameFr": "GYOZA KIMCHI MANDU 12X540G ALLGROO, Cor",
     "unit": "540 g",
-    "price": 0,
+    "price": 47.52,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/110304 GYOZA KIMCHI MANDU 12X540G ALLGROO, Cor.jpg",
@@ -1099,10 +1099,10 @@
   {
     "id": "csv-97",
     "imageFilename": "110304 GYOZA KIMCHI MANDU 12X540G ALLGROO, Corée.webp",
-    "name": "110304 GYOZA KIMCHI MANDU 12X540G ALLGROO, Corée",
-    "nameFr": "110304 GYOZA KIMCHI MANDU 12X540G ALLGROO, Corée",
+    "name": "GYOZA KIMCHI MANDU 12X540G ALLGROO, Corée",
+    "nameFr": "GYOZA KIMCHI MANDU 12X540G ALLGROO, Corée",
     "unit": "540 g",
-    "price": 0,
+    "price": 47.52,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/110304 GYOZA KIMCHI MANDU 12X540G ALLGROO, Corée.webp"
@@ -1110,8 +1110,8 @@
   {
     "id": "csv-98",
     "imageFilename": "110305 DUMPLING KIMCHI SON MANDU 12X540G ALLGROO, Cor Kimchi, Tofu, Vermicelles.jpg",
-    "name": "110305 DUMPLING KIMCHI SON MANDU 12X540G ALLGROO, Corée Kimchi, Tofu, Vermicelles",
-    "nameFr": "110305 DUMPLING KIMCHI SON MANDU 12X540G ALLGROO, Corée Kimchi, Tofu, Vermicelles",
+    "name": "DUMPLING KIMCHI SON MANDU 12X540G ALLGROO, Corée Kimchi, Tofu, Vermicelles",
+    "nameFr": "DUMPLING KIMCHI SON MANDU 12X540G ALLGROO, Corée Kimchi, Tofu, Vermicelles",
     "unit": "540 g",
     "price": 0,
     "category": "Rice & Grains",
@@ -1122,8 +1122,8 @@
   {
     "id": "csv-99",
     "imageFilename": "110305 DUMPLING KIMCHI SON MANDU 12X540G ALLGROO, Corée Kimchi, Tofu, Vermicelles.jpg",
-    "name": "110305 DUMPLING KIMCHI SON MANDU 12X540G ALLGROO, Corée Kimchi, Tofu, Vermicelles",
-    "nameFr": "110305 DUMPLING KIMCHI SON MANDU 12X540G ALLGROO, Corée Kimchi, Tofu, Vermicelles",
+    "name": "DUMPLING KIMCHI SON MANDU 12X540G ALLGROO, Corée Kimchi, Tofu, Vermicelles",
+    "nameFr": "DUMPLING KIMCHI SON MANDU 12X540G ALLGROO, Corée Kimchi, Tofu, Vermicelles",
     "unit": "540 g",
     "price": 0,
     "category": "Rice & Grains",
@@ -1134,8 +1134,8 @@
   {
     "id": "csv-100",
     "imageFilename": "110305 DUMPLING KIMCHI SON MANDU 12X540G ALLGROO, Corée Kimchi, Tofu, Vermicelles EN RUPTURE DE STOCK.jpg",
-    "name": "110305 DUMPLING KIMCHI SON MANDU 12X540G ALLGROO, Corée Kimchi, Tofu, Vermicelles",
-    "nameFr": "110305 DUMPLING KIMCHI SON MANDU 12X540G ALLGROO, Corée Kimchi, Tofu, Vermicelles",
+    "name": "DUMPLING KIMCHI SON MANDU 12X540G ALLGROO, Corée Kimchi, Tofu, Vermicelles",
+    "nameFr": "DUMPLING KIMCHI SON MANDU 12X540G ALLGROO, Corée Kimchi, Tofu, Vermicelles",
     "unit": "540 g",
     "price": 0,
     "category": "Rice & Grains",
@@ -1146,10 +1146,10 @@
   {
     "id": "csv-101",
     "imageFilename": "110369 Longan au sirop 24x565g AROY-D, 230g égoutté.jpg",
-    "name": "110369 Longan au sirop 24x565g AROY-D, 230g égoutté",
-    "nameFr": "110369 Longan au sirop 24x565g AROY-D, 230g égoutté",
+    "name": "Longan au sirop 24x565g AROY-D, 230g égoutté",
+    "nameFr": "Longan au sirop 24x565g AROY-D, 230g égoutté",
     "unit": "565 g",
-    "price": 0,
+    "price": 69,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/110369 Longan au sirop 24x565g AROY-D, 230g égoutté.jpg"
@@ -1157,10 +1157,10 @@
   {
     "id": "csv-102",
     "imageFilename": "110369 Longan au sirop 24x565g AROY-D, 230g égoutté, Thaïlande.jpg",
-    "name": "110369 Longan au sirop 24x565g AROY-D, 230g égoutté, Thaïlande",
-    "nameFr": "110369 Longan au sirop 24x565g AROY-D, 230g égoutté, Thaïlande",
+    "name": "Longan au sirop 24x565g AROY-D, 230g égoutté, Thaïlande",
+    "nameFr": "Longan au sirop 24x565g AROY-D, 230g égoutté, Thaïlande",
     "unit": "565 g",
-    "price": 0,
+    "price": 62.1,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/110369 Longan au sirop 24x565g AROY-D, 230g égoutté, Thaïlande.jpg"
@@ -1168,8 +1168,8 @@
   {
     "id": "csv-103",
     "imageFilename": "110529 Riz Gluant blanc 10x1kg LE DRAGON, Thaïlande.jpg",
-    "name": "110529 Riz Gluant blanc 10x1kg LE DRAGON, Thaïlande",
-    "nameFr": "110529 Riz Gluant blanc 10x1kg LE DRAGON, Thaïlande",
+    "name": "Riz Gluant blanc 10x1kg LE DRAGON, Thaïlande",
+    "nameFr": "Riz Gluant blanc 10x1kg LE DRAGON, Thaïlande",
     "unit": "per kg",
     "price": 6.5,
     "category": "Rice & Grains",
@@ -1179,10 +1179,10 @@
   {
     "id": "csv-104",
     "imageFilename": "110597 GYOZA POULET LEGUME 12x600gr(30x20g) 360 pièces, BIBIGO, Allemagne.jpg",
-    "name": "110597 GYOZA POULET LEGUME 12x600gr(30x20g) 360 pièces, BIBIGO, Allemagne",
-    "nameFr": "110597 GYOZA POULET LEGUME 12x600gr(30x20g) 360 pièces, BIBIGO, Allemagne",
+    "name": "GYOZA POULET LEGUME 12x600gr(30x20g) 360 pièces, BIBIGO, Allemagne",
+    "nameFr": "GYOZA POULET LEGUME 12x600gr(30x20g) 360 pièces, BIBIGO, Allemagne",
     "unit": "600 g",
-    "price": 0,
+    "price": 79.74,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/110597 GYOZA POULET LEGUME 12x600gr(30x20g) 360 pièces, BIBIGO, Allemagne.jpg",
@@ -1191,8 +1191,8 @@
   {
     "id": "csv-105",
     "imageFilename": "11372 POULPE FLOWER 2-3kg NETTOYÉ-VIDÉ IQF FESBA, Espagne.jpg",
-    "name": "11372 POULPE FLOWER 2-3kg NETTOYÉ/VIDÉ IQF ~12kg FESBA, Espagne",
-    "nameFr": "11372 POULPE FLOWER 2-3kg NETTOYÉ/VIDÉ IQF ~12kg FESBA, Espagne",
+    "name": "POULPE FLOWER 2-3kg NETTOYÉ/VIDÉ IQF ~12kg FESBA, Espagne",
+    "nameFr": "POULPE FLOWER 2-3kg NETTOYÉ/VIDÉ IQF ~12kg FESBA, Espagne",
     "unit": "1 unit",
     "price": 3.3,
     "category": "Frozen & Misc",
@@ -1214,10 +1214,10 @@
   {
     "id": "csv-107",
     "imageFilename": "116153 ORIENTAL BREAD (PANDAN) 12X300GR HAPPY BELLY, Singapore.jpg",
-    "name": "116153 ORIENTAL BREAD (PANDAN) 12X300GR HAPPY BELLY, Singapore",
-    "nameFr": "116153 ORIENTAL BREAD (PANDAN) 12X300GR HAPPY BELLY, Singapore",
+    "name": "ORIENTAL BREAD (PANDAN) 12X300GR HAPPY BELLY, Singapore",
+    "nameFr": "ORIENTAL BREAD (PANDAN) 12X300GR HAPPY BELLY, Singapore",
     "unit": "300 g",
-    "price": 0,
+    "price": 30.24,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/116153 ORIENTAL BREAD (PANDAN) 12X300GR HAPPY BELLY, Singapore.jpg",
@@ -1226,10 +1226,10 @@
   {
     "id": "csv-108",
     "imageFilename": "116192 GYOZA CHAMPIGNONS & EDAMAME 12x400G AJINOMOTOT, Pologne.jpg",
-    "name": "116192 GYOZA CHAMPIGNONS & EDAMAME 12x400G AJINOMOTOT, Pologne",
-    "nameFr": "116192 GYOZA CHAMPIGNONS & EDAMAME 12x400G AJINOMOTOT, Pologne",
+    "name": "GYOZA CHAMPIGNONS & EDAMAME 12x400G AJINOMOTOT, Pologne",
+    "nameFr": "GYOZA CHAMPIGNONS & EDAMAME 12x400G AJINOMOTOT, Pologne",
     "unit": "400 g",
-    "price": 0,
+    "price": 54,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/116192 GYOZA CHAMPIGNONS & EDAMAME 12x400G AJINOMOTOT, Pologne.jpg",
@@ -1238,10 +1238,10 @@
   {
     "id": "csv-109",
     "imageFilename": "116200 GYOZA WAKAME & LEGUME 12x400G AJINOMOTOT, Pologne.png",
-    "name": "116200 GYOZA WAKAME & LEGUME 12x400G AJINOMOTOT, Pologne",
-    "nameFr": "116200 GYOZA WAKAME & LEGUME 12x400G AJINOMOTOT, Pologne",
+    "name": "GYOZA WAKAME & LEGUME 12x400G AJINOMOTOT, Pologne",
+    "nameFr": "GYOZA WAKAME & LEGUME 12x400G AJINOMOTOT, Pologne",
     "unit": "400 g",
-    "price": 0,
+    "price": 54,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/116200 GYOZA WAKAME & LEGUME 12x400G AJINOMOTOT, Pologne.png",
@@ -1250,10 +1250,10 @@
   {
     "id": "csv-110",
     "imageFilename": "116218 Sauce Chu Hou ( 5 épices) 12x368g LEE KUM KEE.jpg",
-    "name": "116218 Sauce Chu Hou ( 5 épices) 12x368g LEE KUM KEE",
-    "nameFr": "116218 Sauce Chu Hou ( 5 épices) 12x368g LEE KUM KEE",
+    "name": "Sauce Chu Hou ( 5 épices) 12x368g LEE KUM KEE",
+    "nameFr": "Sauce Chu Hou ( 5 épices) 12x368g LEE KUM KEE",
     "unit": "368 g",
-    "price": 0,
+    "price": 30,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/116218 Sauce Chu Hou ( 5 épices) 12x368g LEE KUM KEE.jpg"
@@ -1261,10 +1261,10 @@
   {
     "id": "csv-111",
     "imageFilename": "116218 Sauce Chu Hou (5 épices) 12x368g LEE KUM KEE, Chine.png",
-    "name": "116218 Sauce Chu Hou (5 épices) 12x368g LEE KUM KEE, Chine",
-    "nameFr": "116218 Sauce Chu Hou (5 épices) 12x368g LEE KUM KEE, Chine",
+    "name": "Sauce Chu Hou (5 épices) 12x368g LEE KUM KEE, Chine",
+    "nameFr": "Sauce Chu Hou (5 épices) 12x368g LEE KUM KEE, Chine",
     "unit": "368 g",
-    "price": 0,
+    "price": 30,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/116218 Sauce Chu Hou (5 épices) 12x368g LEE KUM KEE, Chine.png",
@@ -1273,10 +1273,10 @@
   {
     "id": "csv-112",
     "imageFilename": "116249 Riz Jasmin Siam 1x25Kg AAA 2025 LE DRAGON.jpg",
-    "name": "116249 Riz Jasmin Siam 1x25Kg AAA 2025 LE DRAGON",
-    "nameFr": "116249 Riz Jasmin Siam 1x25Kg AAA 2025 LE DRAGON",
+    "name": "Riz Jasmin Siam 1x25Kg AAA 2025 LE DRAGON",
+    "nameFr": "Riz Jasmin Siam 1x25Kg AAA 2025 LE DRAGON",
     "unit": "per kg",
-    "price": 0,
+    "price": 1100,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/116249 Riz Jasmin Siam 1x25Kg AAA 2025 LE DRAGON.jpg"
@@ -1284,10 +1284,10 @@
   {
     "id": "csv-113",
     "imageFilename": "116249 Riz Jasmin Siam 1x25Kg AAA 2025 LE DRAGON, Thaïlande.jpg",
-    "name": "116249 Riz Jasmin Siam 1x25Kg AAA 2025 LE DRAGON, Thaïlande",
-    "nameFr": "116249 Riz Jasmin Siam 1x25Kg AAA 2025 LE DRAGON, Thaïlande",
+    "name": "Riz Jasmin Siam 1x25Kg AAA 2025 LE DRAGON, Thaïlande",
+    "nameFr": "Riz Jasmin Siam 1x25Kg AAA 2025 LE DRAGON, Thaïlande",
     "unit": "per kg",
-    "price": 0,
+    "price": 1.72,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/116249 Riz Jasmin Siam 1x25Kg AAA 2025 LE DRAGON, Thaïlande.jpg"
@@ -1295,10 +1295,10 @@
   {
     "id": "csv-114",
     "imageFilename": "116249 Riz Jasmin Siam 1x25Kg AAA 2025 LE DRAGON, Thaïlande.jpg",
-    "name": "116249 Riz Jasmin Siam 1x25kg AAA 2025 LE DRAGON, Thaïlande",
-    "nameFr": "116249 Riz Jasmin Siam 1x25kg AAA 2025 LE DRAGON, Thaïlande",
+    "name": "Riz Jasmin Siam 1x25kg AAA 2025 LE DRAGON, Thaïlande",
+    "nameFr": "Riz Jasmin Siam 1x25kg AAA 2025 LE DRAGON, Thaïlande",
     "unit": "per kg",
-    "price": 0,
+    "price": 594,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/116249 Riz Jasmin Siam 1x25Kg AAA 2025 LE DRAGON, Thaïlande.jpg"
@@ -1306,8 +1306,8 @@
   {
     "id": "csv-115",
     "imageFilename": "12004 CREVETTE COCKTAIL VAN 90-120 CUITES 10x1kg SOLIMAR, Vietnam ASC -C-00452.webp",
-    "name": "12004 CREVETTE COCKTAIL VAN 90/120 CUITES 10x1kg SOLIMAR, Vietnam ASC:C-00452",
-    "nameFr": "12004 CREVETTE COCKTAIL VAN 90/120 CUITES 10x1kg SOLIMAR, Vietnam ASC:C-00452",
+    "name": "CREVETTE COCKTAIL VAN 90/120 CUITES 10x1kg SOLIMAR, Vietnam ASC:C-00452",
+    "nameFr": "CREVETTE COCKTAIL VAN 90/120 CUITES 10x1kg SOLIMAR, Vietnam ASC:C-00452",
     "unit": "1 kg",
     "price": 0,
     "category": "Fresh Seafood & Fish",
@@ -1317,8 +1317,8 @@
   {
     "id": "csv-116",
     "imageFilename": "12004 CREVETTE COCKTAIL VAN 90-120 CUITES 10x1kg SOLIMAR, Vietnam ASC -C-00452 EN RUPTURE DE STOCK.webp",
-    "name": "12004 CREVETTE COCKTAIL VAN 90/120 CUITES 10x1kg SOLIMAR, Vietnam ASC:C-00452",
-    "nameFr": "12004 CREVETTE COCKTAIL VAN 90/120 CUITES 10x1kg SOLIMAR, Vietnam ASC:C-00452",
+    "name": "CREVETTE COCKTAIL VAN 90/120 CUITES 10x1kg SOLIMAR, Vietnam ASC:C-00452",
+    "nameFr": "CREVETTE COCKTAIL VAN 90/120 CUITES 10x1kg SOLIMAR, Vietnam ASC:C-00452",
     "unit": "1 kg",
     "price": 0,
     "category": "Fresh Seafood & Fish",
@@ -1342,7 +1342,7 @@
     "name": "1273-2 POMPANO 650/1000 CLEANED (RUP CHANDA)",
     "nameFr": "1273-2 POMPANO 650/1000 CLEANED (RUP CHANDA)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 79.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/1273-2 POMPANO 650-1000 CLEANED (RUP CHANDA).jpg"
@@ -1353,7 +1353,7 @@
     "name": "1321-1 HORSE MACKEREL 2/3 BIG",
     "nameFr": "1321-1 HORSE MACKEREL 2/3 BIG",
     "unit": "1 unit",
-    "price": 0,
+    "price": 158,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/1321-1 HORSE MACKEREL 2-3 BIG.jpg"
@@ -1364,7 +1364,7 @@
     "name": "1345-7 BLUE CRAB U 11-15 JAFFNA",
     "nameFr": "1345-7 BLUE CRAB U 11-15 JAFFNA",
     "unit": "1 unit",
-    "price": 0,
+    "price": 107.4,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/1345-7 BLUE CRAB U 11-15 JAFFNA.png"
@@ -1375,7 +1375,7 @@
     "name": "1400-0 ROLL PASTRY 215 MM (GREEN)",
     "nameFr": "1400-0 ROLL PASTRY 215 MM (GREEN)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 59,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/1400-0 ROLL PASTRY 215 MM (GREEN).jpg"
@@ -1383,10 +1383,10 @@
   {
     "id": "csv-122",
     "imageFilename": "1420 PAROTTA.jpg",
-    "name": "1420 PAROTTA",
-    "nameFr": "1420 PAROTTA",
+    "name": "PAROTTA",
+    "nameFr": "PAROTTA",
     "unit": "1 unit",
-    "price": 0,
+    "price": 46.8,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/1420 PAROTTA.jpg"
@@ -1408,7 +1408,7 @@
     "name": "1485-3 BLACKTIGER HLSO 8/12",
     "nameFr": "1485-3 BLACKTIGER HLSO 8/12",
     "unit": "1 unit",
-    "price": 0,
+    "price": 166.8,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/1485-3 BLACKTIGER HLSO 8-12.jpg"
@@ -1419,7 +1419,7 @@
     "name": "1496-4 BLACKTIGER PD 16/20",
     "nameFr": "1496-4 BLACKTIGER PD 16/20",
     "unit": "1 unit",
-    "price": 0,
+    "price": 143.4,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/1496-4 BLACKTIGER PD 16-20.jpg"
@@ -1427,8 +1427,8 @@
   {
     "id": "csv-126",
     "imageFilename": "1664 Canette (4x6x50cl).png",
-    "name": "1664 Canette (4x6x50cl)",
-    "nameFr": "1664 Canette (4x6x50cl)",
+    "name": "Canette (4x6x50cl)",
+    "nameFr": "Canette (4x6x50cl)",
     "unit": "1 unit",
     "price": 1.2,
     "category": "Grocery",
@@ -1441,7 +1441,7 @@
     "name": "2016-2 POULET HERZ",
     "nameFr": "2016-2 POULET HERZ",
     "unit": "1 unit",
-    "price": 0,
+    "price": 39.5,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/2016-2 POULET HERZ.jpg"
@@ -1449,10 +1449,10 @@
   {
     "id": "csv-128",
     "imageFilename": "20178 SOLI CREV VAN 31-40 CPTO IQF 10x1kg 20% Glazing, SOLIMAR, Vietnam.png",
-    "name": "20178 SOLI CREV VAN 31/40 CPTO IQF 10x1kg 20% Glazing, SOLIMAR, Vietnam",
-    "nameFr": "20178 SOLI CREV VAN 31/40 CPTO IQF 10x1kg 20% Glazing, SOLIMAR, Vietnam",
+    "name": "SOLI CREV VAN 31/40 CPTO IQF 10x1kg 20% Glazing, SOLIMAR, Vietnam",
+    "nameFr": "SOLI CREV VAN 31/40 CPTO IQF 10x1kg 20% Glazing, SOLIMAR, Vietnam",
     "unit": "1 kg",
-    "price": 0,
+    "price": 121.5,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/20178 SOLI CREV VAN 31-40 CPTO IQF 10x1kg 20% Glazing, SOLIMAR, Vietnam.png",
@@ -1464,7 +1464,7 @@
     "name": "2020-5 PO-SCHENKEL 4 X 2.5 KG M/R (\"HALAL\", \"IMPORT\")",
     "nameFr": "2020-5 PO-SCHENKEL 4 X 2.5 KG M/R (\"HALAL\", \"IMPORT\")",
     "unit": "2.5 kg",
-    "price": 0,
+    "price": 106.2,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/2020-5 PO-SCHENKEL 4 X 2.5 KG M-R ('HALAL', 'IMPORT').jpg"
@@ -1475,7 +1475,7 @@
     "name": "2023-1 RINDS OXTAIL SCHIEBEN",
     "nameFr": "2023-1 RINDS OXTAIL SCHIEBEN",
     "unit": "1 unit",
-    "price": 0,
+    "price": 99,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/2023-1 RINDS OXTAIL SCHIEBEN.jpg"
@@ -1486,7 +1486,7 @@
     "name": "2023-4 KUHFLEISCH MIT KNOCHEN 10KG",
     "nameFr": "2023-4 KUHFLEISCH MIT KNOCHEN 10KG",
     "unit": "1 unit",
-    "price": 0,
+    "price": 99,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/2023-4 KUHFLEISCH MIT KNOCHEN 10KG.jpg"
@@ -1497,7 +1497,7 @@
     "name": "2023-5 OCHSENMAUL (HAUT)",
     "nameFr": "2023-5 OCHSENMAUL (HAUT)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 109,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/2023-5 OCHSENMAUL (HAUT).jpg"
@@ -1508,7 +1508,7 @@
     "name": "2023-8 KUH KUTTELN",
     "nameFr": "2023-8 KUH KUTTELN",
     "unit": "1 unit",
-    "price": 0,
+    "price": 49,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/2023-8 KUH KUTTELN.jpg"
@@ -1519,7 +1519,7 @@
     "name": "2024-1 SMOKED ZIEGE MIT KAUT(500GR)",
     "nameFr": "2024-1 SMOKED ZIEGE MIT KAUT(500GR)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 129,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/2024-1 SMOKED ZIEGE MIT KAUT(500GR).jpg"
@@ -1527,10 +1527,10 @@
   {
     "id": "csv-135",
     "imageFilename": "2025 KALBS - RIND FUSS.jpg",
-    "name": "2025 KALBS / RIND FUSS",
-    "nameFr": "2025 KALBS / RIND FUSS",
+    "name": "KALBS / RIND FUSS",
+    "nameFr": "KALBS / RIND FUSS",
     "unit": "1 unit",
-    "price": 0,
+    "price": 109,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/2025 KALBS - RIND FUSS.jpg"
@@ -1549,8 +1549,8 @@
   {
     "id": "csv-137",
     "imageFilename": "2457 VANNEMEI .PD 41 - 50 (PULLDEVIENED).jpg",
-    "name": "2457 VANNEMEI .PD 41 / 50 (PULLDEVIENED)",
-    "nameFr": "2457 VANNEMEI .PD 41 / 50 (PULLDEVIENED)",
+    "name": "VANNEMEI .PD 41 / 50 (PULLDEVIENED)",
+    "nameFr": "VANNEMEI .PD 41 / 50 (PULLDEVIENED)",
     "unit": "1 unit",
     "price": 7.45,
     "category": "Grocery",
@@ -1574,7 +1574,7 @@
     "name": "2810-2 MAZADAR WHOLE WHEAT PARATHA",
     "nameFr": "2810-2 MAZADAR WHOLE WHEAT PARATHA",
     "unit": "1 unit",
-    "price": 0,
+    "price": 44.9,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/2810-2 MAZADAR WHOLE WHEAT PARATHA.jpg"
@@ -1585,7 +1585,7 @@
     "name": "2811-2 MAZADAR PLAIN FAMILY -1600GR",
     "nameFr": "2811-2 MAZADAR PLAIN FAMILY -1600GR",
     "unit": "1 unit",
-    "price": 0,
+    "price": 44.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/2811-2 MAZADAR PLAIN FAMILY -1600GR.jpg"
@@ -1596,7 +1596,7 @@
     "name": "3062-2 HILSA 1200-1500GR",
     "nameFr": "3062-2 HILSA 1200-1500GR",
     "unit": "1 unit",
-    "price": 0,
+    "price": 289,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/3062-2 HILSA 1200-1500GR.jpg"
@@ -1607,7 +1607,7 @@
     "name": "3079-1 ROHU GUTTED (5 KG +) 22KG",
     "nameFr": "3079-1 ROHU GUTTED (5 KG +) 22KG",
     "unit": "1 unit",
-    "price": 0,
+    "price": 86.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/3079-1 ROHU GUTTED (5 KG +) 22KG.jpg"
@@ -1615,8 +1615,8 @@
   {
     "id": "csv-143",
     "imageFilename": "3530 POA (CIN).jpg",
-    "name": "3530 POA (CIN)",
-    "nameFr": "3530 POA (CIN)",
+    "name": "POA (CIN)",
+    "nameFr": "POA (CIN)",
     "unit": "1 unit",
     "price": 4.95,
     "category": "Grocery",
@@ -1626,8 +1626,8 @@
   {
     "id": "csv-144",
     "imageFilename": "3531 MOILA (CIN).jpg",
-    "name": "3531 MOILA (CIN)",
-    "nameFr": "3531 MOILA (CIN)",
+    "name": "MOILA (CIN)",
+    "nameFr": "MOILA (CIN)",
     "unit": "1 unit",
     "price": 2.45,
     "category": "Grocery",
@@ -1637,8 +1637,8 @@
   {
     "id": "csv-145",
     "imageFilename": "3532 BATASHI (CIN).jpg",
-    "name": "3532 BATASHI (CIN)",
-    "nameFr": "3532 BATASHI (CIN)",
+    "name": "BATASHI (CIN)",
+    "nameFr": "BATASHI (CIN)",
     "unit": "1 unit",
     "price": 2.95,
     "category": "Grocery",
@@ -1648,8 +1648,8 @@
   {
     "id": "csv-146",
     "imageFilename": "3533 LOTIA (CIN).png",
-    "name": "3533 LOTIA (CIN)",
-    "nameFr": "3533 LOTIA (CIN)",
+    "name": "LOTIA (CIN)",
+    "nameFr": "LOTIA (CIN)",
     "unit": "1 unit",
     "price": 3.95,
     "category": "Grocery",
@@ -1659,8 +1659,8 @@
   {
     "id": "csv-147",
     "imageFilename": "3534 BOAL STEAK.jpg",
-    "name": "3534 BOAL STEAK",
-    "nameFr": "3534 BOAL STEAK",
+    "name": "BOAL STEAK",
+    "nameFr": "BOAL STEAK",
     "unit": "1 unit",
     "price": 4.95,
     "category": "Grocery",
@@ -1670,8 +1670,8 @@
   {
     "id": "csv-148",
     "imageFilename": "3535 DESI PUTTI (CIN).png",
-    "name": "3535 DESI PUTTI (CIN)",
-    "nameFr": "3535 DESI PUTTI (CIN)",
+    "name": "DESI PUTTI (CIN)",
+    "nameFr": "DESI PUTTI (CIN)",
     "unit": "1 unit",
     "price": 1.95,
     "category": "Grocery",
@@ -1684,7 +1684,7 @@
     "name": "3600-5 TILAPIA SWARZ GANZ 800-1200GR",
     "nameFr": "3600-5 TILAPIA SWARZ GANZ 800-1200GR",
     "unit": "1 unit",
-    "price": 0,
+    "price": 174.5,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/3600-5 TILAPIA SWARZ GANZ 800-1200GR.png"
@@ -1695,7 +1695,7 @@
     "name": "3603-6 SWARTZILAPIA STEAK",
     "nameFr": "3603-6 SWARTZILAPIA STEAK",
     "unit": "1 unit",
-    "price": 0,
+    "price": 89,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/3603-6 SWARTZILAPIA STEAK.png"
@@ -1706,7 +1706,7 @@
     "name": "3616-1 ROTE TILAPIA 800-1200 (AKTION)",
     "nameFr": "3616-1 ROTE TILAPIA 800-1200 (AKTION)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 197.5,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/3616-1 ROTE TILAPIA 800-1200 (AKTION).jpg"
@@ -1714,10 +1714,10 @@
   {
     "id": "csv-152",
     "imageFilename": "3643 REDTILAPIA STEAK 100-1400GR.jpg",
-    "name": "3643 REDTILAPIA STEAK 100-1400GR",
-    "nameFr": "3643 REDTILAPIA STEAK 100-1400GR",
+    "name": "REDTILAPIA STEAK 100-1400GR",
+    "nameFr": "REDTILAPIA STEAK 100-1400GR",
     "unit": "1 unit",
-    "price": 0,
+    "price": 59.4,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/3643 REDTILAPIA STEAK 100-1400GR.jpg"
@@ -1728,7 +1728,7 @@
     "name": "3682-3 CATFISH 800 GR +",
     "nameFr": "3682-3 CATFISH 800 GR +",
     "unit": "1 unit",
-    "price": 0,
+    "price": 79,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/3682-3 CATFISH 800 GR +.jpg"
@@ -1739,7 +1739,7 @@
     "name": "5540",
     "nameFr": "5540",
     "unit": "1 unit",
-    "price": 0,
+    "price": 1.31,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/5540.jpg"
@@ -1750,7 +1750,7 @@
     "name": "5715",
     "nameFr": "5715",
     "unit": "1 unit",
-    "price": 0,
+    "price": 1.33,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/5715.jpg"
@@ -1758,8 +1758,8 @@
   {
     "id": "csv-156",
     "imageFilename": "60008 CANARD DUCK-TO GRILL 6x1.8kg TOMASSEN, Hollande Halal.png",
-    "name": "60008 CANARD DUCK-TO GRILL 6x1.8kg TOMASSEN, Hollande Halal",
-    "nameFr": "60008 CANARD DUCK-TO GRILL 6x1.8kg TOMASSEN, Hollande Halal",
+    "name": "CANARD DUCK-TO GRILL 6x1.8kg TOMASSEN, Hollande Halal",
+    "nameFr": "CANARD DUCK-TO GRILL 6x1.8kg TOMASSEN, Hollande Halal",
     "unit": "1.8 kg",
     "price": 3.3,
     "category": "Butcher",
@@ -1770,8 +1770,8 @@
   {
     "id": "csv-157",
     "imageFilename": "60141 BEEF BALLS 12X400G S. KHONKAEN, Les Pays Bas.jpg",
-    "name": "60141 BEEF BALLS 12X400G S. KHONKAEN, Les Pays Bas",
-    "nameFr": "60141 BEEF BALLS 12X400G S. KHONKAEN, Les Pays Bas",
+    "name": "BEEF BALLS 12X400G S. KHONKAEN, Les Pays Bas",
+    "nameFr": "BEEF BALLS 12X400G S. KHONKAEN, Les Pays Bas",
     "unit": "400 g",
     "price": 0,
     "category": "Grocery",
@@ -1807,7 +1807,7 @@
     "name": "Agneau coeur Halal (8)",
     "nameFr": "Agneau coeur Halal (8)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 7,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/Agneau coeur Halal (8).jpg"
@@ -1840,7 +1840,7 @@
     "name": "Ailes de poulet PO HALAL surgelé Lot-No.: 10008267 DLC: 21.01.26",
     "nameFr": "Ailes de poulet PO HALAL surgelé Lot-No.: 10008267 DLC: 21.01.26",
     "unit": "1 unit",
-    "price": 0,
+    "price": 6.5,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/Ailes de poulet PO HALAL surgelé Lot-No. - 10008267 DLC - 21.01.26.jpg"
@@ -1851,7 +1851,7 @@
     "name": "Ali Baba Almond Oil 12x250ml",
     "nameFr": "Ali Baba Almond Oil 12x250ml",
     "unit": "250 ml",
-    "price": 0,
+    "price": 69.1,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Ali Baba Almond Oil 12x250ml.jpg"
@@ -1862,7 +1862,7 @@
     "name": "Ali Baba Baking Powder mit Etikett 20x100g",
     "nameFr": "Ali Baba Baking Powder mit Etikett 20x100g",
     "unit": "100 g",
-    "price": 0,
+    "price": 17,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Ali Baba Baking Powder mit Etikett 20x100g.jpg"
@@ -1873,7 +1873,7 @@
     "name": "Ali Baba Bicarbonate Soda mit Etikett 20x100g",
     "nameFr": "Ali Baba Bicarbonate Soda mit Etikett 20x100g",
     "unit": "100 g",
-    "price": 0,
+    "price": 17,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Ali Baba Bicarbonate Soda mit Etikett 20x100g.jpg"
@@ -1895,7 +1895,7 @@
     "name": "Ali Baba Fennel Seeds mit Etikett 20x100g",
     "nameFr": "Ali Baba Fennel Seeds mit Etikett 20x100g",
     "unit": "100 g",
-    "price": 0,
+    "price": 22.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Ali Baba Fennel Seeds mit Etikett 20x100g.jpg"
@@ -1906,7 +1906,7 @@
     "name": "Ali Baba Haldi Powder mit Etikett 20x100g",
     "nameFr": "Ali Baba Haldi Powder mit Etikett 20x100g",
     "unit": "100 g",
-    "price": 0,
+    "price": 17,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Ali Baba Haldi Powder mit Etikett 20x100g.jpg"
@@ -1917,7 +1917,7 @@
     "name": "Ali Baba Jeera Whole mit Etikett 20x100g",
     "nameFr": "Ali Baba Jeera Whole mit Etikett 20x100g",
     "unit": "100 g",
-    "price": 0,
+    "price": 24.8,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Ali Baba Jeera Whole mit Etikett 20x100g.jpg"
@@ -1939,7 +1939,7 @@
     "name": "Ali Baba Rice Flour mit Etikett 15X500g",
     "nameFr": "Ali Baba Rice Flour mit Etikett 15X500g",
     "unit": "500 g",
-    "price": 0,
+    "price": 27.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Ali Baba Rice Flour mit Etikett 15X500g.jpg"
@@ -1994,7 +1994,7 @@
     "name": "Arakkula / Kelavalla (Head Remove)",
     "nameFr": "Arakkula / Kelavalla (Head Remove)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 7.7,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Arakkula - Kelavalla (Head Remove).jpg"
@@ -2013,8 +2013,8 @@
   {
     "id": "csv-179",
     "imageFilename": "Aroy-D Coconut Milk Carton.jpg",
-    "name": "05022 AROY Lait noix coco for cooking/a cuire 24x400ml AROY-D, Thaïlande",
-    "nameFr": "05022 AROY Lait noix coco for cooking/a cuire 24x400ml AROY-D, Thaïlande",
+    "name": "AROY Lait noix coco for cooking/a cuire 24x400ml AROY-D, Thaïlande",
+    "nameFr": "AROY Lait noix coco for cooking/a cuire 24x400ml AROY-D, Thaïlande",
     "unit": "400 ml",
     "price": 3.22,
     "category": "Pantry & Canned Goods",
@@ -2038,7 +2038,7 @@
     "name": "B/Prawns U 18/20 kg",
     "nameFr": "B/Prawns U 18/20 kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 21.5,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/B-Prawns U 18-20 kg.jpg"
@@ -2060,7 +2060,7 @@
     "name": "BARAMUNDI STEAK (KODUVA / CAPITAN)",
     "nameFr": "BARAMUNDI STEAK (KODUVA / CAPITAN)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 83.4,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/BARAMUNDI STEAK (KODUVA - CAPITAN).jpg"
@@ -2071,7 +2071,7 @@
     "name": "BARKAT Basmati Rice 20x1kg",
     "nameFr": "BARKAT Basmati Rice 20x1kg",
     "unit": "1 kg",
-    "price": 0,
+    "price": 60,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/BARKAT Basmati Rice 20x1kg.png"
@@ -2082,7 +2082,7 @@
     "name": "BARKAT Basmati Rice 4x5kg",
     "nameFr": "BARKAT Basmati Rice 4x5kg",
     "unit": "5 kg",
-    "price": 0,
+    "price": 54,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/Barkat Gold Basmati Rice.jpg"
@@ -2093,7 +2093,7 @@
     "name": "BARKAT Basmati Rice 4x5kg",
     "nameFr": "BARKAT Basmati Rice 4x5kg",
     "unit": "5 kg",
-    "price": 0,
+    "price": 54,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/BARKAT Basmati Rice 20x1kg.png"
@@ -2104,7 +2104,7 @@
     "name": "BARKAT Basmati Rice BARKAT GOLD Sella Biryani 4x5kg",
     "nameFr": "BARKAT Basmati Rice BARKAT GOLD Sella Biryani 4x5kg",
     "unit": "5 kg",
-    "price": 0,
+    "price": 44,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/BARKAT Basmati Rice BARKAT GOLD Sella Biryani 4x5kg.jpg"
@@ -2115,7 +2115,7 @@
     "name": "BARRACUDA RING SMOKED PKT (ARTCLE:4111)",
     "nameFr": "BARRACUDA RING SMOKED PKT (ARTCLE:4111)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 49.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/BARRACUDA RING SMOKED PKT (ARTCLE -4111).png"
@@ -2126,7 +2126,7 @@
     "name": "BLACK TIGER HOSO 8 / 12 GANZ",
     "nameFr": "BLACK TIGER HOSO 8 / 12 GANZ",
     "unit": "1 unit",
-    "price": 0,
+    "price": 139.5,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/BLACK TIGER HOSO 8 - 12 GANZ.jpg"
@@ -2137,7 +2137,7 @@
     "name": "BLACKTIGER HOSO 16 /20 GANZ",
     "nameFr": "BLACKTIGER HOSO 16 /20 GANZ",
     "unit": "1 unit",
-    "price": 0,
+    "price": 99,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/BLACKTIGER HOSO 16 -20 GANZ.jpg"
@@ -2181,7 +2181,7 @@
     "name": "BOULETTES RIZ GLUANT, CACAHUETES SPRING HOME, Singapore, 24x(10x20gr)",
     "nameFr": "BOULETTES RIZ GLUANT, CACAHUETES SPRING HOME, Singapore, 24x(10x20gr)",
     "unit": "per kg",
-    "price": 0,
+    "price": 76.79,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/BOULETTES RIZ GLUANT, CACAHUETES SPRING HOME, Singapore, 24x(10x20gr).jpg"
@@ -2214,7 +2214,7 @@
     "name": "BARKAT Basmati Rice BARKAT GOLD Sella Biryani 4x5kg",
     "nameFr": "BARKAT Basmati Rice BARKAT GOLD Sella Biryani 4x5kg",
     "unit": "5 kg",
-    "price": 0,
+    "price": 44,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/Barkat Golden Sella Rice.jpg"
@@ -2225,7 +2225,7 @@
     "name": "Jeela Baracuda",
     "nameFr": "Jeela Baracuda",
     "unit": "1 unit",
-    "price": 0,
+    "price": 51.8,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Barracuda fish fresh market.jpg"
@@ -2258,7 +2258,7 @@
     "name": "Bikano Aloo bhujia 8 x 200g",
     "nameFr": "Bikano Aloo bhujia 8 x 200g",
     "unit": "200 g",
-    "price": 0,
+    "price": 13.05,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Bikano Aloo bhujia 8 x 200g.jpg"
@@ -2269,7 +2269,7 @@
     "name": "Bikano Bhel Puri 8 x 200g",
     "nameFr": "Bikano Bhel Puri 8 x 200g",
     "unit": "200 g",
-    "price": 0,
+    "price": 13.4,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Bikano Bhel Puri 8 x 200g.jpg"
@@ -2280,7 +2280,7 @@
     "name": "Bikano Bombay Mixture 8 x 200g",
     "nameFr": "Bikano Bombay Mixture 8 x 200g",
     "unit": "200 g",
-    "price": 0,
+    "price": 13.95,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Bikano Bombay Mixture 8 x 200g.jpg"
@@ -2291,7 +2291,7 @@
     "name": "Bikano Chana Dal Masala 10 x 200g",
     "nameFr": "Bikano Chana Dal Masala 10 x 200g",
     "unit": "200 g",
-    "price": 0,
+    "price": 13.95,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Bikano Chana Dal Masala 10 x 200g.jpg"
@@ -2302,7 +2302,7 @@
     "name": "Bikano Cornflakes Mixture 7 x 200g",
     "nameFr": "Bikano Cornflakes Mixture 7 x 200g",
     "unit": "200 g",
-    "price": 0,
+    "price": 16.1,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Bikano Cornflakes Mixture 7 x 200g.jpg"
@@ -2313,7 +2313,7 @@
     "name": "Bikano Dal Mixture 10 x 200g",
     "nameFr": "Bikano Dal Mixture 10 x 200g",
     "unit": "200 g",
-    "price": 0,
+    "price": 13.4,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Bikano Dal Mixture 10 x 200g.jpg"
@@ -2324,7 +2324,7 @@
     "name": "Bikano Moong Dal Plain 10 x 200g",
     "nameFr": "Bikano Moong Dal Plain 10 x 200g",
     "unit": "200 g",
-    "price": 0,
+    "price": 15.2,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Bikano Moong Dal Plain 10 x 200g.jpg"
@@ -2335,7 +2335,7 @@
     "name": "Bikano Plain bhujia 10 x 200g",
     "nameFr": "Bikano Plain bhujia 10 x 200g",
     "unit": "200 g",
-    "price": 0,
+    "price": 13.05,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Bikano Plain bhujia 10 x 200g.jpg"
@@ -2346,7 +2346,7 @@
     "name": "Bikano Plan bhujia 10 x 200g",
     "nameFr": "Bikano Plan bhujia 10 x 200g",
     "unit": "200 g",
-    "price": 0,
+    "price": 13.05,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Bikano Plan bhujia 10 x 200g.jpg"
@@ -2357,7 +2357,7 @@
     "name": "Bird's - Crme Ptissire en Poudre - Pack 12x300g",
     "nameFr": "Bird's - Crme Ptissire en Poudre - Pack 12x300g",
     "unit": "300 g",
-    "price": 0,
+    "price": 39.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Bird's - Crme Ptissire en Poudre - Pack 12x300g.jpeg"
@@ -2368,7 +2368,7 @@
     "name": "Bird's - Crme Ptissire en Poudre - Pack 12x600g",
     "nameFr": "Bird's - Crme Ptissire en Poudre - Pack 12x600g",
     "unit": "600 g",
-    "price": 0,
+    "price": 56.43,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Bird's - Crme Ptissire en Poudre - Pack 12x600g.jpeg"
@@ -2445,7 +2445,7 @@
     "name": "Bière Chang 24x320ml CHANG, Thaïlande 4.8% VOL",
     "nameFr": "Bière Chang 24x320ml CHANG, Thaïlande 4.8% VOL",
     "unit": "320 ml",
-    "price": 0,
+    "price": 29.7,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/Bière Chang 24x320ml CHANG, Thaïlande 4.8% VOL.jpg"
@@ -2467,7 +2467,7 @@
     "name": "Bière Singha Lager 24x330ml 5% Vol. SINGHA, Thaïlande",
     "nameFr": "Bière Singha Lager 24x330ml 5% Vol. SINGHA, Thaïlande",
     "unit": "330 ml",
-    "price": 0,
+    "price": 25.92,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/Bière Singha Lager 24x330ml 5% Vol. SINGHA, Thaïlande.png"
@@ -2478,7 +2478,7 @@
     "name": "Pomfrets - Black (karuppu vavwal)",
     "nameFr": "Pomfrets - Black (karuppu vavwal)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/Black Pomfret fish.png"
@@ -2533,7 +2533,7 @@
     "name": "Boeuf foie frais",
     "nameFr": "Boeuf foie frais",
     "unit": "1 unit",
-    "price": 0,
+    "price": 4.95,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/Boeuf foie frais.jpg"
@@ -2577,7 +2577,7 @@
     "name": "Bonnet Rouge - Evaporated Milk Unsweetened / Kondensmilch ungezuckert - (24ppc) 410g",
     "nameFr": "Bonnet Rouge - Evaporated Milk Unsweetened / Kondensmilch ungezuckert - (24ppc) 410g",
     "unit": "1 unit",
-    "price": 0,
+    "price": 84.95,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Bonnet Rouge - Evaporated Milk Unsweetened - Kondensmilch ungezuckert - (24ppc) 410g.jpg"
@@ -2588,7 +2588,7 @@
     "name": "Brisures de Riz Jasmin Siam 1x5kg LE DRAGON, Thaïlande",
     "nameFr": "Brisures de Riz Jasmin Siam 1x5kg LE DRAGON, Thaïlande",
     "unit": "5 kg",
-    "price": 0,
+    "price": 135,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/Brisures de Riz Jasmin Siam 1x5kg LE DRAGON, Thaïlande.jpg"
@@ -2599,7 +2599,7 @@
     "name": "CANARD DUCK-TO GRILL 6x1.7kg TOMASSEN, Hollande Halal",
     "nameFr": "CANARD DUCK-TO GRILL 6x1.7kg TOMASSEN, Hollande Halal",
     "unit": "1.7 kg",
-    "price": 0,
+    "price": 163.4,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/CANARD DUCK-TO GRILL 6x1.7kg TOMASSEN, Hollande Halal.png",
@@ -2656,7 +2656,7 @@
     "name": "CEYLON FAMILY PAROTTA 80GR",
     "nameFr": "CEYLON FAMILY PAROTTA 80GR",
     "unit": "1 unit",
-    "price": 0,
+    "price": 58.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/CEYLON FAMILY PAROTTA 80GR.jpg"
@@ -2667,7 +2667,7 @@
     "name": "CEYLON FAMILY PAROTTA 80GR (SMSTAR)",
     "nameFr": "CEYLON FAMILY PAROTTA 80GR (SMSTAR)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 58.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/CEYLON FAMILY PAROTTA 80GR (SMSTAR).jpg"
@@ -2711,7 +2711,7 @@
     "name": "COCONUT SHREDDED",
     "nameFr": "COCONUT SHREDDED",
     "unit": "1 unit",
-    "price": 0,
+    "price": 47.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/COCONUT SHREDDED.jpg"
@@ -2722,7 +2722,7 @@
     "name": "COCONUT SHREDDED (NIRU)",
     "nameFr": "COCONUT SHREDDED (NIRU)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 47.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/COCONUT SHREDDED (NIRU).jpg"
@@ -2744,7 +2744,7 @@
     "name": "CROCKER SENEGAL 800/1000 IWP",
     "nameFr": "CROCKER SENEGAL 800/1000 IWP",
     "unit": "1 unit",
-    "price": 0,
+    "price": 99.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/CROCKER SENEGAL 800-1000 IWP.jpg"
@@ -2755,7 +2755,7 @@
     "name": "CROCKER STEAKS",
     "nameFr": "CROCKER STEAKS",
     "unit": "1 unit",
-    "price": 0,
+    "price": 59,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/CROCKER STEAKS.jpg"
@@ -2766,7 +2766,7 @@
     "name": "CROCKER STEAKS (STARPRIDE)",
     "nameFr": "CROCKER STEAKS (STARPRIDE)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 59,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/CROCKER STEAKS STARPRIDE.jpeg"
@@ -2810,7 +2810,7 @@
     "name": "Catfish Fillets smoked/fums - LP African Food - (20ppc) 100g",
     "nameFr": "Catfish Fillets smoked/fums - LP African Food - (20ppc) 100g",
     "unit": "1 unit",
-    "price": 0,
+    "price": 50.27,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/Catfish Fillets smoked-fums - LP African Food - (20ppc) 100g.jpg"
@@ -2821,7 +2821,7 @@
     "name": "Chin Chin Snack COCONUT - Africa's Finest - (large) Box 12x250g",
     "nameFr": "Chin Chin Snack COCONUT - Africa's Finest - (large) Box 12x250g",
     "unit": "250 g",
-    "price": 0,
+    "price": 61.35,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Chin Chin Snack COCONUT - Africa's Finest - (large) Box 12x250g.jpeg"
@@ -2854,7 +2854,7 @@
     "name": "Creme Skala Argan 6 x 1kg",
     "nameFr": "Creme Skala Argan 6 x 1kg",
     "unit": "1 kg",
-    "price": 0,
+    "price": 41.4,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/Creme Skala Argan 6 x 1kg.jpg"
@@ -2865,7 +2865,7 @@
     "name": "Creme Skala Dona 6 x 1kg",
     "nameFr": "Creme Skala Dona 6 x 1kg",
     "unit": "1 kg",
-    "price": 0,
+    "price": 41.4,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/Creme Skala Dona 6 x 1kg.jpg"
@@ -2876,7 +2876,7 @@
     "name": "Creme Skala Oleo de Coco 1kg",
     "nameFr": "Creme Skala Oleo de Coco 1kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 6.9,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/Creme Skala Oleo de Coco 1kg.jpg"
@@ -2909,7 +2909,7 @@
     "name": "Cristalline Naturelle Pet (24x50cl)",
     "nameFr": "Cristalline Naturelle Pet (24x50cl)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 0.39,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Cristalline Naturelle Pet (24x50cl).jpg"
@@ -2942,7 +2942,7 @@
     "name": "Cuisse de poulet avec dorsale Cong HUN HALAL Lot-No.: 10009193 DLC: 14.03.26",
     "nameFr": "Cuisse de poulet avec dorsale Cong HUN HALAL Lot-No.: 10009193 DLC: 14.03.26",
     "unit": "1 unit",
-    "price": 0,
+    "price": 5.3,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/Cuisse de poulet avec dorsale Cong HUN HALAL Lot-No. - 10009193 DLC - 14.03.26.jpg"
@@ -2964,7 +2964,7 @@
     "name": "Cuttle Fish 500g (Kanawai)",
     "nameFr": "Cuttle Fish 500g (Kanawai)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 13.1,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/Cuttle Fish 500g (Kanawai).jpg"
@@ -2975,7 +2975,7 @@
     "name": "DO Breadfruit ஈாரப்பலாக்காய்",
     "nameFr": "DO Breadfruit ஈாரப்பலாக்காய்",
     "unit": "1 unit",
-    "price": 0,
+    "price": 6.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/DO Breadfruit ஈாரப்பலாக்காய்.jpg"
@@ -3085,7 +3085,7 @@
     "name": "Dabur Amla Hair Oil 6 x 200 ml",
     "nameFr": "Dabur Amla Hair Oil 6 x 200 ml",
     "unit": "200 ml",
-    "price": 0,
+    "price": 26.9,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/Dabur Amla Hair Oil 6 x 200 ml.jpg"
@@ -3096,7 +3096,7 @@
     "name": "Dabur Amla Hair Oil Gold 6 x 200ml",
     "nameFr": "Dabur Amla Hair Oil Gold 6 x 200ml",
     "unit": "200 ml",
-    "price": 0,
+    "price": 28.9,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/Dabur Amla Hair Oil Gold 6 x 200ml.jpg"
@@ -3107,7 +3107,7 @@
     "name": "Desperados Tequila Canette (4x6x50cl)",
     "nameFr": "Desperados Tequila Canette (4x6x50cl)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 1.65,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Desperados Tequila Canette (4x6x50cl).jpg"
@@ -3118,7 +3118,7 @@
     "name": "Dragon Bamboo Slice 24 x 540 g",
     "nameFr": "Dragon Bamboo Slice 24 x 540 g",
     "unit": "540 g",
-    "price": 0,
+    "price": 30.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Dragon Bamboo Slice 24 x 540 g.jpg"
@@ -3173,7 +3173,7 @@
     "name": "VM Villai Emperor",
     "nameFr": "VM Villai Emperor",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Emperor fish fresh.png"
@@ -3184,7 +3184,7 @@
     "name": "Etiq. Smart6 26x12mm blanches",
     "nameFr": "Etiq. Smart6 26x12mm blanches",
     "unit": "1 unit",
-    "price": 0,
+    "price": 31.29,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Etiq. Smart6 26x12mm blanches.jpg"
@@ -3261,7 +3261,7 @@
     "name": "FOCO, Thaïlande 05715 Boisson de mangue 25% 24x350ml FOCO, Thaïlande",
     "nameFr": "FOCO, Thaïlande 05715 Boisson de mangue 25% 24x350ml FOCO, Thaïlande",
     "unit": "350 ml",
-    "price": 0,
+    "price": 31.86,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/FOCO, Thaïlande 05715 Boisson de mangue 25% 24x350ml FOCO, Thaïlande.jpg"
@@ -3294,7 +3294,7 @@
     "name": "Fcule de Pomme de Terre - 5kg",
     "nameFr": "Fcule de Pomme de Terre - 5kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 52.12,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Fcule de Pomme de Terre - 5kg.jpg"
@@ -3305,7 +3305,7 @@
     "name": "Feldschlosschen Canette (24x50cl)",
     "nameFr": "Feldschlosschen Canette (24x50cl)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 1.2,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Feldschlosschen Canette (24x50cl).jpg"
@@ -3316,7 +3316,7 @@
     "name": "Feldschlosschen Canette (4x6x50cl)",
     "nameFr": "Feldschlosschen Canette (4x6x50cl)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 1.25,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Feldschlosschen Canette (4x6x50cl).jpg"
@@ -3327,7 +3327,7 @@
     "name": "Feldschlosschen Sans Alcool (4x6x50cl)",
     "nameFr": "Feldschlosschen Sans Alcool (4x6x50cl)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 1.65,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Feldschlosschen Sans Alcool (4x6x50cl).jpg"
@@ -3349,7 +3349,7 @@
     "name": "Fillets de Morue Schs - LP African Foods - (20ppc) 100g",
     "nameFr": "Fillets de Morue Schs - LP African Foods - (20ppc) 100g",
     "unit": "1 unit",
-    "price": 0,
+    "price": 37.96,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Fillets de Morue Schs - LP African Foods - (20ppc) 100g.jpg"
@@ -3360,7 +3360,7 @@
     "name": "Five Star Tapioko Perlen Small 20 x 500 g",
     "nameFr": "Five Star Tapioko Perlen Small 20 x 500 g",
     "unit": "500 g",
-    "price": 0,
+    "price": 38.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Five Star Tapioko Perlen Small 20 x 500 g.jpg"
@@ -3404,7 +3404,7 @@
     "name": "Fruit jaquier jaune au sirop 24x565g LE DRAGON, 230g égoutté, Thaïlande",
     "nameFr": "Fruit jaquier jaune au sirop 24x565g LE DRAGON, 230g égoutté, Thaïlande",
     "unit": "565 g",
-    "price": 0,
+    "price": 31.41,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Fruit jaquier jaune au sirop 24x565g LE DRAGON, 230g égoutté, Thaïlande.jpg"
@@ -3415,7 +3415,7 @@
     "name": "Fufu d'Igname Farine - Fola Foods (Nigeria) - Crt. de 8x1.5kg",
     "nameFr": "Fufu d'Igname Farine - Fola Foods (Nigeria) - Crt. de 8x1.5kg",
     "unit": "1.5 kg",
-    "price": 0,
+    "price": 71.72,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/Fufu d'igname Farine - Fola Foods (Nigeria) - Crt. de 8x1.5kg.jpg"
@@ -3459,7 +3459,7 @@
     "name": "GAMBAS 40 / 60 (AKTION)",
     "nameFr": "GAMBAS 40 / 60 (AKTION)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 135,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/GAMBAS 40 - 60 (AKTION).jpg"
@@ -3470,7 +3470,7 @@
     "name": "GAMBAS HLSO 13 / 15",
     "nameFr": "GAMBAS HLSO 13 / 15",
     "unit": "1 unit",
-    "price": 0,
+    "price": 89.5,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/GAMBAS HLSO 13 - 15.jpg"
@@ -3481,7 +3481,7 @@
     "name": "GAMBAS HLSO 16 / 20 (AKTION)",
     "nameFr": "GAMBAS HLSO 16 / 20 (AKTION)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 84.5,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/GAMBAS HLSO 16 - 20 (AKTION).jpg"
@@ -3492,7 +3492,7 @@
     "name": "GAMBAS HLSO 21/25",
     "nameFr": "GAMBAS HLSO 21/25",
     "unit": "1 unit",
-    "price": 0,
+    "price": 79.5,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/GAMBAS HLSO 21-25.webp"
@@ -3503,7 +3503,7 @@
     "name": "GAMBAS HOSO 40 / 50 (SMALL) (12KG AKTION)",
     "nameFr": "GAMBAS HOSO 40 / 50 (SMALL) (12KG AKTION)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 77.4,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/GAMBAS HOSO 40 - 50 (SMALL) (12KG AKTION).jpg"
@@ -3536,7 +3536,7 @@
     "name": "GRATED COCONUT ( D.DELIGHT) LARGE 400GR",
     "nameFr": "GRATED COCONUT ( D.DELIGHT) LARGE 400GR",
     "unit": "1 unit",
-    "price": 0,
+    "price": 72,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/GRATED COCONUT ( D.DELIGHT) LARGE 400GR.png"
@@ -3547,7 +3547,7 @@
     "name": "GRATED COCONUT ( D.DELIGHT) LARGE 400GR",
     "nameFr": "GRATED COCONUT ( D.DELIGHT) LARGE 400GR",
     "unit": "1 unit",
-    "price": 0,
+    "price": 72,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/GRATED COCONUT D.DELIGHT LARGE 400GR.jpg"
@@ -3558,7 +3558,7 @@
     "name": "GRATED COCUNUT ( D.DELIGHT) LARGE 400GR",
     "nameFr": "GRATED COCUNUT ( D.DELIGHT) LARGE 400GR",
     "unit": "1 unit",
-    "price": 0,
+    "price": 72,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/GRATED COCUNUT ( D.DELIGHT) LARGE 400GR.png"
@@ -3569,7 +3569,7 @@
     "name": "GRATED COCUNUT ( D.DELIGHT) LARGE 400GR (DEILY DELIC)",
     "nameFr": "GRATED COCUNUT ( D.DELIGHT) LARGE 400GR (DEILY DELIC)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 72,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/GRATED COCUNUT ( D.DELIGHT) LARGE 400GR (DEILY DELIC).png"
@@ -3591,7 +3591,7 @@
     "name": "GRUPER /MEROU TRANCHES 2/3 CM (EPINEPHELUS MALABARICUS)",
     "nameFr": "GRUPER /MEROU TRANCHES 2/3 CM (EPINEPHELUS MALABARICUS)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 111.75,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/GRUPER -MEROU TRANCHES 2-3 CM (EPINEPHELUS MALABARICUS).jpeg"
@@ -3602,7 +3602,7 @@
     "name": "GYOZA 5-LEGUMES POTSTICKER 10x600gr(30x20g) AJINOMOTO,Pologne",
     "nameFr": "GYOZA 5-LEGUMES POTSTICKER 10x600gr(30x20g) AJINOMOTO,Pologne",
     "unit": "600 g",
-    "price": 0,
+    "price": 62.1,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/GYOZA 5-LEGUMES POTSTICKER 10x600gr(30x20g) AJINOMOTO,Pologne.jpg",
@@ -3614,7 +3614,7 @@
     "name": "GYOZA BŒUF POTSTICKER 10x600gr(30x20g) 300 pices,Spcialit frire,AJINOMOTO,Pologne",
     "nameFr": "GYOZA BŒUF POTSTICKER 10x600gr(30x20g) 300 pices,Spcialit frire,AJINOMOTO,Pologne",
     "unit": "600 g",
-    "price": 0,
+    "price": 71.1,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/GYOZA BŒUF POTSTICKER 10x600gr(30x20g) 300 pices,Spcialit frire,AJINOMOTO,Pologne.jpg",
@@ -3626,7 +3626,7 @@
     "name": "GYOZA CANARD POTSTICKER 10x600gr(30x20g) 300 pices,Spcialit frire,AJINOMOTO,Pologne",
     "nameFr": "GYOZA CANARD POTSTICKER 10x600gr(30x20g) 300 pices,Spcialit frire,AJINOMOTO,Pologne",
     "unit": "600 g",
-    "price": 0,
+    "price": 76.5,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/GYOZA CANARD POTSTICKER 10x600gr(30x20g) 300 pices,Spcialit frire,AJINOMOTO,Pologne.jpg",
@@ -3638,7 +3638,7 @@
     "name": "GYOZA CHAMPIGNONS & EDAMAME 12x400G AJINOMOTOT, Pologne",
     "nameFr": "GYOZA CHAMPIGNONS & EDAMAME 12x400G AJINOMOTOT, Pologne",
     "unit": "400 g",
-    "price": 0,
+    "price": 54,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/GYOZA CHAMPIGNONS & EDAMAME 12x400G AJINOMOTOT, Pologne.jpg",
@@ -3650,7 +3650,7 @@
     "name": "Galettes de riz rectangulaires 22cm 44X340g/26-28p BAMBOO TREE, Vietnam Carton brun (Crú / Nem/Paquet neutre)",
     "nameFr": "Galettes de riz rectangulaires 22cm 44X340g/26-28p BAMBOO TREE, Vietnam Carton brun (Crú / Nem/Paquet neutre)",
     "unit": "340 g",
-    "price": 0,
+    "price": 87.12,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/Galettes de riz rectangulaires 22cm 44X340g-26-28p BAMBOO TREE, Vietnam Carton brun (Crú - Nem-Paquet neutre).jpg"
@@ -3683,7 +3683,7 @@
     "name": "Gari Blanc - Tropical Sun L - Box 6x1.5kg",
     "nameFr": "Gari Blanc - Tropical Sun L - Box 6x1.5kg",
     "unit": "1.5 kg",
-    "price": 0,
+    "price": 24.93,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Gari Blanc - Tropical Sun L - Box 6x1.5kg.jpg"
@@ -3705,7 +3705,7 @@
     "name": "Gari Jaune - Tropical Sun L - Box 6x1.5kg",
     "nameFr": "Gari Jaune - Tropical Sun L - Box 6x1.5kg",
     "unit": "1.5 kg",
-    "price": 0,
+    "price": 28.42,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Gari Jaune - Tropical Sun L - Box 6x1.5kg.png"
@@ -3716,7 +3716,7 @@
     "name": "Gari White - Tropical Sun L - Box 6x1.5kg",
     "nameFr": "Gari White - Tropical Sun L - Box 6x1.5kg",
     "unit": "1.5 kg",
-    "price": 0,
+    "price": 49.86,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Gari White - Tropical Sun L - Box 6x1.5kg.jpg"
@@ -3727,7 +3727,7 @@
     "name": "MACKEREL-SCOMBRUS (2/3)",
     "nameFr": "MACKEREL-SCOMBRUS (2/3)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 178,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/Geisha Mackerel in Tomato Sauce.jpg"
@@ -3771,7 +3771,7 @@
     "name": "Guinness Bouteille 8 % (24x33cl)",
     "nameFr": "Guinness Bouteille 8 % (24x33cl)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 58.89,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Guinness Bouteille 8 % (24x33cl).png"
@@ -3782,7 +3782,7 @@
     "name": "HEERA Urid Whole Gota mit Etikett 6x2kg",
     "nameFr": "HEERA Urid Whole Gota mit Etikett 6x2kg",
     "unit": "2 kg",
-    "price": 0,
+    "price": 42.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/HEERA Urid Whole Gota mit Etikett 6x2kg.jpg"
@@ -3793,7 +3793,7 @@
     "name": "HILSA 1200-1500GR",
     "nameFr": "HILSA 1200-1500GR",
     "unit": "1 unit",
-    "price": 0,
+    "price": 289,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/HILSA 1200-1500GR.jpg"
@@ -4024,7 +4024,7 @@
     "name": "Heineken Canette (24x50cl)",
     "nameFr": "Heineken Canette (24x50cl)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 1.2,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Heineken Canette (24x50cl).jpg"
@@ -4046,7 +4046,7 @@
     "name": "Huile de Palme Rgulier - Prince (Togo) - Carton 12x1 litre",
     "nameFr": "Huile de Palme Rgulier - Prince (Togo) - Carton 12x1 litre",
     "unit": "1 unit",
-    "price": 0,
+    "price": 55.4,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Huile de Palme Rgulier - Prince (Togo) - Carton 12x1 litre.png"
@@ -4156,7 +4156,7 @@
     "name": "Indomie Poulet Got Africa KAD - Carton 40x70g",
     "nameFr": "Indomie Poulet Got Africa KAD - Carton 40x70g",
     "unit": "70 g",
-    "price": 0,
+    "price": 76.44,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/Indomie Poulet Got Africa KAD - Carton 40x70g.jpg"
@@ -4178,7 +4178,7 @@
     "name": "Jasmin IN (Non Food)",
     "nameFr": "Jasmin IN (Non Food)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 44,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Jasmin IN (Non Food).jpg"
@@ -4189,7 +4189,7 @@
     "name": "Jeela Baracuda",
     "nameFr": "Jeela Baracuda",
     "unit": "1 unit",
-    "price": 0,
+    "price": 51.8,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Jeela Baracuda.jpg"
@@ -4211,7 +4211,7 @@
     "name": "Jumbo Poudre Got Boeuf - 1kg",
     "nameFr": "Jumbo Poudre Got Boeuf - 1kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 25.65,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/Jumbo Poudre Got Boeuf - 1kg.jpg"
@@ -4233,7 +4233,7 @@
     "name": "Jumbo TABLETS Shrimp Aroma - (24ppc) 48x10g",
     "nameFr": "Jumbo TABLETS Shrimp Aroma - (24ppc) 48x10g",
     "unit": "10 g",
-    "price": 0,
+    "price": 43.09,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/Jumbo TABLETS Shrimp Aroma - (24ppc) 48x10g.webp"
@@ -4255,7 +4255,7 @@
     "name": "Jumbo Tablettes Crevette - (24ppc) 48x10g",
     "nameFr": "Jumbo Tablettes Crevette - (24ppc) 48x10g",
     "unit": "10 g",
-    "price": 0,
+    "price": 43.09,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/Jumbo Tablettes Crevette - (24ppc) 48x10g.jpg"
@@ -4332,7 +4332,7 @@
     "name": "KNORR - Cubes ORIGINAL - (17ppc) pack 50x8g",
     "nameFr": "KNORR - Cubes ORIGINAL - (17ppc) pack 50x8g",
     "unit": "8 g",
-    "price": 0,
+    "price": 38.99,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Knorr - Cubes Original - (17ppc) pack 50x8g.jpg"
@@ -4421,7 +4421,7 @@
     "name": "Kaaral Fish 200g+",
     "nameFr": "Kaaral Fish 200g+",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/Kaaral Fish 200g+.jpg"
@@ -4465,7 +4465,7 @@
     "name": "Keeri fish",
     "nameFr": "Keeri fish",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.9,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/Keeri fish.jpg"
@@ -4509,7 +4509,7 @@
     "name": "Kings Dried Chillies 50 x 100 g",
     "nameFr": "Kings Dried Chillies 50 x 100 g",
     "unit": "100 g",
-    "price": 0,
+    "price": 59.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Kings Dried Chillies 50 x 100 g.png"
@@ -4520,7 +4520,7 @@
     "name": "Kings Goraka 20 x 100 g",
     "nameFr": "Kings Goraka 20 x 100 g",
     "unit": "100 g",
-    "price": 0,
+    "price": 22.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Kings Goraka 20 x 100 g.jpg"
@@ -4542,7 +4542,7 @@
     "name": "Kings Jack Mackerel 24 x 425 g",
     "nameFr": "Kings Jack Mackerel 24 x 425 g",
     "unit": "425 g",
-    "price": 0,
+    "price": 44.4,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/Kings Jack Mackerel Can.jpg"
@@ -4553,7 +4553,7 @@
     "name": "Kings Jack Mackerel 24 x 425 g",
     "nameFr": "Kings Jack Mackerel 24 x 425 g",
     "unit": "425 g",
-    "price": 0,
+    "price": 44.4,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/Kings Jack Mackerel 24 x 425 g.jpg"
@@ -4564,7 +4564,7 @@
     "name": "Kings Jaffna Curry Powder 24 x 900 g",
     "nameFr": "Kings Jaffna Curry Powder 24 x 900 g",
     "unit": "900 g",
-    "price": 0,
+    "price": 189.6,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Kings Jaffna Curry Powder 24 x 900 g.jpg"
@@ -4586,7 +4586,7 @@
     "name": "Kings Red Raw Rice Double Polished 20 x 1 kg",
     "nameFr": "Kings Red Raw Rice Double Polished 20 x 1 kg",
     "unit": "1 kg",
-    "price": 0,
+    "price": 41.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Kings Red Raw Rice Double Polished 20 x 1 kg.jpg"
@@ -4619,7 +4619,7 @@
     "name": "Kings Sesame Oil 12 x 750 ml",
     "nameFr": "Kings Sesame Oil 12 x 750 ml",
     "unit": "750 ml",
-    "price": 0,
+    "price": 107.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Kings Sesame Oil 12 x 750 ml.png"
@@ -4630,7 +4630,7 @@
     "name": "Kings Sesame Oil 24 x 375 ml",
     "nameFr": "Kings Sesame Oil 24 x 375 ml",
     "unit": "375 ml",
-    "price": 0,
+    "price": 119.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Kings Sesame Oil 24 x 375 ml.jpg"
@@ -4641,7 +4641,7 @@
     "name": "Kings Soya Nuggets 12 x 500 g",
     "nameFr": "Kings Soya Nuggets 12 x 500 g",
     "unit": "500 g",
-    "price": 0,
+    "price": 45,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Kings Soya Nuggets 12 x 500 g.jpeg"
@@ -4685,7 +4685,7 @@
     "name": "Koduva 2.50KG +3.50KG M",
     "nameFr": "Koduva 2.50KG +3.50KG M",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Koduva 2.50Kg +3.50Kg M.jpeg"
@@ -4696,7 +4696,7 @@
     "name": "Koduva 2.50KG +3.50KG M",
     "nameFr": "Koduva 2.50KG +3.50KG M",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Koduva 2.50KG +3.50KG M.jpg"
@@ -4718,7 +4718,7 @@
     "name": "Koduva 2.50KG +3.50KG M",
     "nameFr": "Koduva 2.50KG +3.50KG M",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Koduva barramundi fish Sri Lanka.jpg"
@@ -4740,7 +4740,7 @@
     "name": "Kokonte-Lafu Farine de Manioc - Praise - Carton 12x1kg",
     "nameFr": "Kokonte-Lafu Farine de Manioc - Praise - Carton 12x1kg",
     "unit": "1 kg",
-    "price": 0,
+    "price": 39.6,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/Kokonte-Lafu Farine de Manioc - Praise - Carton 12x1kg.jpg"
@@ -4751,7 +4751,7 @@
     "name": "Kumbula (macral) 200g+",
     "nameFr": "Kumbula (macral) 200g+",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Kumbula (macral) 200g+.jpg"
@@ -4762,7 +4762,7 @@
     "name": "Kumbula (macral) 200g-",
     "nameFr": "Kumbula (macral) 200g-",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Kumbula (macral) 200g-.jpg"
@@ -4773,7 +4773,7 @@
     "name": "Kumbula (macral) 200g+",
     "nameFr": "Kumbula (macral) 200g+",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Kumbula macral fish.jpg"
@@ -4905,7 +4905,7 @@
     "name": "Lankan Soy - Chicken Flavour",
     "nameFr": "Lankan Soy - Chicken Flavour",
     "unit": "1 unit",
-    "price": 0,
+    "price": 23.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Lankan Soy - Chicken Flavour.jpg"
@@ -4916,7 +4916,7 @@
     "name": "Lankan Soy - Cuttle Fish Flavour",
     "nameFr": "Lankan Soy - Cuttle Fish Flavour",
     "unit": "1 unit",
-    "price": 0,
+    "price": 23.9,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/Lankan Soy - Cuttle Fish Flavour.jpg"
@@ -4927,7 +4927,7 @@
     "name": "Lankan Soy - Jaffna Curry Flavour",
     "nameFr": "Lankan Soy - Jaffna Curry Flavour",
     "unit": "1 unit",
-    "price": 0,
+    "price": 23.9,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Lankan Soy - Jaffna Curry Flavour.jpeg"
@@ -4938,7 +4938,7 @@
     "name": "Lankan Soy - Regular",
     "nameFr": "Lankan Soy - Regular",
     "unit": "1 unit",
-    "price": 0,
+    "price": 23.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Lankan Soy - Regular.jpg"
@@ -4946,8 +4946,8 @@
   {
     "id": "csv-445",
     "imageFilename": "Le Dragon Broken Rice.jpg",
-    "name": "100832 Brisures de Riz Jasmin Siam 10x1kg LE DRAGON, Thaïlande",
-    "nameFr": "100832 Brisures de Riz Jasmin Siam 10x1kg LE DRAGON, Thaïlande",
+    "name": "Brisures de Riz Jasmin Siam 10x1kg LE DRAGON, Thaïlande",
+    "nameFr": "Brisures de Riz Jasmin Siam 10x1kg LE DRAGON, Thaïlande",
     "unit": "1 kg",
     "price": 4.7,
     "category": "Rice & Grains",
@@ -4957,8 +4957,8 @@
   {
     "id": "csv-446",
     "imageFilename": "Le Dragon Siam Jasmine Rice.png",
-    "name": "01012 Riz Jasmin Siam 6x1kg AAA LE DRAGON, Thaïlande",
-    "nameFr": "01012 Riz Jasmin Siam 6x1kg AAA LE DRAGON, Thaïlande",
+    "name": "Riz Jasmin Siam 6x1kg AAA LE DRAGON, Thaïlande",
+    "nameFr": "Riz Jasmin Siam 6x1kg AAA LE DRAGON, Thaïlande",
     "unit": "per kg",
     "price": 6.5,
     "category": "Rice & Grains",
@@ -4982,7 +4982,7 @@
     "name": "Leela Castor Oil 24 x 180 ml",
     "nameFr": "Leela Castor Oil 24 x 180 ml",
     "unit": "180 ml",
-    "price": 0,
+    "price": 59.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Leela Castor Oil 24 x 180 ml.jpg"
@@ -5081,7 +5081,7 @@
     "name": "Leela Red Raw Rice D/Polished 5 x 5 kg",
     "nameFr": "Leela Red Raw Rice D/Polished 5 x 5 kg",
     "unit": "5 kg",
-    "price": 0,
+    "price": 49.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Leela Red Raw Rice D-Polished 5 x 5 kg.jpeg"
@@ -5092,7 +5092,7 @@
     "name": "Leela Red Raw Rice S/Polished 24 x 1 kg",
     "nameFr": "Leela Red Raw Rice S/Polished 24 x 1 kg",
     "unit": "1 kg",
-    "price": 0,
+    "price": 49.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Leela Red Raw Rice S-Polished 24 x 1 kg.jpg"
@@ -5103,7 +5103,7 @@
     "name": "Leela Red Raw Rice S/Polished 5 x 5 kg",
     "nameFr": "Leela Red Raw Rice S/Polished 5 x 5 kg",
     "unit": "5 kg",
-    "price": 0,
+    "price": 49.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Leela Red Raw Rice S-Polished 5 x 5 kg.jpg"
@@ -5114,7 +5114,7 @@
     "name": "Leela Red Raw Rice T/P 24 x 1 kg",
     "nameFr": "Leela Red Raw Rice T/P 24 x 1 kg",
     "unit": "1 kg",
-    "price": 0,
+    "price": 49.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Leela Red Raw Rice T-P 24 x 1 kg.jpg"
@@ -5125,7 +5125,7 @@
     "name": "Leela Red Raw Rice T/P 5 x 5 kg",
     "nameFr": "Leela Red Raw Rice T/P 5 x 5 kg",
     "unit": "5 kg",
-    "price": 0,
+    "price": 49.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Leela Red Raw Rice T-P 5 x 5 kg.jpg"
@@ -5136,7 +5136,7 @@
     "name": "Leela Red Raw Rice Unpolished 24 x 1 kg",
     "nameFr": "Leela Red Raw Rice Unpolished 24 x 1 kg",
     "unit": "1 kg",
-    "price": 0,
+    "price": 45.3,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Leela Red Raw Rice Unpolished 24 x 1 kg.png"
@@ -5147,7 +5147,7 @@
     "name": "Leela Samba Rice 24 x 1 kg",
     "nameFr": "Leela Samba Rice 24 x 1 kg",
     "unit": "1 kg",
-    "price": 0,
+    "price": 49.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Leela Samba Rice 24 x 1 kg.jpeg"
@@ -5169,7 +5169,7 @@
     "name": "Lion Beer Strong Bottle 12 x 625 ml",
     "nameFr": "Lion Beer Strong Bottle 12 x 625 ml",
     "unit": "625 ml",
-    "price": 0,
+    "price": 36.9,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/Lion Beer Strong Bottle 12 x 625 ml.jpg"
@@ -5180,7 +5180,7 @@
     "name": "Lion Beer Strong Bottle 24 x 330 ml",
     "nameFr": "Lion Beer Strong Bottle 24 x 330 ml",
     "unit": "330 ml",
-    "price": 0,
+    "price": 35.9,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/Lion Beer Strong Bottle 24x330ml.jpeg"
@@ -5191,7 +5191,7 @@
     "name": "Lion Beer Strong Can 24 x 500 ml",
     "nameFr": "Lion Beer Strong Can 24 x 500 ml",
     "unit": "500 ml",
-    "price": 0,
+    "price": 39.9,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/Lion Beer Strong Can 24 x 500 ml.jpg"
@@ -5213,7 +5213,7 @@
     "name": "MACKEREL -SCOMBRUS (2/3)",
     "nameFr": "MACKEREL -SCOMBRUS (2/3)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 249.2,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/MACKEREL -SCOMBRUS (2-3).jpg"
@@ -5235,7 +5235,7 @@
     "name": "MACKEREL-SCOMBRUS (2/3)",
     "nameFr": "MACKEREL-SCOMBRUS (2/3)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 178,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/MACKEREL-SCOMBRUS (2-3).jpg"
@@ -5246,7 +5246,7 @@
     "name": "MAZADAR PLAIN FAMILY -1600GR",
     "nameFr": "MAZADAR PLAIN FAMILY -1600GR",
     "unit": "1 unit",
-    "price": 0,
+    "price": 44.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/2811-2 MAZADAR PLAIN FAMILY -1600GR.jpg"
@@ -5257,7 +5257,7 @@
     "name": "MAZADAR PLAIN FAMILY -1600GR (MAZZEDAR)",
     "nameFr": "MAZADAR PLAIN FAMILY -1600GR (MAZZEDAR)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 44.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/MAZADAR PLAIN FAMILY -1600GR (MAZZEDAR).jpg"
@@ -5290,7 +5290,7 @@
     "name": "Maggi - Tablets Chicken Flavour (Ivory Coast) - (12ppc) 60x10g",
     "nameFr": "Maggi - Tablets Chicken Flavour (Ivory Coast) - (12ppc) 60x10g",
     "unit": "10 g",
-    "price": 0,
+    "price": 46.79,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Maggi - Tablets Chicken Flavour (Ivory Coast) - (12ppc) 60x10g.jpg"
@@ -5521,7 +5521,7 @@
     "name": "Maliban Orange Cream 30 x 200 g",
     "nameFr": "Maliban Orange Cream 30 x 200 g",
     "unit": "200 g",
-    "price": 0,
+    "price": 39.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Maliban Orange Cream 30 x 200 g.jpg"
@@ -5609,7 +5609,7 @@
     "name": "Marlboro Gold Big Pack Box",
     "nameFr": "Marlboro Gold Big Pack Box",
     "unit": "1 unit",
-    "price": 0,
+    "price": 76.21,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Marlboro Gold Big Pack Box.jpg"
@@ -5642,7 +5642,7 @@
     "name": "Marlboro Red Big Pack Box",
     "nameFr": "Marlboro Red Big Pack Box",
     "unit": "1 unit",
-    "price": 0,
+    "price": 76.21,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Marlboro Red Big Pack Box.jpg"
@@ -5686,7 +5686,7 @@
     "name": "Mayonnaise (au Citron) - Bama - carton 12x840ml / AKTION 30%",
     "nameFr": "Mayonnaise (au Citron) - Bama - carton 12x840ml / AKTION 30%",
     "unit": "840 ml",
-    "price": 0,
+    "price": 55,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Mayonnaise (au Citron) - Bama - carton 12x840ml - AKTION 30%.jpg"
@@ -5697,7 +5697,7 @@
     "name": "Maíz Mote (Cartón 24x500g)",
     "nameFr": "Maíz Mote (Cartón 24x500g)",
     "unit": "500 g",
-    "price": 0,
+    "price": 81.6,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Maíz Mote Cartón 24x500g.jpg"
@@ -5708,7 +5708,7 @@
     "name": "Milk Fish",
     "nameFr": "Milk Fish",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.9,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/Milk Fish.jpg"
@@ -5719,7 +5719,7 @@
     "name": "Millet Flour / Farine de Mil - Saafia (SN) - (12ppc) 1kg",
     "nameFr": "Millet Flour / Farine de Mil - Saafia (SN) - (12ppc) 1kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 45.55,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/Millet Flour - Farine de Mil - Saafia (SN) - (12ppc) 1kg.jpg"
@@ -5730,7 +5730,7 @@
     "name": "Moringa Feuilles Broyées en poudre (Sénégal) - Halah - 100g (15ppc)",
     "nameFr": "Moringa Feuilles Broyées en poudre (Sénégal) - Halah - 100g (15ppc)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 90.8,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/Moringa Feuilles Broyées en poudre (Sénégal) - Halah - 100g (15ppc).jpg"
@@ -5763,7 +5763,7 @@
     "name": "Mural - Short",
     "nameFr": "Mural - Short",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Mural Short fish.webp"
@@ -5807,7 +5807,7 @@
     "name": "NEW Price ACHTUNG TRS Red Lentils mit Etikett 6x2kg",
     "nameFr": "NEW Price ACHTUNG TRS Red Lentils mit Etikett 6x2kg",
     "unit": "2 kg",
-    "price": 0,
+    "price": 24,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/NEW Price TRS Red Lentils 6x2kg.png"
@@ -5862,7 +5862,7 @@
     "name": "Neem Oil",
     "nameFr": "Neem Oil",
     "unit": "1 unit",
-    "price": 0,
+    "price": 25.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Neem Oil.jpg"
@@ -5873,7 +5873,7 @@
     "name": "Nestl - Lait Concentr Sucr - Pack de 12x305ml/397g",
     "nameFr": "Nestl - Lait Concentr Sucr - Pack de 12x305ml/397g",
     "unit": "305 ml",
-    "price": 0,
+    "price": 86.18,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Nestl - Lait Concentr Sucr - Pack de 12x305ml-397g.jpg"
@@ -5884,7 +5884,7 @@
     "name": "Nestl - Sweetened Condensed Milk / Gezuckerte Kondensmilch - Pack 12x305ml/397g",
     "nameFr": "Nestl - Sweetened Condensed Milk / Gezuckerte Kondensmilch - Pack 12x305ml/397g",
     "unit": "305 ml",
-    "price": 0,
+    "price": 43.09,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Nestl - Sweetened Condensed Milk - Gezuckerte Kondensmilch - Pack 12x305ml-397g.png"
@@ -5895,7 +5895,7 @@
     "name": "Nestl CARNATION - Condensed Milk / Kondensmilch - crt 12x400ml",
     "nameFr": "Nestl CARNATION - Condensed Milk / Kondensmilch - crt 12x400ml",
     "unit": "400 ml",
-    "price": 0,
+    "price": 39.91,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Nestl CARNATION - Condensed Milk - Kondensmilch - crt 12x400ml.jpg"
@@ -5928,7 +5928,7 @@
     "name": "Nethali Sprats",
     "nameFr": "Nethali Sprats",
     "unit": "1 unit",
-    "price": 0,
+    "price": 25.8,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Nethali Sprats.jpg"
@@ -5939,7 +5939,7 @@
     "name": "Nethali(Sprats)",
     "nameFr": "Nethali(Sprats)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 11.1,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Nethali Sprats.jpg"
@@ -5961,7 +5961,7 @@
     "name": "Nouilles Inst. TEUMSAE RAMEN 4 x 600 g (5 x 120g) PALDO, Corée du Sud",
     "nameFr": "Nouilles Inst. TEUMSAE RAMEN 4 x 600 g (5 x 120g) PALDO, Corée du Sud",
     "unit": "600 g",
-    "price": 0,
+    "price": 24.3,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/Nouilles Inst. TEUMSAE RAMEN PALDO Corée du Sud.png"
@@ -5972,7 +5972,7 @@
     "name": "Nouilles de riz L sans gluten 30x500gr 5mm courtes LE DRAGON, Royal Siam Cuisine, Thaïlande",
     "nameFr": "Nouilles de riz L sans gluten 30x500gr 5mm courtes LE DRAGON, Royal Siam Cuisine, Thaïlande",
     "unit": "500 g",
-    "price": 0,
+    "price": 48.6,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01340 Nouilles de riz L sans gluten 30x400gr 5mm LE DRAGON, Royal Siam Cuisine, Thaïlande.jpg"
@@ -5983,7 +5983,7 @@
     "name": "Nouilles de riz M sans gluten 30x400gr 3mm LE DRAGON, Royal Siam Cuisine, Thaïlande",
     "nameFr": "Nouilles de riz M sans gluten 30x400gr 3mm LE DRAGON, Royal Siam Cuisine, Thaïlande",
     "unit": "400 g",
-    "price": 0,
+    "price": 46.8,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01330 Nouilles de riz M sans gluten 30x400gr 3mm LE DRAGON, Royal Siam Cuisine, Thaïlande.webp"
@@ -5994,7 +5994,7 @@
     "name": "Nouilles de riz M sans gluten 30x500gr 3mm courtes LE DRAGON, Royal Siam Cuisine, Thaïlande",
     "nameFr": "Nouilles de riz M sans gluten 30x500gr 3mm courtes LE DRAGON, Royal Siam Cuisine, Thaïlande",
     "unit": "500 g",
-    "price": 0,
+    "price": 48.6,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01330 Nouilles de riz M sans gluten 30x400gr 3mm LE DRAGON, Royal Siam Cuisine, Thaïlande.webp"
@@ -6005,7 +6005,7 @@
     "name": "Nouilles fines asiatiques de blé 30x454gr Mi Trung Ga, Chine 40526",
     "nameFr": "Nouilles fines asiatiques de blé 30x454gr Mi Trung Ga, Chine 40526",
     "unit": "454 g",
-    "price": 0,
+    "price": 48.6,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/Nouilles fines asiatiques de blé Mi Trung Ga Chine.jpg",
@@ -6105,7 +6105,7 @@
     "name": "Orra",
     "nameFr": "Orra",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Orra.jpg"
@@ -6116,7 +6116,7 @@
     "name": "Otti",
     "nameFr": "Otti",
     "unit": "1 unit",
-    "price": 0,
+    "price": 6.2,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Otti.webp"
@@ -6149,7 +6149,7 @@
     "name": "PANGASIUS STEAK (ASC)",
     "nameFr": "PANGASIUS STEAK (ASC)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 39,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/PANGASIUS STEAK ASC.jpg"
@@ -6160,7 +6160,7 @@
     "name": "PANGSIUS STEAK HOLE HGT",
     "nameFr": "PANGSIUS STEAK HOLE HGT",
     "unit": "1 unit",
-    "price": 0,
+    "price": 34.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/PANGSIUS STEAK HOLE HGT.jpg"
@@ -6182,7 +6182,7 @@
     "name": "PEELED BEANS - Tropical Sun - 500g",
     "nameFr": "PEELED BEANS - Tropical Sun - 500g",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.47,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/PEELED BEANS - Tropical Sun - 500g.jpeg"
@@ -6193,7 +6193,7 @@
     "name": "PG Tips mit Etikett 8x300 Bags",
     "nameFr": "PG Tips mit Etikett 8x300 Bags",
     "unit": "1 unit",
-    "price": 0,
+    "price": 72,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/PG Tips tea 300 Bags.jpg"
@@ -6215,7 +6215,7 @@
     "name": "PO-SCHENKEL 4 X 2.5 KG M/R (\"HALAL\"IMPORT)",
     "nameFr": "PO-SCHENKEL 4 X 2.5 KG M/R (\"HALAL\"IMPORT)",
     "unit": "2.5 kg",
-    "price": 0,
+    "price": 118,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/PO-SCHENKEL 4 X 2.5 KG M-R ('HALAL')IMPORT.jpg"
@@ -6237,7 +6237,7 @@
     "name": "POULET BRUST BLOCK HALAL",
     "nameFr": "POULET BRUST BLOCK HALAL",
     "unit": "1 unit",
-    "price": 0,
+    "price": 83.4,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/POULET BRUST BLOCK HALAL chicken breast.png"
@@ -6259,7 +6259,7 @@
     "name": "POULET FLÜGELI 2 KG ( BELL) (BELL)",
     "nameFr": "POULET FLÜGELI 2 KG ( BELL) (BELL)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 115,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/POULET FLÜGELI 2KG BELL chicken wings.jpg"
@@ -6281,7 +6281,7 @@
     "name": "POULET GANZ (SMOOKED)",
     "nameFr": "POULET GANZ (SMOOKED)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 69,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/POULET GANZ SMOOKED smoked chicken.png"
@@ -6292,7 +6292,7 @@
     "name": "POULET GANZ 1000GR \"HALAL\"",
     "nameFr": "POULET GANZ 1000GR \"HALAL\"",
     "unit": "1 unit",
-    "price": 0,
+    "price": 119,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/POULET GANZ 1000GR 'HALAL'.jpg"
@@ -6303,7 +6303,7 @@
     "name": "POULET GESCHNETZELTES RAW",
     "nameFr": "POULET GESCHNETZELTES RAW",
     "unit": "1 unit",
-    "price": 0,
+    "price": 89.5,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/POULET GESCHNETZELTES RAW chicken strips.jpg"
@@ -6314,7 +6314,7 @@
     "name": "POULET LEBER",
     "nameFr": "POULET LEBER",
     "unit": "1 unit",
-    "price": 0,
+    "price": 34.9,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/POULET LEBER chicken liver.jpg"
@@ -6325,7 +6325,7 @@
     "name": "POULET LEBER (MICARNA)",
     "nameFr": "POULET LEBER (MICARNA)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 34.9,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/POULET LEBER MICARNA chicken liver.png"
@@ -6336,7 +6336,7 @@
     "name": "POULET MÄGEN",
     "nameFr": "POULET MÄGEN",
     "unit": "1 unit",
-    "price": 0,
+    "price": 39,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/POULET MÄGEN chicken gizzards.jpg"
@@ -6347,7 +6347,7 @@
     "name": "POULET MÄGEN (MICARNA)",
     "nameFr": "POULET MÄGEN (MICARNA)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 39,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/POULET MÄGEN MICARNA chicken gizzards.jpg"
@@ -6358,7 +6358,7 @@
     "name": "POULET NUGGETS 25 G (HALAL)",
     "nameFr": "POULET NUGGETS 25 G (HALAL)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 104.25,
     "category": "Butcher",
     "categoryFr": "Boucherie",
     "image": "/product_images/POULET NUGGETS 25G HALAL.jpg"
@@ -6391,7 +6391,7 @@
     "name": "Palm Cream - Praise - Carton L 12x800g",
     "nameFr": "Palm Cream - Praise - Carton L 12x800g",
     "unit": "800 g",
-    "price": 0,
+    "price": 56.94,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Palm Cream - Praise - Carton L 12x800g.jpg"
@@ -6402,7 +6402,7 @@
     "name": "Palm Oil Regular (Togo) Huile de Palme - Prince - 500ml",
     "nameFr": "Palm Oil Regular (Togo) Huile de Palme - Prince - 500ml",
     "unit": "1 unit",
-    "price": 0,
+    "price": 71.41,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Palm Oil Regular (Togo) Huile de Palme - Prince - 500ml.jpg"
@@ -6413,7 +6413,7 @@
     "name": "Palm Oil ZOMI (Togo) Huile de Palme - Prince - Carton 12x1 liter",
     "nameFr": "Palm Oil ZOMI (Togo) Huile de Palme - Prince - Carton 12x1 liter",
     "unit": "1 unit",
-    "price": 0,
+    "price": 59.1,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Palm Oil ZOMI (Togo) Huile de Palme - Prince - Carton 12x1 liter.jpg"
@@ -6424,7 +6424,7 @@
     "name": "Palm Oil Zomi - Prince (Togo) - Carton 24x 500ml",
     "nameFr": "Palm Oil Zomi - Prince (Togo) - Carton 24x 500ml",
     "unit": "500 ml",
-    "price": 0,
+    "price": 73.87,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Palm Oil Zomi - Prince (Togo) - Carton 24x 500ml.jpg"
@@ -6435,7 +6435,7 @@
     "name": "Palm Soup Base - Nkulenu's L - Pack 12x780g",
     "nameFr": "Palm Soup Base - Nkulenu's L - Pack 12x780g",
     "unit": "780 g",
-    "price": 0,
+    "price": 47.61,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Palm Soup Base - Nkulenu's L - Pack 12x780g.jpg"
@@ -6446,7 +6446,7 @@
     "name": "Palm Soup Base - Nkulenu's S - Pack 12x390g",
     "nameFr": "Palm Soup Base - Nkulenu's S - Pack 12x390g",
     "unit": "390 g",
-    "price": 0,
+    "price": 29.55,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Palm Soup Base - Nkulenu's S - Pack 12x390g.jpg"
@@ -6457,7 +6457,7 @@
     "name": "Paneer Fresh 10 Stk",
     "nameFr": "Paneer Fresh 10 Stk",
     "unit": "1 unit",
-    "price": 0,
+    "price": 46,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Paneer Fresh.jpg"
@@ -6490,7 +6490,7 @@
     "name": "Parai / Thalapath",
     "nameFr": "Parai / Thalapath",
     "unit": "1 unit",
-    "price": 0,
+    "price": 5.04,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Parai Thalapath fish.jpg"
@@ -6512,7 +6512,7 @@
     "name": "Parisienne Verte Sans Box",
     "nameFr": "Parisienne Verte Sans Box",
     "unit": "1 unit",
-    "price": 0,
+    "price": 81.6,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Parisienne Verte Sans Box cigarettes.png"
@@ -6523,7 +6523,7 @@
     "name": "Peak - Instant Whole Milk Powder / Milchpulver - (24ppc) 400g",
     "nameFr": "Peak - Instant Whole Milk Powder / Milchpulver - (24ppc) 400g",
     "unit": "1 unit",
-    "price": 0,
+    "price": 40.63,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Peak - Instant Whole Milk Powder - Milchpulver - (24ppc) 400g.jpeg"
@@ -6545,7 +6545,7 @@
     "name": "Poisson Chat Filets Fums - LP African Food 100g - (20ppc)",
     "nameFr": "Poisson Chat Filets Fums - LP African Food 100g - (20ppc)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 50.27,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/Poisson Chat Filets Fums - LP African Food 100g - (20ppc).jpg"
@@ -6578,7 +6578,7 @@
     "name": "Pomfrets - Black (karuppu vavwal)",
     "nameFr": "Pomfrets - Black (karuppu vavwal)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/Pomfrets Black karuppu vavwal fish.jpg"
@@ -6600,7 +6600,7 @@
     "name": "Postobon Colombiana 6x2l",
     "nameFr": "Postobon Colombiana 6x2l",
     "unit": "2 L",
-    "price": 0,
+    "price": 17.4,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Postobon Colombiana 6x2l.jpg"
@@ -6611,7 +6611,7 @@
     "name": "Postobon Manzana 6x2l",
     "nameFr": "Postobon Manzana 6x2l",
     "unit": "2 L",
-    "price": 0,
+    "price": 17.4,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Postobon Manzana 6x2l.jpg"
@@ -6622,7 +6622,7 @@
     "name": "Postobon Uva 6x2l",
     "nameFr": "Postobon Uva 6x2l",
     "unit": "2 L",
-    "price": 0,
+    "price": 17.4,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Postobon Uva 6x2l.webp"
@@ -6655,7 +6655,7 @@
     "name": "REDTILAPIA STEAK 100-140GR",
     "nameFr": "REDTILAPIA STEAK 100-140GR",
     "unit": "1 unit",
-    "price": 0,
+    "price": 118.8,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/REDTILAPIA STEAK 100-140GR.jpg"
@@ -6666,7 +6666,7 @@
     "name": "REDTILAPIA STEAK 100-140GR (SM STAR)",
     "nameFr": "REDTILAPIA STEAK 100-140GR (SM STAR)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 118.8,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/REDTILAPIA STEAK 100-140GR.jpg"
@@ -6710,7 +6710,7 @@
     "name": "ROHU GUTTED (4 KG +) 22KG",
     "nameFr": "ROHU GUTTED (4 KG +) 22KG",
     "unit": "1 unit",
-    "price": 0,
+    "price": 82.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/ROHU GUTTED 4KG 22KG.png"
@@ -6721,7 +6721,7 @@
     "name": "ROHU GUTTED (5 KG +) 22KG",
     "nameFr": "ROHU GUTTED (5 KG +) 22KG",
     "unit": "1 unit",
-    "price": 0,
+    "price": 86.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/3079-1 ROHU GUTTED (5 KG +) 22KG.jpg"
@@ -6754,7 +6754,7 @@
     "name": "ROLL PAPER 10\" 250MM ( PURPLE)",
     "nameFr": "ROLL PAPER 10\" 250MM ( PURPLE)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 88.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/ROLL PAPER 10 inch 250MM.jpeg"
@@ -6765,7 +6765,7 @@
     "name": "ROLL PASTRY 190 MM (BLUE 7.5\")",
     "nameFr": "ROLL PASTRY 190 MM (BLUE 7.5\")",
     "unit": "1 unit",
-    "price": 0,
+    "price": 52,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/ROLL PASTRY 190MM BLUE 7.5 inch SPRINGHOME.jpg"
@@ -6776,7 +6776,7 @@
     "name": "ROLL PASTRY 190 MM (BLUE 7.5\") (SPRINGHOME)",
     "nameFr": "ROLL PASTRY 190 MM (BLUE 7.5\") (SPRINGHOME)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 52,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/ROLL PASTRY 190MM BLUE 7.5 inch SPRINGHOME.jpg"
@@ -6787,7 +6787,7 @@
     "name": "ROLL PASTRY 190 MM (BLUE)",
     "nameFr": "ROLL PASTRY 190 MM (BLUE)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 52,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/ROLL PASTRY 190MM BLUE spring roll pastry.jpg"
@@ -6809,7 +6809,7 @@
     "name": "ROTI PARANTHA ONIEN (RED)",
     "nameFr": "ROTI PARANTHA ONIEN (RED)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 46,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/ROTI PARANTHA ONION RED.jpeg"
@@ -6864,7 +6864,7 @@
     "name": "Red Villai 1kg+2.50Kg",
     "nameFr": "Red Villai 1kg+2.50Kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Red Villai fish 1kg.jpg"
@@ -6875,7 +6875,7 @@
     "name": "Redsnapper Cutting",
     "nameFr": "Redsnapper Cutting",
     "unit": "1 unit",
-    "price": 0,
+    "price": 85.7,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Redsnapper Cutting.webp"
@@ -6886,7 +6886,7 @@
     "name": "Riz Arborio 6 x1kg CURTIRISO, Italie Riz Grains Longs, Superfino",
     "nameFr": "Riz Arborio 6 x1kg CURTIRISO, Italie Riz Grains Longs, Superfino",
     "unit": "1 kg",
-    "price": 0,
+    "price": 22.36,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01099 Riz Arborio 6 x1kg CURTIRISO, Italie Riz Grains Longs, Superfino.jpg",
@@ -6898,7 +6898,7 @@
     "name": "Riz Carnaroli 6 x1kg CURTIRISO, Italie",
     "nameFr": "Riz Carnaroli 6 x1kg CURTIRISO, Italie",
     "unit": "1 kg",
-    "price": 0,
+    "price": 22.36,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01094 Riz Carnaroli 6 x1kg CURTIRISO, Italie.png",
@@ -6910,7 +6910,7 @@
     "name": "Riz Gluant blanc 1x5kg LE DRAGON, Thaïlande",
     "nameFr": "Riz Gluant blanc 1x5kg LE DRAGON, Thaïlande",
     "unit": "5 kg",
-    "price": 0,
+    "price": 178.2,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01062 Riz Gluant blanc 1x5kg LE DRAGON, Thaïlande.jpg"
@@ -6921,7 +6921,7 @@
     "name": "Riz Jasmin Siam 1x10kg AAA 2024 LE DRAGON, Thaïlande",
     "nameFr": "Riz Jasmin Siam 1x10kg AAA 2024 LE DRAGON, Thaïlande",
     "unit": "10 kg",
-    "price": 0,
+    "price": 222.75,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/100994 Riz Jasmin Siam 1x10kg AAA 2024 LE DRAGON, Thaïlande.jpg"
@@ -6932,7 +6932,7 @@
     "name": "Riz Jasmin Siam 1x25kg AAA 2025 LE DRAGON, Thaïlande",
     "nameFr": "Riz Jasmin Siam 1x25kg AAA 2025 LE DRAGON, Thaïlande",
     "unit": "25 kg",
-    "price": 0,
+    "price": 594,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/116249 Riz Jasmin Siam 1x25Kg AAA 2025 LE DRAGON, Thaïlande.jpg"
@@ -6943,7 +6943,7 @@
     "name": "Riz Jasmin Siam 1x5kg AAA 2024 LE DRAGON, Thaïlande",
     "nameFr": "Riz Jasmin Siam 1x5kg AAA 2024 LE DRAGON, Thaïlande",
     "unit": "5 kg",
-    "price": 0,
+    "price": 993.72,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/100887 Riz Jasmin Siam 1x5kg AAA 2024 LE DRAGON, Thaïlande.jpg"
@@ -6954,7 +6954,7 @@
     "name": "Riz Jasmin Siam 6x1kg AAA LE DRAGON, Thaïlande",
     "nameFr": "Riz Jasmin Siam 6x1kg AAA LE DRAGON, Thaïlande",
     "unit": "1 kg",
-    "price": 0,
+    "price": 194.4,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/01012 Riz Jasmin Siam 6x1kg AAA LE DRAGON, Thaïlande.png"
@@ -7020,7 +7020,7 @@
     "name": "SMOKED/DRIED CATFISH STEAKS (ARTICLE:4424)",
     "nameFr": "SMOKED/DRIED CATFISH STEAKS (ARTICLE:4424)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 57.25,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/SMOKED DRIED CATFISH STEAKS.jpg"
@@ -7064,7 +7064,7 @@
     "name": "SWARTZTILAPIA STEAK (SM STAR)",
     "nameFr": "SWARTZTILAPIA STEAK (SM STAR)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 89,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/SWARTZTILAPIA STEAK.png"
@@ -7075,7 +7075,7 @@
     "name": "SWARZTILAPIA STEAK",
     "nameFr": "SWARZTILAPIA STEAK",
     "unit": "1 unit",
-    "price": 0,
+    "price": 89,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/SWARTZTILAPIA STEAK.png"
@@ -7086,7 +7086,7 @@
     "name": "SWARTZTILAPIA STEAK (SM STAR)",
     "nameFr": "SWARTZTILAPIA STEAK (SM STAR)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 89,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/SWARZTILAPIA STEAK black tilapia.jpg"
@@ -7119,7 +7119,7 @@
     "name": "Samaposha",
     "nameFr": "Samaposha",
     "unit": "1 unit",
-    "price": 0,
+    "price": 39.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Samaposha.jpg"
@@ -7130,7 +7130,7 @@
     "name": "Sambal Oelek 6x200g",
     "nameFr": "Sambal Oelek 6x200g",
     "unit": "200 g",
-    "price": 0,
+    "price": 10.8,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Sambal Oelek 6x200g FLOWER BRAND.jpg"
@@ -7153,7 +7153,7 @@
     "name": "Sardines in Tomato Sauce - Morjon - box 24x215g",
     "nameFr": "Sardines in Tomato Sauce - Morjon - box 24x215g",
     "unit": "215 g",
-    "price": 0,
+    "price": 39.4,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Sardines in Tomato Sauce - Morjon - box 24x215g.jpg"
@@ -7164,7 +7164,7 @@
     "name": "Sardines l'Huile - Anny - 50x125g",
     "nameFr": "Sardines l'Huile - Anny - 50x125g",
     "unit": "125 g",
-    "price": 0,
+    "price": 46.17,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Sardines l'Huile - Anny - 50x125g.jpg"
@@ -7175,7 +7175,7 @@
     "name": "Sardines l'Huile Pimente - Anny - 50x125g",
     "nameFr": "Sardines l'Huile Pimente - Anny - 50x125g",
     "unit": "125 g",
-    "price": 0,
+    "price": 43.09,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Sardines l'Huile Pimente - Anny - 50x125g.jpg"
@@ -7186,7 +7186,7 @@
     "name": "Sardines l'Huile Pimente -Titus - 48x125g",
     "nameFr": "Sardines l'Huile Pimente -Titus - 48x125g",
     "unit": "125 g",
-    "price": 0,
+    "price": 71.41,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Sardines l'Huile Pimente -Titus - 48x125g.jpg"
@@ -7197,7 +7197,7 @@
     "name": "Sardines l'Huile Vgtale - L'Espadon - 50x125g",
     "nameFr": "Sardines l'Huile Vgtale - L'Espadon - 50x125g",
     "unit": "125 g",
-    "price": 0,
+    "price": 53.35,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Sardines l'Huile Vgtale - L'Espadon - 50x125g.jpg"
@@ -7252,7 +7252,7 @@
     "name": "Sauce Graine - Nkulenu's - 12x390g Carton",
     "nameFr": "Sauce Graine - Nkulenu's - 12x390g Carton",
     "unit": "390 g",
-    "price": 0,
+    "price": 28.8,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Sauce Graine - Nkulenu's - 12x390g Carton.jpg"
@@ -7263,7 +7263,7 @@
     "name": "Sauce Graine - Praise - Carton S 12x400g",
     "nameFr": "Sauce Graine - Praise - Carton S 12x400g",
     "unit": "400 g",
-    "price": 0,
+    "price": 35.2,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Sauce Graine - Praise - Carton S 12x400g.jpeg"
@@ -7329,7 +7329,7 @@
     "name": "Sauce salsa Guacamole 12 x 300 g POCO LOCO, Belgique",
     "nameFr": "Sauce salsa Guacamole 12 x 300 g POCO LOCO, Belgique",
     "unit": "300 g",
-    "price": 0,
+    "price": 25.47,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Sauce salsa Guacamole POCO LOCO 12x300g.jpeg",
@@ -7386,7 +7386,7 @@
     "name": "Sauce soja foncée Supérieur 12x600ml PEARL RIVER BRIDGE, Chine",
     "nameFr": "Sauce soja foncée Supérieur 12x600ml PEARL RIVER BRIDGE, Chine",
     "unit": "600 ml",
-    "price": 0,
+    "price": 26.91,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/03130 Sauce soja claire Supérieur 12x600ml PEARL RIVER BRIDGE, Chine.jpg",
@@ -7409,7 +7409,7 @@
     "name": "Sauce soja noire douce 12x950g /700ml HEALTHY BOY, Thaïlande",
     "nameFr": "Sauce soja noire douce 12x950g /700ml HEALTHY BOY, Thaïlande",
     "unit": "950 g",
-    "price": 0,
+    "price": 31.5,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Sauce soja noire douce 12x950g HEALTHY BOY Thaïlande.jpg"
@@ -7475,7 +7475,7 @@
     "name": "Semoule de Bl Dur Fine - Halima - 5kg",
     "nameFr": "Semoule de Bl Dur Fine - Halima - 5kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 48.22,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/Semoule de Bl Dur Fine - Halima - 5kg.png"
@@ -7486,7 +7486,7 @@
     "name": "Semoule de Bl Dur Moyen - Halima - 5kg",
     "nameFr": "Semoule de Bl Dur Moyen - Halima - 5kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 49.76,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/Semoule de Bl Dur Moyen - Halima - 5kg.webp"
@@ -7596,7 +7596,7 @@
     "name": "Tirali ( Silver Belly) 2",
     "nameFr": "Tirali ( Silver Belly) 2",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Silver belly fish fresh.jpg"
@@ -7618,7 +7618,7 @@
     "name": "Skala Creme Mais Lisos (Carton 6x1kg)",
     "nameFr": "Skala Creme Mais Lisos (Carton 6x1kg)",
     "unit": "1 kg",
-    "price": 0,
+    "price": 41.4,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/Skala Creme Mais Lisos (Carton 6x1kg).png"
@@ -7651,7 +7651,7 @@
     "name": "Soap Moringa",
     "nameFr": "Soap Moringa",
     "unit": "1 unit",
-    "price": 0,
+    "price": 13.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Soap Moringa.jpg"
@@ -7662,7 +7662,7 @@
     "name": "Soap Mysore Sandalwood",
     "nameFr": "Soap Mysore Sandalwood",
     "unit": "1 unit",
-    "price": 0,
+    "price": 7.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Soap Mysore Sandalwood.jpg"
@@ -7673,7 +7673,7 @@
     "name": "Soova Parai",
     "nameFr": "Soova Parai",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Soova Parai.jpg"
@@ -7684,7 +7684,7 @@
     "name": "Soovaprai 200g +",
     "nameFr": "Soovaprai 200g +",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Soovaprai 200g +.png"
@@ -7695,7 +7695,7 @@
     "name": "Soovaprai 200g-",
     "nameFr": "Soovaprai 200g-",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Soovaprai 200g-.png"
@@ -7827,7 +7827,7 @@
     "name": "Super Bock Bouteille 4x6x25cl",
     "nameFr": "Super Bock Bouteille 4x6x25cl",
     "unit": "1 unit",
-    "price": 0,
+    "price": 0.77,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Super Bock Bouteille 4x6x25cl.png"
@@ -7893,7 +7893,7 @@
     "name": "TRS Black Eye Beans mit Etikett 10x1kg",
     "nameFr": "TRS Black Eye Beans mit Etikett 10x1kg",
     "unit": "1 kg",
-    "price": 0,
+    "price": 37,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/TRS Black Eye Beans mit Etikett 10x1kg.jpg"
@@ -7915,7 +7915,7 @@
     "name": "TRS Chana Dal Aktion mit Etikett 6x2kg",
     "nameFr": "TRS Chana Dal Aktion mit Etikett 6x2kg",
     "unit": "2 kg",
-    "price": 0,
+    "price": 32.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/TRS Chana Dal Aktion mit Etikett 6x2kg.jpg"
@@ -7926,7 +7926,7 @@
     "name": "TRS Chilli Crushed mit Etikett 15x100g",
     "nameFr": "TRS Chilli Crushed mit Etikett 15x100g",
     "unit": "100 g",
-    "price": 0,
+    "price": 27,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/TRS Chilli Crushed mit Etikett 15x100g.png"
@@ -7937,7 +7937,7 @@
     "name": "TRS Chilli Whole Red Long mit Etikett 10x150g",
     "nameFr": "TRS Chilli Whole Red Long mit Etikett 10x150g",
     "unit": "150 g",
-    "price": 0,
+    "price": 32,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/TRS Chilli Whole Red Long mit Etikett 10x150g.webp"
@@ -7959,7 +7959,7 @@
     "name": "TRS Cloves Whole mit Etikett 20x50g",
     "nameFr": "TRS Cloves Whole mit Etikett 20x50g",
     "unit": "50 g",
-    "price": 0,
+    "price": 29.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/TRS Cloves Whole mit Etikett 20x50g.jpg"
@@ -8047,7 +8047,7 @@
     "name": "TRS Gram Flour mit Etikett 12x1kg",
     "nameFr": "TRS Gram Flour mit Etikett 12x1kg",
     "unit": "1 kg",
-    "price": 0,
+    "price": 35,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/TRS Gram Flour mit Etikett 12x1kg.jpg"
@@ -8058,7 +8058,7 @@
     "name": "TRS Gram Flour mit Etikett 6x2kg",
     "nameFr": "TRS Gram Flour mit Etikett 6x2kg",
     "unit": "2 kg",
-    "price": 0,
+    "price": 35,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/TRS Gram Flour mit Etikett 6x2kg.jpg"
@@ -8069,7 +8069,7 @@
     "name": "TRS Green Cardamon 20x50g mit Etik 2",
     "nameFr": "TRS Green Cardamon 20x50g mit Etik 2",
     "unit": "50 g",
-    "price": 0,
+    "price": 60,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/TRS Green Cardamon 20x50g mit Etik 2.jpg"
@@ -8080,7 +8080,7 @@
     "name": "TRS Green Lentils mit Etikett 6x2kg",
     "nameFr": "TRS Green Lentils mit Etikett 6x2kg",
     "unit": "2 kg",
-    "price": 0,
+    "price": 39,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/TRS Green Lentils mit Etikett 6x2kg.png"
@@ -8113,7 +8113,7 @@
     "name": "TRS Kalonji Seeds mit Etikett 20x100g",
     "nameFr": "TRS Kalonji Seeds mit Etikett 20x100g",
     "unit": "100 g",
-    "price": 0,
+    "price": 25,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/TRS Kalonji Seeds mit Etikett 20x100g.jpg"
@@ -8124,7 +8124,7 @@
     "name": "TRS Kashmiri Chilli Powder mit Etikett 20x100gr",
     "nameFr": "TRS Kashmiri Chilli Powder mit Etikett 20x100gr",
     "unit": "100 g",
-    "price": 0,
+    "price": 40,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/TRS Kashmiri Chilli Powder mit Etikett 20x100gr.jpg"
@@ -8179,7 +8179,7 @@
     "name": "TRS Moong Dal mit Etikett 6x2kg",
     "nameFr": "TRS Moong Dal mit Etikett 6x2kg",
     "unit": "2 kg",
-    "price": 0,
+    "price": 40.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/TRS Moong Dal mit Etikett 6x2kg.jpg"
@@ -8190,7 +8190,7 @@
     "name": "TRS Moong Dal mit Etikett Only 8x500g",
     "nameFr": "TRS Moong Dal mit Etikett Only 8x500g",
     "unit": "500 g",
-    "price": 0,
+    "price": 16.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/TRS Moong Dal mit Etikett Only 8x500g.jpg"
@@ -8267,7 +8267,7 @@
     "name": "TRS Red Lentils mit Etikett 10x1kg",
     "nameFr": "TRS Red Lentils mit Etikett 10x1kg",
     "unit": "1 kg",
-    "price": 0,
+    "price": 29,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/TRS Red Lentils mit Etikett 10x1kg.jpg"
@@ -8278,7 +8278,7 @@
     "name": "TRS Red Lentils mit Etikett 20x500g",
     "nameFr": "TRS Red Lentils mit Etikett 20x500g",
     "unit": "500 g",
-    "price": 0,
+    "price": 29.9,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/TRS Red Lentils mit Etikett 20x500g.jpg"
@@ -8311,7 +8311,7 @@
     "name": "TRS Rice Flour mit Etikett 6x1.5kg",
     "nameFr": "TRS Rice Flour mit Etikett 6x1.5kg",
     "unit": "1.5 kg",
-    "price": 0,
+    "price": 29.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/TRS Rice Flour mit Etikett 6x1.5kg.jpg"
@@ -8322,7 +8322,7 @@
     "name": "TRS Star Aniseed mit Etikett 15x50g",
     "nameFr": "TRS Star Aniseed mit Etikett 15x50g",
     "unit": "50 g",
-    "price": 0,
+    "price": 28,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/TRS Star Aniseed mit Etikett 15x50g.png"
@@ -8333,7 +8333,7 @@
     "name": "TRS Tapioca Pearls 6 x 500 g",
     "nameFr": "TRS Tapioca Pearls 6 x 500 g",
     "unit": "500 g",
-    "price": 0,
+    "price": 9.9,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/TRS Tapioca Pearls 6 x 500 g.jpg"
@@ -8344,7 +8344,7 @@
     "name": "TRS Tapioca Pearls 6 x 500 g",
     "nameFr": "TRS Tapioca Pearls 6 x 500 g",
     "unit": "500 g",
-    "price": 0,
+    "price": 9.9,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/TRS Tapioca Seeds 6x500g.webp"
@@ -8355,7 +8355,7 @@
     "name": "TRS Tapioca Seeds mit Etikett 6x500g",
     "nameFr": "TRS Tapioca Seeds mit Etikett 6x500g",
     "unit": "500 g",
-    "price": 0,
+    "price": 11.9,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/TRS Tapioca Seeds 6x500g.jpg"
@@ -8366,7 +8366,7 @@
     "name": "TRS Urid Dal 6 x 2 kg",
     "nameFr": "TRS Urid Dal 6 x 2 kg",
     "unit": "2 kg",
-    "price": 0,
+    "price": 35.8,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/TRS Urid Dal 6 x 2 kg.jpg"
@@ -8377,7 +8377,7 @@
     "name": "TRS Urid Whole Gota 6 x 2 kg",
     "nameFr": "TRS Urid Whole Gota 6 x 2 kg",
     "unit": "2 kg",
-    "price": 0,
+    "price": 36.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/TRS Urid Whole Gota 6 x 2 kg.png"
@@ -8421,7 +8421,7 @@
     "name": "Tapioca Semoule de Manioc - Tropical Engros (Togo) - 1kg",
     "nameFr": "Tapioca Semoule de Manioc - Tropical Engros (Togo) - 1kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 39.4,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/Tapioca Semoule de Manioc - Tropical Engros (Togo) - 1kg.jpg"
@@ -8454,7 +8454,7 @@
     "name": "Tendli IN கோவைக்காய்",
     "nameFr": "Tendli IN கோவைக்காய்",
     "unit": "1 unit",
-    "price": 0,
+    "price": 6.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Tendli IN கோவைக்காய்.jpg"
@@ -8498,7 +8498,7 @@
     "name": "Three Deers Sella Biryani PK XXL Grain Sella Biryani Rice Herkunft : Pakistan 4x5kg",
     "nameFr": "Three Deers Sella Biryani PK XXL Grain Sella Biryani Rice Herkunft : Pakistan 4x5kg",
     "unit": "5 kg",
-    "price": 0,
+    "price": 44,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/Three Deers Sella Biryani PK XXL Grain Sella Biryani Rice Herkunft  - Pakistan 4x5kg.png"
@@ -8509,7 +8509,7 @@
     "name": "Thullumandai 250+",
     "nameFr": "Thullumandai 250+",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Thullumandai 250+.jpg"
@@ -8520,7 +8520,7 @@
     "name": "Thullumandai 250-",
     "nameFr": "Thullumandai 250-",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Thullumandai 250-.jpg"
@@ -8597,7 +8597,7 @@
     "name": "Tirali ( Silver Belly) 2",
     "nameFr": "Tirali ( Silver Belly) 2",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Tirali ( Silver Belly) 2.jpg"
@@ -8619,7 +8619,7 @@
     "name": "Tomato Concentrate - De Rica - S Carton 50x70g",
     "nameFr": "Tomato Concentrate - De Rica - S Carton 50x70g",
     "unit": "70 g",
-    "price": 0,
+    "price": 28.93,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Tomato Concentrate - De Rica - S Carton 50x70g.jpg"
@@ -8630,7 +8630,7 @@
     "name": "TonerPartenaire alternative à Epson C 13 T 03A64010 / 603XL Cartouche d'encre, multipack",
     "nameFr": "TonerPartenaire alternative à Epson C 13 T 03A64010 / 603XL Cartouche d'encre, multipack",
     "unit": "1 unit",
-    "price": 0,
+    "price": 28.73,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/TonerPartenaire alternative à Epson C 13 T 03A64010 - 603XL Cartouche d'encre, multipack.jpg"
@@ -8707,7 +8707,7 @@
     "name": "VANNEMEI . PD 16/20 (PULLDEVIENED)",
     "nameFr": "VANNEMEI . PD 16/20 (PULLDEVIENED)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 119.4,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/VANNEMEI . PD 16-20 (PULLDEVIENED).jpg"
@@ -8718,7 +8718,7 @@
     "name": "VANNEMEI .PD 21/25 (PULLDEVIENED)",
     "nameFr": "VANNEMEI .PD 21/25 (PULLDEVIENED)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 105,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/VANNEMEI .PD 21-25 (PULLDEVIENED).jpg"
@@ -8729,7 +8729,7 @@
     "name": "VANNEMEI .PD 31 / 40 (PULLDEVIENED)",
     "nameFr": "VANNEMEI .PD 31 / 40 (PULLDEVIENED)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 95.4,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/VANNEMEI .PD 31 - 40 (PULLDEVIENED).jpg"
@@ -8740,7 +8740,7 @@
     "name": "VANNEMEI GEKOCHT (CPTO) 13/15",
     "nameFr": "VANNEMEI GEKOCHT (CPTO) 13/15",
     "unit": "1 unit",
-    "price": 0,
+    "price": 143.4,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/VANNEMEI GEKOCHT (CPTO) 13-15.jpg"
@@ -8751,7 +8751,7 @@
     "name": "VANNEMEI GEKOCHT (CPTO) 16/20",
     "nameFr": "VANNEMEI GEKOCHT (CPTO) 16/20",
     "unit": "1 unit",
-    "price": 0,
+    "price": 125.4,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/VANNEMEI GEKOCHT (CPTO) 16-20.jpg"
@@ -8762,7 +8762,7 @@
     "name": "VANNEMEI HLSO 21/25",
     "nameFr": "VANNEMEI HLSO 21/25",
     "unit": "1 unit",
-    "price": 0,
+    "price": 99,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/VANNEMEI HLSO 21-25.jpg"
@@ -8773,7 +8773,7 @@
     "name": "VANNEMEI.HLSO 41/50 (PIELED)",
     "nameFr": "VANNEMEI.HLSO 41/50 (PIELED)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 87,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/VANNEMEI.HLSO 41-50 (PIELED).png"
@@ -8784,7 +8784,7 @@
     "name": "VM Villai Emperor",
     "nameFr": "VM Villai Emperor",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/VM Villai Emperor.jpg"
@@ -8795,7 +8795,7 @@
     "name": "Vaseline Blue Seal - Pure Petroleum Jelly Original No. 1 - (mini) 50ml",
     "nameFr": "Vaseline Blue Seal - Pure Petroleum Jelly Original No. 1 - (mini) 50ml",
     "unit": "1 unit",
-    "price": 0,
+    "price": 1.2,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/Vaseline Blue Seal - Pure Petroleum Jelly Original No. 1 - (mini) 50ml.jpeg"
@@ -8806,7 +8806,7 @@
     "name": "Vaseline Blue Seal - Pure Petroleum Jelly Original No. 3 - 250ml",
     "nameFr": "Vaseline Blue Seal - Pure Petroleum Jelly Original No. 3 - 250ml",
     "unit": "1 unit",
-    "price": 0,
+    "price": 3.5,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/Vaseline Blue Seal - Pure Petroleum Jelly Original No. 3 - 250ml.jpg"
@@ -8817,7 +8817,7 @@
     "name": "Vaseline Blue Seal - Pure Petroleum Jelly Original No. 5 - 450ml",
     "nameFr": "Vaseline Blue Seal - Pure Petroleum Jelly Original No. 5 - 450ml",
     "unit": "1 unit",
-    "price": 0,
+    "price": 5.3,
     "category": "Frozen & Misc",
     "categoryFr": "Surgelés & Divers",
     "image": "/product_images/Vaseline Blue Seal - Pure Petroleum Jelly Original No. 5 - 450ml.jpg"
@@ -8861,7 +8861,7 @@
     "name": "Vermicelles de riz 30x400g BAMBOO TREE, Vietnam",
     "nameFr": "Vermicelles de riz 30x400g BAMBOO TREE, Vietnam",
     "unit": "400 g",
-    "price": 0,
+    "price": 50.4,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/Vermicelles de riz 30x400g BAMBOO TREE, Vietnam.jpg",
@@ -8884,7 +8884,7 @@
     "name": "Villai 1kg+3.50kg",
     "nameFr": "Villai 1kg+3.50kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Villai 1kg+3.50kg.jpg"
@@ -8906,7 +8906,7 @@
     "name": "Waakye Leaves - King Africa (Ghana) - (12pcs) 85g",
     "nameFr": "Waakye Leaves - King Africa (Ghana) - (12pcs) 85g",
     "unit": "1 unit",
-    "price": 0,
+    "price": 24.62,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Waakye Leaves - King Africa (Ghana) - (12pcs) 85g.jpg"
@@ -8939,7 +8939,7 @@
     "name": "YELLOWFIN TUNA SLICE",
     "nameFr": "YELLOWFIN TUNA SLICE",
     "unit": "1 unit",
-    "price": 0,
+    "price": 77.4,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/Whole fresh tuna market.jpg"
@@ -8961,7 +8961,7 @@
     "name": "Winston Classic Big Pack Box",
     "nameFr": "Winston Classic Big Pack Box",
     "unit": "1 unit",
-    "price": 0,
+    "price": 75.4,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Winston Classic Big Pack Box.jpg"
@@ -8972,7 +8972,7 @@
     "name": "Winston Expression Duo Box",
     "nameFr": "Winston Expression Duo Box",
     "unit": "1 unit",
-    "price": 0,
+    "price": 75.83,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Winston Expression Duo Box.jpeg"
@@ -8994,7 +8994,7 @@
     "name": "Winston Original Red Box Big Pack",
     "nameFr": "Winston Original Red Box Big Pack",
     "unit": "1 unit",
-    "price": 0,
+    "price": 74.4,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Winston Original Red Box Big Pack.png"
@@ -9027,7 +9027,7 @@
     "name": "YELLOWFIN TUNA SLICE",
     "nameFr": "YELLOWFIN TUNA SLICE",
     "unit": "1 unit",
-    "price": 0,
+    "price": 77.4,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/YELLOWFIN TUNA SLICE.jpg"
@@ -9104,7 +9104,7 @@
     "name": "[1013] Patate douce blanche 10kg",
     "nameFr": "[1013] Patate douce blanche 10kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 43.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Patate douce blanche 10kg.jpg"
@@ -9115,7 +9115,7 @@
     "name": "[1029] Pondu/ feuille de manioc 30*450g en carré",
     "nameFr": "[1029] Pondu/ feuille de manioc 30*450g en carré",
     "unit": "1 unit",
-    "price": 0,
+    "price": 48,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Pondu- feuille de manioc 30450g en carré.jpg"
@@ -9126,7 +9126,7 @@
     "name": "[1030] Ndolé 30*500g",
     "nameFr": "[1030] Ndolé 30*500g",
     "unit": "1 unit",
-    "price": 0,
+    "price": 62.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Ndolé 30500g.png"
@@ -9137,7 +9137,7 @@
     "name": "[1031] Biteku-Teku 30*500g",
     "nameFr": "[1031] Biteku-Teku 30*500g",
     "unit": "1 unit",
-    "price": 0,
+    "price": 55,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Biteku-Teku 30500g.png"
@@ -9148,7 +9148,7 @@
     "name": "[1088] Vitamalt classic cannette 24*330ml",
     "nameFr": "[1088] Vitamalt classic cannette 24*330ml",
     "unit": "1 unit",
-    "price": 0,
+    "price": 17.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Vitamalt classic cannette 24330ml.jpg"
@@ -9159,7 +9159,7 @@
     "name": "[1089] Ginger beer 24*330ml",
     "nameFr": "[1089] Ginger beer 24*330ml",
     "unit": "1 unit",
-    "price": 0,
+    "price": 17.9,
     "category": "Beverages",
     "categoryFr": "Boissons",
     "image": "/product_images/Ginger beer 24330ml.jpg"
@@ -9170,7 +9170,7 @@
     "name": "[1090] Vimto cannette 24*330ml",
     "nameFr": "[1090] Vimto cannette 24*330ml",
     "unit": "1 unit",
-    "price": 0,
+    "price": 18.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Vimto cannette 24330ml.jpg"
@@ -9181,7 +9181,7 @@
     "name": "[1091] Vimto bouteille 6*2l",
     "nameFr": "[1091] Vimto bouteille 6*2l",
     "unit": "1 unit",
-    "price": 0,
+    "price": 19.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Vimto bouteille 62l.jpg"
@@ -9192,7 +9192,7 @@
     "name": "[1130] Pâte d'arachide 12*500g",
     "nameFr": "[1130] Pâte d'arachide 12*500g",
     "unit": "1 unit",
-    "price": 0,
+    "price": 37.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Pâte d'arachide 12500g.jpg"
@@ -9203,7 +9203,7 @@
     "name": "[1130] Pâte d'arachide 12*500g",
     "nameFr": "[1130] Pâte d'arachide 12*500g",
     "unit": "1 unit",
-    "price": 0,
+    "price": 37.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/P te d'arachide 12350g.jpg"
@@ -9225,7 +9225,7 @@
     "name": "[1134] De Rica Tomatopase 24*400g",
     "nameFr": "[1134] De Rica Tomatopase 24*400g",
     "unit": "1 unit",
-    "price": 0,
+    "price": 48.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/De Rica Tomatopase 24400g.jpeg"
@@ -9236,7 +9236,7 @@
     "name": "[1135] De Rica tomatopaste 24*210g",
     "nameFr": "[1135] De Rica tomatopaste 24*210g",
     "unit": "1 unit",
-    "price": 0,
+    "price": 33.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/De Rica tomatopaste 24210g.jpeg"
@@ -9247,7 +9247,7 @@
     "name": "[1138] Huile de Palme Guinée 12 *900ml",
     "nameFr": "[1138] Huile de Palme Guinée 12 *900ml",
     "unit": "1 unit",
-    "price": 0,
+    "price": 89.9,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Huile de Palme Guinée 12 900ml.jpeg"
@@ -9258,7 +9258,7 @@
     "name": "[1139] Huile de Palme Guinée 24*450ml",
     "nameFr": "[1139] Huile de Palme Guinée 24*450ml",
     "unit": "1 unit",
-    "price": 0,
+    "price": 93.9,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Huile de Palme Guinée 24450ml.jpeg"
@@ -9269,7 +9269,7 @@
     "name": "[1144] Chips Plantain tropical gourmet Sucré 20*85g",
     "nameFr": "[1144] Chips Plantain tropical gourmet Sucré 20*85g",
     "unit": "1 unit",
-    "price": 0,
+    "price": 19.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Chips Plantain tropical gourmet Sucré 2085g.png"
@@ -9280,7 +9280,7 @@
     "name": "[1145] Chips Plantain Tropical gourmet Salé 20*85g",
     "nameFr": "[1145] Chips Plantain Tropical gourmet Salé 20*85g",
     "unit": "1 unit",
-    "price": 0,
+    "price": 19.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Chips Plantain Tropical gourmet Salé 2085g.jpg"
@@ -9291,7 +9291,7 @@
     "name": "[1152] MP Poundo Iyan 3*4 kg",
     "nameFr": "[1152] MP Poundo Iyan 3*4 kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 62.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/MP Poundo Iyan 34 kg.jpg"
@@ -9302,7 +9302,7 @@
     "name": "[1179] Semoule de blé 10kg",
     "nameFr": "[1179] Semoule de blé 10kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 68.7,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/Semoule de blé 10kg.webp"
@@ -9313,7 +9313,7 @@
     "name": "[1195] Haricot Cornille 12*1kg",
     "nameFr": "[1195] Haricot Cornille 12*1kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 34.9,
     "category": "Pantry & Canned Goods",
     "categoryFr": "Épicerie & Conserves",
     "image": "/product_images/Haricot Cornille 121kg.webp"
@@ -9324,7 +9324,7 @@
     "name": "[1257] Koepila fume emballe 5kg",
     "nameFr": "[1257] Koepila fume emballe 5kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 63.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Koepila fume emballe 5kg.jpg"
@@ -9335,7 +9335,7 @@
     "name": "[1262] De Rica tomatopast 12*850gr",
     "nameFr": "[1262] De Rica tomatopast 12*850gr",
     "unit": "1 unit",
-    "price": 0,
+    "price": 46.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/De Rica tomatopast 12850gr.jpg"
@@ -9346,7 +9346,7 @@
     "name": "[1436] Gari jaune 15*1kg",
     "nameFr": "[1436] Gari jaune 15*1kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 56.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Gari jaune 151kg.jpeg"
@@ -9357,7 +9357,7 @@
     "name": "[1452] Chikwangue bateke 30*450g",
     "nameFr": "[1452] Chikwangue bateke 30*450g",
     "unit": "1 unit",
-    "price": 0,
+    "price": 70,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Chikwangue bateke 30450g.png"
@@ -9368,7 +9368,7 @@
     "name": "[1464] Maïs dégermé blanc 12*1kg",
     "nameFr": "[1464] Maïs dégermé blanc 12*1kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 40.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Maïs dégermé blanc 121kg.jpeg"
@@ -9379,7 +9379,7 @@
     "name": "[1481] Vitamalt ginger bouteille 24*330ml",
     "nameFr": "[1481] Vitamalt ginger bouteille 24*330ml",
     "unit": "1 unit",
-    "price": 0,
+    "price": 17.9,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Vitamalt ginger bouteille 24330ml.jpg"
@@ -9390,7 +9390,7 @@
     "name": "[1521] Ema 24*500g",
     "nameFr": "[1521] Ema 24*500g",
     "unit": "1 unit",
-    "price": 0,
+    "price": 48,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Ema 24500g.png"
@@ -9401,7 +9401,7 @@
     "name": "[1578] Capitaine fumé emballé 5kg",
     "nameFr": "[1578] Capitaine fumé emballé 5kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 145,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/Capitaine fumé emballé 5kg.jpg"
@@ -9412,7 +9412,7 @@
     "name": "[1670] Stockfish Morue sechée 30/50 4kg",
     "nameFr": "[1670] Stockfish Morue sechée 30/50 4kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 125,
     "category": "Fresh Seafood & Fish",
     "categoryFr": "Poissons & Fruits de Mer Frais",
     "image": "/product_images/Stockfish Morue sechée 30-50 4kg.jpg"
@@ -9423,7 +9423,7 @@
     "name": "arachides grillées",
     "nameFr": "arachides grillées",
     "unit": "1 unit",
-    "price": 0,
+    "price": 64.8,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/arachides grillées.jpg"
@@ -9434,7 +9434,7 @@
     "name": "crevisses Entiers - LP African Foods - Carton 20x70g",
     "nameFr": "crevisses Entiers - LP African Foods - Carton 20x70g",
     "unit": "70 g",
-    "price": 0,
+    "price": 42.48,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/crevisses Entiers - LP African Foods - Carton 20x70g.jpg"
@@ -9445,7 +9445,7 @@
     "name": "farine de manioc (Foufou)",
     "nameFr": "farine de manioc (Foufou)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 26.4,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/farine de manioc (Foufou).webp"
@@ -9456,7 +9456,7 @@
     "name": "farine de manioc (kokotè)",
     "nameFr": "farine de manioc (kokotè)",
     "unit": "1 unit",
-    "price": 0,
+    "price": 31.2,
     "category": "Rice & Grains",
     "categoryFr": "Riz & Céréales",
     "image": "/product_images/farine de manioc (kokotè).jpg"
@@ -9467,7 +9467,7 @@
     "name": "gari blanc",
     "nameFr": "gari blanc",
     "unit": "1 unit",
-    "price": 0,
+    "price": 32.4,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/gari blanc.jpg"
@@ -9478,7 +9478,7 @@
     "name": "gari jaune",
     "nameFr": "gari jaune",
     "unit": "1 unit",
-    "price": 0,
+    "price": 33.6,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/gari jaune.png"
@@ -9489,7 +9489,7 @@
     "name": "kalavai 2 kg + 3.5kg",
     "nameFr": "kalavai 2 kg + 3.5kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/kalavai 2 kg + 3.5kg.jpg"
@@ -9500,7 +9500,7 @@
     "name": "karuppu vavwal - srilanka kalavai 2 kg + 3.5kg",
     "nameFr": "karuppu vavwal - srilanka kalavai 2 kg + 3.5kg",
     "unit": "1 unit",
-    "price": 0,
+    "price": 10.5,
     "category": "Grocery",
     "categoryFr": "Épicerie",
     "image": "/product_images/karuppu vavwal - srilanka kalavai 2 kg + 3.5kg.jpeg"

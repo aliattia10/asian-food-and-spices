@@ -83,6 +83,12 @@ function parsePrice(v) {
   return Math.round(n * 100) / 100;
 }
 
+function stripLeadingSkuCode(productName) {
+  // CSV "Product Name" often starts with a SKU like "01094 ..." or "03130 ...".
+  // We keep the rest as the display name.
+  return String(productName || '').replace(/^\s*\d{3,6}\s+/, '').trim();
+}
+
 function inferCategory(name) {
   const n = name.toLowerCase();
   if (
@@ -164,37 +170,80 @@ function extractBrand(name) {
 }
 
 function normalizeKey(s) {
-  return s
+  // Keep unicode letters/digits so non-Latin filenames (e.g. Tamil) can still match.
+  // Also strip diacritics by removing combining marks.
+  return String(s || '')
     .toLowerCase()
     .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/\p{M}/gu, '')
+    .replace(/[^\p{L}\p{N}.]+/gu, '');
+}
+
+function normalizeAsciiKey(s) {
+  // Keep only ASCII letters/digits; helpful for matching mojibake filenames
+  // against CSV names with non-Latin scripts.
+  return String(s || '')
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/\p{M}/gu, '')
     .replace(/[^a-z0-9.]+/g, '');
 }
 
 /** Fix UTF-8 text that was mis-decoded as Latin-1 (common in Windows filenames). */
 function fixMojibakeUtf8(s) {
-  if (!/Ã|Â/.test(s)) return s;
+  // Handle common mis-decoding sequences found in `product_images_v2` filenames
+  // (e.g. "Tha├»lande" should be "Thaïlande", "hu├«tre" -> "huître").
+  const map = {
+    '├»': 'ï',
+    '├«': 'î',
+    '├ó': 'â',
+    '├¿': 'è',
+    '├Ç': 'à',
+    '├ê': 'è',
+    '├ä': 'é',
+    '├ë': 'é',
+    '├®': 'é',
+    '├£': 'ü',
+    '├╗': 'û',
+    '├¡': 'ï',
+    '├│': 'o',
+    '├┤': 'ô',
+  };
+  let out = String(s || '');
+  for (const [k, v] of Object.entries(map)) out = out.split(k).join(v);
+
+  if (!/Ã|Â/.test(out)) return out;
   try {
-    const t = Buffer.from(s, 'latin1').toString('utf8');
+    const t = Buffer.from(out, 'latin1').toString('utf8');
     if (!t.includes('\ufffd') && t.length > 0) return t;
   } catch {
     /* ignore */
   }
-  return s;
+  return out;
 }
 
 function buildImageLookup(imageDir) {
-  const map = new Map();
-  if (!fs.existsSync(imageDir)) return map;
+  const mapNorm = new Map();
+  const mapExactNfc = new Map();
+  const mapExactNfd = new Map();
+  const mapAscii = new Map();
+  if (!fs.existsSync(imageDir)) return { mapNorm, mapExactNfc, mapExactNfd };
   for (const ent of fs.readdirSync(imageDir, { withFileTypes: true })) {
     if (!ent.isFile()) continue;
     const fixed = fixMojibakeUtf8(ent.name);
     for (const variant of new Set([ent.name, fixed])) {
       const key = normalizeKey(variant);
-      if (!map.has(key)) map.set(key, ent.name);
+      if (!mapNorm.has(key)) mapNorm.set(key, ent.name);
+
+      const asciiKey = normalizeAsciiKey(variant);
+      if (asciiKey && !mapAscii.has(asciiKey)) mapAscii.set(asciiKey, ent.name);
     }
+    const nfc = ent.name.normalize('NFC');
+    const nfd = ent.name.normalize('NFD');
+    if (!mapExactNfc.has(nfc)) mapExactNfc.set(nfc, ent.name);
+    if (!mapExactNfd.has(nfd)) mapExactNfd.set(nfd, ent.name);
   }
-  return map;
+  return { mapNorm, mapExactNfc, mapExactNfd, mapAscii };
 }
 
 function resolveSourceFile(imageDir, lookup, filename) {
@@ -202,9 +251,44 @@ function resolveSourceFile(imageDir, lookup, filename) {
   if (fs.existsSync(direct)) return direct;
   const variants = new Set([filename, fixMojibakeUtf8(filename)]);
   for (const v of variants) {
+    const nfc = v.normalize('NFC');
+    const nfd = v.normalize('NFD');
+    const foundExact = lookup.mapExactNfc.get(nfc) || lookup.mapExactNfd.get(nfd);
+    if (foundExact) return path.join(imageDir, foundExact);
+  }
+  for (const v of variants) {
     const key = normalizeKey(v);
-    const found = lookup.get(key);
+    const found = lookup.mapNorm.get(key);
     if (found) return path.join(imageDir, found);
+  }
+  // Last resort: match based on ASCII-only key.
+  for (const v of variants) {
+    const asciiKey = normalizeAsciiKey(v);
+    if (!asciiKey) continue;
+    const found = lookup.mapAscii?.get(asciiKey);
+    if (found) return path.join(imageDir, found);
+  }
+
+  // Very last resort: token match using ASCII-only words (handles cases where
+  // the non-Latin part is mojibake and can't be reliably normalized).
+  const candidates = fs.existsSync(imageDir)
+    ? fs.readdirSync(imageDir, { withFileTypes: true }).filter((e) => e.isFile()).map((e) => e.name)
+    : [];
+  if (candidates.length) {
+    const extToken = path.extname(filename).slice(1).toLowerCase();
+    for (const v of variants) {
+      const words = (v.match(/[A-Za-z0-9]+/g) || []).map((w) => w.toLowerCase()).filter(Boolean);
+      if (words.length < 2) continue;
+      const prefix = words[0];
+      const suffix = words[words.length - 1] === extToken ? words[words.length - 2] : words[words.length - 1];
+      if (!prefix || !suffix) continue;
+      for (const cand of candidates) {
+        const candWords = (cand.match(/[A-Za-z0-9]+/g) || []).map((w) => w.toLowerCase());
+        if (candWords.includes(prefix) && candWords.includes(suffix)) {
+          return path.join(imageDir, cand);
+        }
+      }
+    }
   }
   return null;
 }
@@ -265,14 +349,19 @@ function main() {
   for (let r = 1; r < table.length; r++) {
     const line = table[r];
     if (line.length < 2) continue;
-    const productName = (line[idx.name] || '').trim();
+    const rawProductName = (line[idx.name] || '').trim();
+    const productName = stripLeadingSkuCode(rawProductName);
     const imageFilename = (line[idx.image] || '').trim();
     if (!productName || !imageFilename) continue;
 
     const notes = idx.notes >= 0 ? (line[idx.notes] || '').trim() : '';
+    // Priority:
+    // 1) Retail price (shelf price)
+    // 2) Pro price (if retail is missing)
+    // 3) Purchase price (if only purchase is present in the CSV)
     let price = idx.retail >= 0 ? parsePrice(line[idx.retail]) : 0;
     if (price <= 0 && idx.pro >= 0) price = parsePrice(line[idx.pro]);
-    // Do not use purchase price as customer-facing shelf price
+    if (price <= 0 && idx.purchase >= 0) price = parsePrice(line[idx.purchase]);
 
     const [category, categoryFr] = inferCategory(productName);
     const unit = guessUnit(productName, notes);
