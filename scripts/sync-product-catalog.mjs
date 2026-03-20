@@ -160,6 +160,43 @@ function guessUnit(productName, notes) {
   return '1 unit';
 }
 
+function parseMoneyFromNotes(notes) {
+  const s = String(notes || '');
+  const n = (s || '').match(/([0-9]+(?:[.,][0-9]+)?)/);
+  if (!n) return null;
+  const v = parseFloat(n[1].replace(',', '.'));
+  if (Number.isNaN(v)) return null;
+  return Math.round(v * 100) / 100;
+}
+
+function extractPerUnitPriceFromNotes(unit, notes) {
+  if (!notes) return null;
+  const text = String(notes).toLowerCase();
+
+  // Most important case: price per kilo.
+  if (unit === 'per kg') {
+    // "Price unitaire: 1.53 CHF/kg"
+    let m = text.match(/prix unitaire[^0-9]*([0-9]+(?:[.,][0-9]+)?)\s*chf\s*\/\s*kg/i);
+    if (!m) m = text.match(/price per unit[^0-9]*([0-9]+(?:[.,][0-9]+)?)\s*\/\s*kilo/i);
+    if (!m) m = text.match(/pa\/uv[^0-9]*le[^0-9]*([0-9]+(?:[.,][0-9]+)?)\s*kilo/i);
+    if (!m) m = text.match(/unit price[^0-9]*([0-9]+(?:[.,][0-9]+)?)\s*kilo/i);
+    if (m) {
+      const v = parseFloat(m[1].replace(',', '.'));
+      if (!Number.isNaN(v)) return Math.round(v * 100) / 100;
+    }
+  }
+
+  return null;
+}
+
+function canonicalDisplayName(name) {
+  // Many CSV names end with origin after the last comma.
+  // For dedupe we keep the part before the first comma.
+  const s = String(name || '').trim();
+  const idx = s.indexOf(',');
+  return (idx >= 0 ? s.slice(0, idx) : s).trim();
+}
+
 function extractBrand(name) {
   const m = name.match(/,\s*([A-Z0-9][A-Za-z0-9\s&.-]{1,40})$/);
   if (m) {
@@ -342,7 +379,8 @@ function main() {
   fs.mkdirSync(publicDir, { recursive: true });
 
   const lookup = buildImageLookup(imageDir);
-  const rows = [];
+  const rowsByKey = new Map(); // dedupe key -> row
+  let rows = [];
   let copied = 0;
   let missing = 0;
 
@@ -365,6 +403,13 @@ function main() {
 
     const [category, categoryFr] = inferCategory(productName);
     const unit = guessUnit(productName, notes);
+    // If the UI will display "per kg", prefer extracting the per-kg number from notes
+    // (CSV also contains carton/total prices which are not per-kg).
+    if (unit === 'per kg') {
+      const perKg = extractPerUnitPriceFromNotes(unit, notes);
+      if (perKg != null && perKg > 0) price = perKg;
+    }
+
     const brand = extractBrand(productName);
 
     const src = resolveSourceFile(imageDir, lookup, imageFilename);
@@ -382,7 +427,9 @@ function main() {
       missing++;
     }
 
-    rows.push({
+    const key = `${canonicalDisplayName(productName)}|${unit}`;
+    const candidate = {
+      // Temporary; we will re-number after dedupe.
       id: `csv-${r - 1}`,
       imageFilename,
       name: productName,
@@ -393,8 +440,31 @@ function main() {
       categoryFr,
       image: `/product_images/${imageFilename}`,
       ...(brand ? { brand } : {}),
-    });
+    };
+
+    // Deduplicate: keep the best (usually the per-kg/unit number, i.e. smallest sensible price).
+    if (!rowsByKey.has(key)) {
+      rowsByKey.set(key, candidate);
+    } else {
+      const existing = rowsByKey.get(key);
+      const candidatePer = String(candidate.unit || '').startsWith('per ');
+      const existingPer = String(existing.unit || '').startsWith('per ');
+
+      // If either is "per ...", keep the one with the smaller sensible price.
+      if (candidatePer || existingPer) {
+        if (candidate.price > 0 && (existing.price <= 0 || candidate.price < existing.price)) {
+          rowsByKey.set(key, candidate);
+        }
+      } else {
+        // Otherwise keep the latest candidate (covers different pack sizes).
+        rowsByKey.set(key, candidate);
+      }
+    }
   }
+
+  rows = Array.from(rowsByKey.values());
+  // Re-number ids to keep routes stable-ish for deduped rows.
+  rows = rows.map((row, i) => ({ ...row, id: `csv-${i}` }));
 
   const outPath = path.join(ROOT, 'src', 'data', 'csv-catalog.json');
   fs.writeFileSync(outPath, JSON.stringify(rows, null, 2), 'utf8');
