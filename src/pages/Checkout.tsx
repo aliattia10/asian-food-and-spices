@@ -7,13 +7,17 @@ import { Label } from '@/components/ui/label';
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { useCart } from '@/contexts/CartContext';
+import { useBusinessAuth } from '@/contexts/BusinessAuthContext';
 import { toast } from '@/hooks/use-toast';
 import { ArrowLeft, Truck, Store, Check } from 'lucide-react';
 
 const Checkout = () => {
   const { t, language } = useLanguage();
   const { items, getTotal, clearCart } = useCart();
+  const { customerType, minimumRetailOrderChf, isBusinessAuthenticated, businessProfile } = useBusinessAuth();
   const navigate = useNavigate();
+  const subtotal = getTotal();
+  const retailMinMissing = customerType === 'retail' && subtotal < minimumRetailOrderChf;
   
   const [formData, setFormData] = useState({
     firstName: '',
@@ -35,6 +39,16 @@ const Checkout = () => {
   
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    if (retailMinMissing) {
+      toast({
+        title: language === 'fr' ? 'Montant minimum requis' : 'Minimum order required',
+        description:
+          language === 'fr'
+            ? `La commande minimum pour les particuliers est de CHF ${minimumRetailOrderChf.toFixed(2)}.`
+            : `Minimum order for retail customers is CHF ${minimumRetailOrderChf.toFixed(2)}.`,
+      });
+      return;
+    }
     setIsSubmitting(true);
     
     // Simulate order processing
@@ -111,6 +125,13 @@ const Checkout = () => {
                 <h2 className="font-display text-xl font-bold mb-6">
                   {t('customerInfo')}
                 </h2>
+                {isBusinessAuthenticated && businessProfile && (
+                  <p className="text-sm text-muted-foreground mb-4">
+                    {language === 'fr'
+                      ? `Compte pro: ${businessProfile.businessName} (${businessProfile.swissBusinessNumber})`
+                      : `Business account: ${businessProfile.businessName} (${businessProfile.swissBusinessNumber})`}
+                  </p>
+                )}
                 
                 <div className="grid sm:grid-cols-2 gap-4">
                   <div>
@@ -261,14 +282,21 @@ const Checkout = () => {
                 <div className="border-t border-border pt-4 mb-6">
                   <div className="flex justify-between font-bold text-lg">
                     <span>{t('subtotal')}</span>
-                    <span>CHF {getTotal().toFixed(2)}</span>
+                    <span>CHF {subtotal.toFixed(2)}</span>
                   </div>
                 </div>
+                {retailMinMissing && (
+                  <p className="text-xs text-amber-600 mb-4">
+                    {language === 'fr'
+                      ? `Commande minimum particuliers: CHF ${minimumRetailOrderChf.toFixed(2)}`
+                      : `Retail minimum order: CHF ${minimumRetailOrderChf.toFixed(2)}`}
+                  </p>
+                )}
                 
                 <Button 
                   type="submit" 
                   className="w-full"
-                  disabled={isSubmitting}
+                  disabled={isSubmitting || retailMinMissing}
                 >
                   {isSubmitting ? t('processing') : t('placeOrder')}
                 </Button>

@@ -3,6 +3,7 @@ import { ShoppingCart, Menu } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { useCart } from '@/contexts/CartContext';
+import { useBusinessAuth } from '@/contexts/BusinessAuthContext';
 import { useState } from 'react';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
 import logo from '@/assets/logo.jpeg';
@@ -10,11 +11,13 @@ import logo from '@/assets/logo.jpeg';
 const Header = () => {
   const { language, setLanguage, t } = useLanguage();
   const { getItemCount } = useCart();
+  const { customerType } = useBusinessAuth();
   const [isOpen, setIsOpen] = useState(false);
   
   const navLinks = [
     { to: '/', label: t('home') },
     { to: '/shop', label: t('shop') },
+    { to: '/business-portal', label: language === 'fr' ? 'Portail Pro' : 'Business Portal' },
     { to: '/contact', label: t('contact') },
   ];
   
@@ -42,6 +45,15 @@ const Header = () => {
           
           {/* Right Side */}
           <div className="flex items-center gap-2 md:gap-4">
+            <span className="hidden lg:inline text-xs px-2 py-1 rounded-full bg-muted text-muted-foreground">
+              {customerType === 'business'
+                ? language === 'fr'
+                  ? 'Mode pro'
+                  : 'Business mode'
+                : language === 'fr'
+                  ? 'Mode particulier'
+                  : 'Retail mode'}
+            </span>
             {/* Language Toggle */}
             <div className="flex items-center bg-muted rounded-full p-1">
               <button

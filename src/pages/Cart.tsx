@@ -3,12 +3,16 @@ import Layout from '@/components/Layout';
 import { Button } from '@/components/ui/button';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { useCart } from '@/contexts/CartContext';
+import { useBusinessAuth } from '@/contexts/BusinessAuthContext';
 import { productImageUrl } from '@/lib/productImageUrl';
 import { Minus, Plus, Trash2, ShoppingBag, ArrowRight } from 'lucide-react';
 
 const Cart = () => {
   const { t, language } = useLanguage();
   const { items, updateQuantity, removeFromCart, getTotal } = useCart();
+  const { customerType, minimumRetailOrderChf } = useBusinessAuth();
+  const subtotal = getTotal();
+  const retailMinMissing = customerType === 'retail' && subtotal < minimumRetailOrderChf;
   
   if (items.length === 0) {
     return (
@@ -127,16 +131,31 @@ const Cart = () => {
               <div className="border-t border-border pt-4 mb-6">
                 <div className="flex justify-between font-bold text-lg">
                   <span>{t('subtotal')}</span>
-                  <span>CHF {getTotal().toFixed(2)}</span>
+                  <span>CHF {subtotal.toFixed(2)}</span>
                 </div>
               </div>
+
+              {retailMinMissing && (
+                <p className="text-xs text-amber-600 mb-4">
+                  {language === 'fr'
+                    ? `Commande minimum particuliers: CHF ${minimumRetailOrderChf.toFixed(2)}`
+                    : `Retail minimum order: CHF ${minimumRetailOrderChf.toFixed(2)}`}
+                </p>
+              )}
               
-              <Button asChild className="w-full gap-2">
-                <Link to="/checkout">
+              {retailMinMissing ? (
+                <Button className="w-full gap-2" disabled>
                   {t('checkout')}
                   <ArrowRight className="h-4 w-4" />
-                </Link>
-              </Button>
+                </Button>
+              ) : (
+                <Button asChild className="w-full gap-2">
+                  <Link to="/checkout">
+                    {t('checkout')}
+                    <ArrowRight className="h-4 w-4" />
+                  </Link>
+                </Button>
+              )}
               
               <Link 
                 to="/shop"
