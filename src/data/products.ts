@@ -1,5 +1,6 @@
 import type { UnitOfMeasure } from '@/lib/parseProductUnit';
 import { parseUnitString } from '@/lib/parseProductUnit';
+import { parseCsvProductName, parseLegacyProductName } from '@/lib/parseProductName';
 import { legacyProductsRaw, type LegacyProductRow } from '@/data/legacy-products';
 import csvCatalog from '@/data/csv-catalog.json';
 
@@ -7,6 +8,9 @@ export interface Product {
   id: string;
   name: string;
   nameFr: string;
+  /** Short display name (product only, no brand/size/country). */
+  shortName: string;
+  shortNameFr: string;
   /** Display string for quantity/unit (e.g. "5 kg", "per kg"). Kept for backward compatibility. */
   unit: string;
   /** Numeric quantity when applicable (e.g. 5 for "5 kg", 425 for "425 g"). */
@@ -22,25 +26,56 @@ export interface Product {
   categoryFr: string;
   image: string;
   brand?: string;
+  /** Box/case quantity for wholesale (e.g. 12 in "12x300g"). null for non-box items. */
+  boxQuantity?: number | null;
+  /** Per-unit size in a box (e.g. "300g" in "12x300g"). */
+  boxUnitSize?: string | null;
 }
 
-type ProductRaw = Omit<Product, 'quantity' | 'unit_of_measure' | 'size_variant' | 'is_per_unit'>;
+type ProductRaw = Omit<Product, 'quantity' | 'unit_of_measure' | 'size_variant' | 'is_per_unit' | 'shortName' | 'shortNameFr' | 'boxQuantity' | 'boxUnitSize'>;
 
 export interface CsvCatalogRow extends LegacyProductRow {
   imageFilename: string;
 }
 
-/** Enriches products with quantity, unit_of_measure, size_variant from the unit string. */
+const COUNTRY_BRAND_FILTER = new Set([
+  'thaïlande', 'thailand', 'chine', 'china', 'japon', 'japan',
+  'italie', 'italy', 'vietnam', 'inde', 'india', 'corée', 'korea',
+  'indonésie', 'indonesia', 'philippines', 'malaisie', 'malaysia',
+  'taiwan', 'taïwan', 'sri lanka', 'pakistan', 'bangladesh', 'superfino',
+]);
+
+function cleanBrand(brand: string | undefined): string | undefined {
+  if (!brand) return undefined;
+  if (COUNTRY_BRAND_FILTER.has(brand.toLowerCase().trim())) return undefined;
+  return brand;
+}
+
+/** Enriches products with quantity, unit_of_measure, size_variant from the unit string + parsed names. */
 function withParsedUnits(items: ProductRaw[]): Product[] {
   return items.map((item) => {
     const parsed = parseUnitString(item.unit);
+    const sanitizedBrand = cleanBrand(item.brand);
+    const isCsv = item.id.startsWith('csv-');
+    const parsedNameEn = isCsv
+      ? parseCsvProductName(item.name, sanitizedBrand)
+      : parseLegacyProductName(item.name, sanitizedBrand);
+    const parsedNameFr = isCsv
+      ? parseCsvProductName(item.nameFr, sanitizedBrand)
+      : parseLegacyProductName(item.nameFr, sanitizedBrand);
+
     return {
       ...item,
+      shortName: parsedNameEn.shortName,
+      shortNameFr: parsedNameFr.shortName,
       quantity: parsed.quantity,
       unit_of_measure: parsed.unit_of_measure,
       size_variant: parsed.size_variant ?? undefined,
       is_per_unit: parsed.is_per_unit,
       unit: parsed.display,
+      brand: sanitizedBrand || cleanBrand(parsedNameEn.brand) || undefined,
+      boxQuantity: parsedNameEn.boxQuantity ?? parsedNameFr.boxQuantity ?? undefined,
+      boxUnitSize: parsedNameEn.boxUnitSize ?? parsedNameFr.boxUnitSize ?? undefined,
     };
   });
 }

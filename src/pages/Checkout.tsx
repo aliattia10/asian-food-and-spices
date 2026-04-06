@@ -301,16 +301,23 @@ const Checkout = () => {
                 </h2>
                 
                 <div className="space-y-3 mb-6 max-h-64 overflow-y-auto">
-                  {items.map((item) => (
+                  {items.map((item) => {
+                    const perKilo = item.product.is_per_unit && item.product.unit_of_measure === 'kg';
+                    const grams = Math.round(item.quantity * 1000);
+                    const qtyLabel = perKilo
+                      ? (grams >= 1000 && grams % 1000 === 0 ? `${grams/1000} kg` : `${grams} g`)
+                      : `${item.quantity}×`;
+                    return (
                     <div key={item.product.id} className="flex justify-between text-sm">
                       <span className="text-muted-foreground truncate pr-2">
-                        {item.quantity}× {language === 'fr' ? item.product.nameFr : item.product.name} ({item.product.unit})
+                        {qtyLabel} {language === 'fr' ? item.product.shortNameFr : item.product.shortName} ({item.product.unit})
                       </span>
                       <span className="shrink-0">
                         CHF {(item.product.price * item.quantity).toFixed(2)}
                       </span>
                     </div>
-                  ))}
+                    );
+                  })}
                 </div>
                 
                 <div className="border-t border-border pt-4 mb-6">

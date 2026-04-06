@@ -5,6 +5,13 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { randomUUID } from 'node:crypto';
 import { appendOrder } from './orders-store.mjs';
+import {
+  registerBusiness,
+  loginBusiness,
+  getBusinessAccount,
+  verifyBusiness,
+  listBusinessAccounts,
+} from './business-store.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -117,7 +124,9 @@ export function createApp() {
         return res.status(404).json({ error: 'Unknown product' });
       }
       const cmap = carts.get(cartId);
-      const q = Math.floor(quantity);
+      const product = map.get(productId);
+      const isPerKilo = product.is_per_unit && product.unit_of_measure === 'kg';
+      const q = isPerKilo ? Math.round(quantity * 1000) / 1000 : Math.floor(quantity);
       if (q <= 0) cmap.delete(productId);
       else cmap.set(productId, q);
       res.json(buildCartResponse(cartId));
@@ -175,6 +184,67 @@ export function createApp() {
     } catch (e) {
       res.status(503).json({ error: String(e?.message || e) });
     }
+  });
+
+  // ===== Business account endpoints =====
+
+  app.post('/api/business/register', (req, res) => {
+    const { businessName, businessIdentification, swissBusinessNumber, country, email, password } =
+      req.body || {};
+    if (!businessName || !swissBusinessNumber || !email || !password) {
+      return res.status(400).json({ error: 'Missing required fields' });
+    }
+    const result = registerBusiness({
+      businessName,
+      businessIdentification: businessIdentification || '',
+      swissBusinessNumber,
+      country: country || 'Switzerland',
+      email,
+      password,
+    });
+    if (result.error === 'already_exists') {
+      return res.status(409).json({ error: 'already_exists' });
+    }
+    res.json({ status: result.account.status });
+  });
+
+  app.post('/api/business/login', (req, res) => {
+    const { email, password } = req.body || {};
+    if (!email || !password) {
+      return res.status(400).json({ error: 'Missing credentials' });
+    }
+    const account = getBusinessAccount(email);
+    if (!account) {
+      return res.status(404).json({ error: 'not_found' });
+    }
+    if (account.password !== password) {
+      return res.status(401).json({ error: 'invalid_password' });
+    }
+    if (account.status === 'pending') {
+      return res.status(403).json({ error: 'pending_verification', status: 'pending' });
+    }
+    if (account.status === 'rejected') {
+      return res.status(403).json({ error: 'rejected', status: 'rejected' });
+    }
+    const { password: _pw, ...safeAccount } = account;
+    res.json({ account: safeAccount });
+  });
+
+  app.get('/api/business/accounts', (_req, res) => {
+    const all = listBusinessAccounts();
+    const list = Object.values(all).map(({ password: _pw, ...rest }) => rest);
+    res.json(list);
+  });
+
+  app.post('/api/business/verify', (req, res) => {
+    const { email, approve } = req.body || {};
+    if (!email || typeof approve !== 'boolean') {
+      return res.status(400).json({ error: 'Invalid body' });
+    }
+    const result = verifyBusiness(email, approve);
+    if (result.error) return res.status(404).json({ error: result.error });
+    const { password: _pw, ...safe } = result.account;
+    res.json({ account: safe });
   });
 
   app.post('/api/orders', (req, res) => {

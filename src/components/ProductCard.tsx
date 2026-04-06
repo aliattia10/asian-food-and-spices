@@ -66,9 +66,12 @@ const ProductCard = ({ product }: ProductCardProps) => {
           <p className="text-xs text-muted-foreground mb-1">
             {language === 'fr' ? product.categoryFr : product.category}
           </p>
-          <h3 className="font-medium text-sm md:text-base line-clamp-2 min-h-[2.5rem] mb-2">
-            {language === 'fr' ? product.nameFr : product.name}
+          <h3 className="font-medium text-sm md:text-base line-clamp-2 min-h-[2.5rem] mb-1">
+            {language === 'fr' ? product.shortNameFr : product.shortName}
           </h3>
+          {product.brand && (
+            <p className="text-xs text-muted-foreground mb-2">{product.brand}</p>
+          )}
           <div className="flex items-center justify-between">
             <span className="font-bold text-primary text-lg">
               CHF {product.price.toFixed(2)}
